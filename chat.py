@@ -6,6 +6,8 @@ from langchain.llms import CTransformers
 from langchain.memory import ConversationBufferMemory
 from langchain.chains import ConversationalRetrievalChain
 import sys
+from langchain.chains import RetrievalQA
+from langchain.llms import LlamaCpp
 
 DB_FAISS_PATH = "vectorstore/db_faiss"
 
@@ -15,28 +17,44 @@ embeddings = HuggingFaceEmbeddings(
 
 new_db = FAISS.load_local(DB_FAISS_PATH, embeddings)
 
-# query = "What is the value of GDP per capita of Finland provided in the data?"
+#query = "qual a capital do brasil?"
+#docs = new_db.as_retriever(search_type="mmr",
+#    search_kwargs={'k': 1, 'fetch_k': 50})
+#print("Result", docs)
 
-# docs = docsearch.similarity_search(query, k=3)
+n_gpu_layers = 40
+n_batch = 512
 
-# print("Result", docs)
-
-llm = CTransformers(model="models/llama-2-7b-chat.Q5_K_S.gguf",
-                    model_type="llama",
-                    max_new_tokens=512,
-                    temperature=0.1)
+llm = LlamaCpp(
+    model_path="models/llama-2-7b-chat.Q5_K_S.gguf",
+    temperature=0.75,
+    n_gpu_layers=n_gpu_layers,
+    n_batch=n_batch,
+    top_p=1,
+    verbose=True,  # Verbose is required to pass to the callback manager
+    n_ctx=4096
+)
 
 qa = ConversationalRetrievalChain.from_llm(
-    llm, retriever=new_db.as_retriever())
+    llm, retriever = new_db.as_retriever(search_kwargs={'k': 1}))
 
 while True:
     chat_history = []
-    # query = "What is the value of  GDP per capita of Finland provided in the data?"
+    #query = "What is the value of  GDP per capita of Finland provided in the data?"
     query = input(f"Input Prompt: ")
     if query == 'exit':
+  
         print('Exiting')
         sys.exit()
     if query == '':
         continue
     result = qa({"question": query, "chat_history": chat_history})
     print("Response: ", result['answer'])
+#retriever = new_db.as_retriever(search_type="similarity_score_threshold",
+    #search_kwargs={'score_threshold': 0.8})
+
+#qa = RetrievalQA.from_chain_type(
+    #llm=llm, chain_type="map_reduce", retriever=retriever, return_source_documents=True)
+#query = "quantos estados tem no brasil?"
+#result = qa({"query": query})
+#print(f"Response: ", result['answer'])

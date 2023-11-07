@@ -16,7 +16,7 @@ data = loader.load()
 
 # Split the text into Chunks
 text_splitter = RecursiveCharacterTextSplitter(
-    chunk_size=500, chunk_overlap=20)
+    chunk_size=10000, chunk_overlap=20)
 text_chunks = text_splitter.split_documents(data)
 
 print(len(text_chunks))
