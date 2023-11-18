@@ -17,13 +17,8 @@ embeddings = HuggingFaceEmbeddings(
 
 new_db = FAISS.load_local(DB_FAISS_PATH, embeddings)
 
-#query = "qual a capital do brasil?"
-#docs = new_db.as_retriever(search_type="mmr",
-#    search_kwargs={'k': 1, 'fetch_k': 50})
-#print("Result", docs)
-
-n_gpu_layers = 40
-n_batch = 512
+n_gpu_layers = 80
+n_batch = 1024
 
 llm = LlamaCpp(
     model_path="models/llama-2-7b-chat.Q5_K_S.gguf",
@@ -36,25 +31,16 @@ llm = LlamaCpp(
 )
 
 qa = ConversationalRetrievalChain.from_llm(
-    llm, retriever = new_db.as_retriever(search_kwargs={'k': 1}))
+    llm, retriever=new_db.as_retriever(search_kwargs={'k': 1}))
 
 while True:
     chat_history = []
-    #query = "What is the value of  GDP per capita of Finland provided in the data?"
     query = input(f"Input Prompt: ")
     if query == 'exit':
-  
+
         print('Exiting')
         sys.exit()
     if query == '':
         continue
     result = qa({"question": query, "chat_history": chat_history})
     print("Response: ", result['answer'])
-#retriever = new_db.as_retriever(search_type="similarity_score_threshold",
-    #search_kwargs={'score_threshold': 0.8})
-
-#qa = RetrievalQA.from_chain_type(
-    #llm=llm, chain_type="map_reduce", retriever=retriever, return_source_documents=True)
-#query = "quantos estados tem no brasil?"
-#result = qa({"query": query})
-#print(f"Response: ", result['answer'])
