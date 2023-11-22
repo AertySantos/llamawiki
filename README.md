@@ -12,7 +12,7 @@ Aerty Santos, Eduardo Oliveira.
 - [Description](#description)
 - [Llama2](#Llama2)
 - [Fine-tuning](#Fine-tuning)
-- [Fine-tuning Vs RAG](#Fine-tuning Vs RAG)
+- [Fine-tuning Vs RAG](#Fine-tuningVsRAG)
 - [Pré-requisitos](#Pré-requisitos)
 - [Testes](#Testes)
 ## Description
