@@ -36,6 +36,16 @@ O ajuste fino de instruções é uma prática frequente empregada para adaptar u
   { "text": "Abaixo está uma instrução ... ### Instruction: Analise o... ### Input: Eu amo... ### Response: amigável" },<br>
   { "text": "Abaixo está uma instrução ... ### Instruction: ..." }
 
+Para a fase de refinamento, utilizaremos algumas bibliotecas específicas da Hugging Face (HF):
+
+[transformers](https://huggingface.co/docs/transformers/index)
+[peft](https://huggingface.co/docs/peft/index)
+[trl](https://huggingface.co/docs/trl/index)
+
+O PEFT (Ajuste Fino Eficiente de Parâmetros) é uma ferramenta que permite ajustar os Modelos de Linguagem de forma eficaz, sem a necessidade de alterar todos os parâmetros do modelo. Esta ferramenta suporta o método QLoRa, possibilitando o ajuste de uma pequena porção dos parâmetros do modelo com quantização de 4 bits.
+
+Por outro lado, o TRL (Transformador de Aprendizado por Reforço) é uma biblioteca utilizada para treinar modelos de linguagem utilizando o paradigma de aprendizado por reforço. Sua API de Treinamento para Ajuste Fino Supervisionado (SFT) facilita a criação de modelos personalizados e seu treinamento com conjuntos de dados customizados
+
 ## RAG
 
 ## Fine-tuning Vs RAG
