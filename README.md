@@ -47,7 +47,10 @@ O PEFT (Ajuste Fino Eficiente de Parâmetros) é uma ferramenta que permite ajus
 Por outro lado, o TRL (Transformador de Aprendizado por Reforço) é uma biblioteca utilizada para treinar modelos de linguagem utilizando o paradigma de aprendizado por reforço. Sua API de Treinamento para Ajuste Fino Supervisionado (SFT) facilita a criação de modelos personalizados e seu treinamento com conjuntos de dados customizados
 
 ## RAG
-Os Modelos de Linguagem de Aprendizado (LLMs) são treinados com milhões de parâmetros, tornando fundamental a avaliação das respostas geradas. A Geração Aumentada de Recuperação (RAG) é uma abordagem que melhora a qualidade das conclusões do LLM, utilizando fontes externas de conhecimento durante o processo. Este repositório explora como a RAG pode aprimorar a representação e a confiabilidade das respostas do LLM.
+Ao considerar a importância da avaliação das respostas geradas pelos Modelos de Linguagem de Aprendizado (LLMs), percebemos que são treinados com milhões de parâmetros, exigindo uma análise criteriosa para garantir a qualidade das conclusões. Nesse contexto, a Geração Aumentada de Recuperação (RAG) surge como uma abordagem que busca melhorar a qualidade das respostas do LLM, incorporando fontes externas de conhecimento. Este repositório explora como a RAG pode aprimorar a representação e a confiabilidade das respostas do LLM, considerando a sua estrutura e a integração de recursos externos durante o processo de geração.
+
+Por meio do Langchain, um framework reconhecido por simplificar a criação eficiente de aplicativos baseados em Modelos de Linguagem (LLM) e sistemas conversacionais, será viabilizado o carregamento do XML da Wikipedia em português. Dessa forma, entender a estrutura do Langchain torna-se crucial para adotar uma abordagem unificada na criação e implementação padronizada de LLMs em diferentes aplicativos. Destaca-se a colaboração do Langchain com o Hugging Face - uma plataforma no GitHub que disponibiliza mais de 120 mil modelos - proporcionando um potencial significativo para o desenvolvimento de LLMs adaptáveis a uma ampla variedade de casos de uso, ampliando sua aplicabilidade e eficácia.
+
 ## Fine-tuning Vs RAG
 
 ## Pré-requisitos
