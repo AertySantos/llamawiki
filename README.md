@@ -47,7 +47,7 @@ O PEFT (Ajuste Fino Eficiente de Parâmetros) é uma ferramenta que permite ajus
 Por outro lado, o TRL (Transformador de Aprendizado por Reforço) é uma biblioteca utilizada para treinar modelos de linguagem utilizando o paradigma de aprendizado por reforço. Sua API de Treinamento para Ajuste Fino Supervisionado (SFT) facilita a criação de modelos personalizados e seu treinamento com conjuntos de dados customizados
 
 ## RAG
-
+Os Modelos de Linguagem de Aprendizado (LLMs) são treinados com milhões de parâmetros, tornando fundamental a avaliação das respostas geradas. A Geração Aumentada de Recuperação (RAG) é uma abordagem que melhora a qualidade das conclusões do LLM, utilizando fontes externas de conhecimento durante o processo. Este repositório explora como a RAG pode aprimorar a representação e a confiabilidade das respostas do LLM.
 ## Fine-tuning Vs RAG
 
 ## Pré-requisitos
