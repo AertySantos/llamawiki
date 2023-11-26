@@ -52,6 +52,9 @@ Ao considerar a importância da avaliação das respostas geradas pelos Modelos 
 Por meio do Langchain, um framework reconhecido por simplificar a criação eficiente de aplicativos baseados em Modelos de Linguagem (LLM) e sistemas conversacionais, será viabilizado o carregamento do XML da Wikipedia em português. Dessa forma, entender a estrutura do Langchain torna-se crucial para adotar uma abordagem unificada na criação e implementação padronizada de LLMs em diferentes aplicativos. Destaca-se a colaboração do Langchain com o Hugging Face - uma plataforma no GitHub que disponibiliza mais de 120 mil modelos - proporcionando um potencial significativo para o desenvolvimento de LLMs adaptáveis a uma ampla variedade de casos de uso, ampliando sua aplicabilidade e eficácia.
 
 ## Fine-tuning Vs RAG
+A utilização de Modelos de Linguagem de Ajuste Fino (LLMs) resulta em sistemas adaptáveis capazes de lidar com uma vasta gama de tarefas em Processamento de Linguagem Natural (PNL). Estes modelos ajustados são especialmente eficazes em atividades como classificação de texto, análise de sentimento, geração de texto, e outras, centradas na compreensão e produção de texto a partir de entradas variadas.
+
+Por outro lado, os modelos de Geração Aumentada de Recuperação (RAG) destacam-se em cenários onde a tarefa demanda o acesso a fontes externas de conhecimento. Esses modelos são especialmente relevantes para responder a perguntas em domínios abertos, resumir documentos extensos ou mesmo em chatbots capazes de oferecer informações provenientes de bases de conhecimento.
 
 ## Pré-requisitos
 
