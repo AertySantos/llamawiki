@@ -31,6 +31,8 @@ O ajuste fino de instruções é uma prática frequente empregada para adaptar u
   \#\#\# Response:
   amigável e construtivo
 
+  Contudo, ao criar um grupo de dados de treinamento adequado para ser facilmente utilizado com bibliotecas HF (Hugging Face), é aconselhável optar pelo formato JSONL. Uma estratégia direta para realizar essa tarefa é gerar um objeto JSON em cada linha, contendo apenas um campo de texto para cada exemplo. Um exemplo dessa estrutura seria algo similar a:
+
 ## RAG
 
 ## Fine-tuning Vs RAG
