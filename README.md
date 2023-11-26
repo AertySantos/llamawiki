@@ -66,10 +66,10 @@ Já os modelos de Geração Aumentada de Recuperação (RAG) são treinados para
 
 ### Testes
 Qual a capital do Brasil?
-- Llama2-13b
+- Llama2-13b : <br>
 A capital do Brasil é Brasília, localizada no Distrito Federal.
-- Llama2-13b RAG
+- Llama2-13b RAG : <br>
 The capital of Brazil is Brasília.
-- Llama2-13b fine tuning
+- Llama2-13b fine tuning : <br>
 A capital do Brasil é Brasília, localizada no Distrito Federal, no centro-oeste do país.
 
