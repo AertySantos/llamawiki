@@ -57,6 +57,7 @@ A utilização de Modelos de Linguagem de Ajuste Fino (LLMs) resulta em sistemas
 Por outro lado, os modelos de Geração Aumentada de Recuperação (RAG) destacam-se em cenários onde a tarefa demanda o acesso a fontes externas de conhecimento. Esses modelos são especialmente relevantes para responder a perguntas em domínios abertos, resumir documentos extensos ou mesmo em chatbots capazes de oferecer informações provenientes de bases de conhecimento.
 
 Sobre os Dados de Treinamento:
+
 Os dados de treinamento para Modelos de Linguagem de Ajuste Fino (LLMs) são específicos da tarefa em questão, geralmente constituídos por exemplos rotulados correspondentes à tarefa almejada. No entanto, estes conjuntos de dados não incorporam diretamente mecanismos explícitos de recuperação.
 
 Já os modelos de Geração Aumentada de Recuperação (RAG) são treinados para operações combinadas de recuperação e geração, normalmente utilizando uma mistura de dados supervisionados (para geração de conteúdo) e dados que demonstram como recuperar e efetivamente utilizar informações externas.
