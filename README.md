@@ -23,13 +23,13 @@ A versão Llama 2 apresenta uma gama de Modelos de Linguagem de Grande Porte (LL
 O ajuste fino de instruções é uma prática frequente empregada para adaptar um LLM básico a um cenário de utilização específico. Os exemplos de treinamento costumam apresentar-se da seguinte maneira:
   
   \#\#\# Instruction:
-  Analyze the following comment and classify the tone as...
+ Analise o comentário a seguir e classifique o tom como...
   
-  ### Input:
-  I love reading your articles...
+  \#\#\# Input:
+  Eu amo ler seus artigos...
   
-  ### Response:
-  friendly & constructive
+  \#\#\# Response:
+  amigável e construtivo
 
 ## RAG
 
