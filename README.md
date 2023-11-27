@@ -81,14 +81,18 @@ A capital do Brasil é Brasília, localizada no Distrito Federal, no centro-oest
 Quem foi Tiradentes e qual foi sua importância histórica?
 
 - Llama2-13b : <br>
-Tiradentes (1743-1792) foi um líder político e militar brasileiro, considerado o "pai da independência do Brasil". Ele foi um dos principais organizadores da Inconfidência Mineira, uma conspiração que visava a independência do Brasil da Portugal.<br>
-Tiradentes nasceu em São João del-Rei, no estado de Minas Gerais, e estudou na Universidade de Coimbra, em Portugal. Depois de retornar ao Brasil, ele se envolveu em movimentos políticos e militares, e foi preso e torturado pela coroa portuguesa por sua atividade política.<br>
-A importância histórica de Tiradentes reside em seu papel como líder da Inconfidência Mineira, que foi uma das primeiras movimentações independentistas do Brasil. A conspiração foi descoberta e reprimida pela coroa portuguesa, mas ela inspirou outros movimentos independentistas no país.<br>
-Tiradentes também é lembrado por sua bravura e dedicação à causa da independência. Ele foi torturado e executado em 1792, mas seu legado como líder e patriota brasileiro sobreviveu ao longo dos séculos. Sua vida e seus ideais são celebrados em muitas cidades do Brasil, e ele é considerado um herói nacional.<br>
-A importância histórica de Tiradentes também se estende além das fronteiras brasileiras. Ele foi um pioneiro no movimento independentista latino-americano, que inspirou outras nações da região a luchar por sua independência. Sua história é um exemplo de como uma pessoa pode mudar a história de um país e influenciar o mundo em torno dela.<br>
+  Tiradentes (1743-1792) foi um líder político e militar brasileiro, considerado o "pai da independência do Brasil". Ele foi um dos principais organizadores da Inconfidência Mineira, uma conspiração que visava a independência do Brasil da Portugal.
+  
+  Tiradentes nasceu em São João del-Rei, no estado de Minas Gerais, e estudou na Universidade de Coimbra, em Portugal. Depois de retornar ao Brasil, ele se envolveu em movimentos políticos e militares, e foi preso e torturado pela coroa portuguesa por sua atividade política.
+  
+  A importância histórica de Tiradentes reside em seu papel como líder da Inconfidência Mineira, que foi uma das primeiras movimentações independentistas do Brasil. A conspiração foi descoberta e reprimida pela coroa portuguesa, mas ela inspirou outros movimentos independentistas no país.
+  
+  Tiradentes também é lembrado por sua bravura e dedicação à causa da independência. Ele foi torturado e executado em 1792, mas seu legado como líder e patriota brasileiro sobreviveu ao longo dos séculos. Sua vida e seus ideais são celebrados em muitas cidades do Brasil, e ele é considerado um herói nacional.
+  
+  A importância histórica de Tiradentes também se estende além das fronteiras brasileiras. Ele foi um pioneiro no movimento independentista latino-americano, que inspirou outras nações da região a luchar por sua independência. Sua história é um exemplo de como uma pessoa pode mudar a história de um país e influenciar o mundo em torno dela.
 
 - Llama2-13b RAG : <br>
-Tiradentes é considerado um dos principais líderes da independência do Brasil. Ele foi um advogado, militar e político que lutou pela causa da independência do país. Ele foi capturado e executado pelas autoridades portuguesas em 1792, mas seu legado como um defensor da liberdade e da democracia é ainda hoje lembrado e celebrado no Brasil.<br>
+  Tiradentes é considerado um dos principais líderes da independência do Brasil. Ele foi um advogado, militar e político que lutou pela causa da independência do país. Ele foi capturado e executado pelas autoridades portuguesas em 1792, mas seu legado como um defensor da liberdade e da democracia é ainda hoje lembrado e celebrado no Brasil.
 
 - Llama2-13b fine tuning : <br>
   Tiradentes foi um líder político, militar e escritor brasileiro, considerado o "pai da independência do Brasil". Ele foi um dos principais líderes da Inconfidencia Mineira, movimento que buscava a independencia do Brasil da Coroa Portuguesa.
