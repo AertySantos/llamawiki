@@ -91,9 +91,9 @@ A importância histórica de Tiradentes também se estende além das fronteiras 
 Tiradentes é considerado um dos principais líderes da independência do Brasil. Ele foi um advogado, militar e político que lutou pela causa da independência do país. Ele foi capturado e executado pelas autoridades portuguesas em 1792, mas seu legado como um defensor da liberdade e da democracia é ainda hoje lembrado e celebrado no Brasil.<br>
 
 - Llama2-13b fine tuning : <br>
-Tiradentes foi um líder político, militar e escritor brasileiro, considerado o "pai da independência do Brasil". Ele foi um dos principais líderes da Inconfidencia Mineira, movimento que buscava a independencia do Brasil da Coroa Portuguesa.
-
-Tiradentes foi condenado à morte por enforcamento em 21 de abril de 1792, por sua participação na Inconfidencia Mineira. Seu corpo foi esquartejado e suas partes foram espalhadas pelo interior de Minas Gerais como forma de terror ao povo. No entanto, sua figura passou a ser lendária e ele foi lembrado como um herói da independência do Brasil.
-
-Em 1822, após a proclamação da independencia do Brasil, Tiradentes foi reabilitado e seu nome foi dado a diversas cidades, ruas e monumentos em homenagem a sua participação na luta pela independência. Atualmente, ele é considerado um dos principais heróis da história do Brasil.
+  Tiradentes foi um líder político, militar e escritor brasileiro, considerado o "pai da independência do Brasil". Ele foi um dos principais líderes da Inconfidencia Mineira, movimento que buscava a independencia do Brasil da Coroa Portuguesa.
+  
+  Tiradentes foi condenado à morte por enforcamento em 21 de abril de 1792, por sua participação na Inconfidencia Mineira. Seu corpo foi esquartejado e suas partes foram espalhadas pelo interior de Minas Gerais como forma de terror ao povo. No entanto, sua figura passou a ser lendária e ele foi lembrado como um herói da independência do Brasil.
+  
+  Em 1822, após a proclamação da independencia do Brasil, Tiradentes foi reabilitado e seu nome foi dado a diversas cidades, ruas e monumentos em homenagem a sua participação na luta pela independência. Atualmente, ele é considerado um dos principais heróis da história do Brasil.
 
