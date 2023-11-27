@@ -76,7 +76,7 @@ A capital do Brasil é Brasília, localizada no Distrito Federal.
 The capital of Brazil is Brasília.
 
 - Llama2-13b fine tuning : <br>
-A capital do Brasil é Brasília, localizada no Distrito Federal, no centro-oeste do país.
+A capital do Brasil é Brasília, localizada no Distrito Federal, no centro-oeste do país. A cidade foi planejada e construída a partir da década de 1950 como uma nova capital para substituir Rio de Janeiro, que era a antiga capital colonial do Brasil. A transferência da capital federal para Brasília ocorreu em 21 de abril de 1960.
 
 Quem foi Tiradentes e qual foi sua importância histórica?
 
