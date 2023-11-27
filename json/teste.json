@@ -1,0 +1,110 @@
+[
+    {
+        "input": "Como a linha estabelecida pelo Tratado de Tordesilhas dividia o territorio do atual Brasil entre Portugal e Castela (Espanha)?",
+        "output": "No territorio do atual Brasil, a linha estabelecida pelo Tratado de Tordesilhas atravessava de norte a sul, da atual cidade de Belem do Para a atual Laguna, em Santa Catarina."
+    },
+    {
+        "input": "Quem liderou a poderosa esquadra holandesa que invadiu Pernambuco em 1629?",
+        "output": " A poderosa esquadra holandesa que invadiu Pernambuco em 1629 foi liderada pelo almirante Hendrick Lonck."
+    },
+    {
+        "input": "O que eram as \"capitanias do mar\" criadas por D. Manuel I nos Acores e na Madeira?",
+        "output": "As \"capitanias do mar\" foram criadas por D. Manuel I nos Acores e na Madeira, com o objetivo de garantir o monopolio da navegacao e implementar a politica do mare clausum (mar fechado), defendendo o litoral de incursoes francesas ou castelhanas. O capitao do mar partia a cada dois anos para inspecionar o litoral e protege-lo."
+    },
+    {
+        "input": "Qual foi a razao pela qual a Republica Holandesa nao pode ajudar os holandeses no Brasil durante a Primeira Guerra Anglo-Neerlandesa?",
+        "output": "Devido a Primeira Guerra Anglo-Neerlandesa, a Republica Holandesa nao pode auxiliar os holandeses no Brasil."
+    },
+    {
+        "input": "O que aconteceu em 1820 que levou a saida de D. Joao VI do Brasil?",
+        "output": "Uma revolucao constitucionalista, a Revolucao Liberal Portuguesa de 1820, ocorreu no Porto, e uma Junta Provisoria de Governo obrigou o retorno de D. Joao VI para Portugal."
+    },
+    {
+        "input": "No seculo XVII, como a concorrencia com o acucar produzido nas Antilhas Holandesas afetou a economia brasileira e quais foram as acoes de Portugal em resposta a essa concorrencia?",
+        "output": " O acucar produzido nas Antilhas Holandesas passou a competir fortemente com o acucar brasileiro na Europa, o que afetou a economia do Brasil. Os holandeses aperfeicoaram a tecnica acucareira, e Portugal, diante dessa concorrencia, foi forcado a assinar tratados com a Inglaterra, concedendo a esta posicao favorecida no comercio colonial."
+    },
+    {
+        "input": "Como evoluiu o sistema de regencia no Brasil entre 1831 e 1840?",
+        "output": "Inicialmente, a regencia era tripla, mas com o Ato Adicional de 1834, que conferiu mais autonomia para as provincias, o governo central passou a ser mais centralizador, substituindo a caracteristica triplice da regencia por um governo mais centralizado."
+    },
+    {
+        "input": "Qual a distancia aproximada entre a Terra de Santa Cruz (Brasil) descoberta por Pedro Alvares Cabral e as terras descobertas por Cristovao Colombo em 1492?",
+        "output": "A Terra de Santa Cruz (Brasil) estava situada 5.000 km ao sul das terras descobertas por Cristovao Colombo em 1492."
+    },
+    {
+        "input": "O que era o Principado do Brasil e qual foi sua existencia temporal?",
+        "output": "O Principado do Brasil era um titulo nobiliarquico que existiu em Portugal entre 1645 e 1815, referindo-se ao Estado do Brasil, instituido em 1549."
+    },
+    {
+        "input": "O que levou o Brasil a aderir aos paises Aliados durante a Segunda Guerra Mundial?",
+        "output": " A adesao do Brasil aos paises Aliados durante a Segunda Guerra Mundial ocorreu em 1942 apos ataques alemaes a navios mercantes brasileiros, resultando na morte de dezenas de pessoas, alem de barganhas que garantiram vantagens economicas e militares para o pais."
+    },
+    {
+        "input": "Por que membros da Conjuracao Baiana foram detidos pelas autoridades?",
+        "output": "Os membros da Conjuracao Baiana foram detidos pelas autoridades depois de distribuirem panfletos na Bahia, nos quais expressavam ideias de libertacao dos escravos, igualdade no governo e a formacao de uma Republica na regiao. Isso levou a prisao de mais de 30 pessoas, com quatro delas sendo condenadas a forca."
+    },
+    {
+        "input": "Quem assumiu a Presidencia do Brasil apos o afastamento de Dilma Rousseff?",
+        "output": "Apos o afastamento de Dilma Rousseff, o vice-presidente Michel Temer assumiu a Presidencia do Brasil."
+    },
+    {
+        "input": " O que aconteceu em 15 de novembro de 1889 no Brasil?",
+        "output": "Em 15 de novembro de 1889, o Marechal Deodoro da Fonseca decretou o fim do periodo imperial brasileiro por meio de um golpe militar, iniciando assim um periodo republicano ditatorial. O ultimo imperador, D. Pedro II, foi deposto e exilado na Europa, e o nome do pais mudou de Imperio do Brasil para Estados Unidos do Brasil."
+    },
+    {
+        "input": "Quando ocorreu a primeira tentativa de colonizacao no Brasil e qual foi sua base economica?",
+        "output": " Em 1516, houve a primeira tentativa de colonizacao com base na plantacao de cana-de-acucar, trazida de Cabo Verde, e na producao de acucar."
+    },
+    {
+        "input": "Por que D. Joao ordenou a invasao e anexacao de territorios como a Guiana Francesa e a banda oriental do rio Uruguai?",
+        "output": "Em represalia a Franca, D. Joao agiu contra territorios que estavam sob o dominio de Jose Bonaparte, irmao de Napoleao, considerando a Espanha inimiga."
+    },
+    {
+        "input": "Quais melhoramentos foram introduzidos no Brasil apos a chegada de D. Joao em 1808?",
+        "output": "Diversos decretos foram expedidos, revogando restricoes comerciais, criando a Imprensa Nacional, uma Fabrica de Polvora e o Banco do Brasil, marcando os primordios da independencia do Brasil."
+    },
+    {
+        "input": "O que levou Getulio Vargas a criar a Forca Expedicionaria Brasileira (FEB)?",
+        "output": " A pressao interna e externa, especialmente dos Estados Unidos, levou Vargas a criar a Forca Expedicionaria Brasileira (FEB), atendendo as demandas por envio de tropas brasileiras durante a Segunda Guerra Mundial, resultando no lema \"A Cobra Vai Fumar\"."
+    },
+    {
+        "input": " Quais eventos politicos e economicos marcaram o inicio do segundo mandato de Dilma Rousseff?",
+        "output": "O inicio do segundo mandato de Dilma Rousseff foi marcado por protestos populares, investigacoes de corrupcao envolvendo politicos e estatais, alem do inicio da crise politico-economica em 2014."
+    },
+    {
+        "input": "O que ocorreu durante o governo de Duarte da Costa em relacao aos franceses na Guanabara?",
+        "output": "Durante o governo de Duarte da Costa, uma expedicao de protestantes franceses estabeleceu a colonia da Franca Antartica na Guanabara, causando ultraje na Camara Municipal da Bahia, que apelou a Coroa pela substituicao do governador."
+    },
+    {
+        "input": "Quem foi apontado como o nome mais aceito como comandante da expedicao, embora haja diferentes interpretacoes?",
+        "output": "Embora haja diferentes interpretacoes, Gaspar de Lemos e considerado o nome mais aceito como o comandante da expedicao."
+    },
+    {
+        "input": "Quais foram os principais eventos envolvendo os presidentes Fernando Collor e Itamar Franco?",
+        "output": " Fernando Collor foi eleito em 1989, sendo posteriormente afastado devido a denuncias de corrupcao. Itamar Franco assumiu a presidencia e criou o Plano Real, sendo sucedido por Fernando Henrique Cardoso."
+    },
+    {
+        "input": "Por que as iniciais \"PR\" nas portas das casas requisitadas causavam ironia entre o povo?",
+        "output": "As iniciais \"PR\", representando \"Principe-Regente\", eram interpretadas pelo povo como \"Ponha-se na Rua!\", ironizando a expropriacao das casas."
+    },
+    {
+        "input": " Quem foi o responsavel por oficiar a primeira missa no solo brasileiro e quando ela aconteceu?",
+        "output": "A primeira missa no solo brasileiro foi oficiada por frei Henrique Soares (ou frei Henrique de Coimbra) no dia 26 de abril, um domingo (o de Pascoela)."
+    },
+    {
+        "input": "Qual era o nome original dado pelos nativos a terra onde os portugueses desembarcaram em 1500?",
+        "output": "Os nativos chamavam a terra de Pindorama, que significava \"terra das palmeiras\"."
+    },
+    {
+        "input": "O que foi a abertura dos portos no Brasil em 28 de janeiro de 1808?",
+        "output": "A abertura dos portos ocorreu por uma carta regia de Dom Joao VI influenciada por Jose da Silva Lisboa. Isso permitiu a importacao de diversos produtos transportados por navios estrangeiros das potencias amigas da Real Coroa, principalmente da Inglaterra."
+    },
+    {
+        "input": "O que marcou o fim da chamada Republica Velha no Brasil?",
+        "output": "A Republica Velha terminou em 1930 com a ascensao de Getulio Vargas ao poder."
+    },
+    {
+        "input": "Quais categorias gerais sao utilizadas na divisao da Historia do Brasil segundo a periodizacao tradicional?",
+        "output": "Segundo a periodizacao tradicional, a Historia do Brasil e dividida em quatro categorias gerais: Pre-cabralino, Colonial, Imperial e Republicano."
+    }
+]

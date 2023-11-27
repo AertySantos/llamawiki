@@ -21,13 +21,14 @@ n_gpu_layers = 80
 n_batch = 1024
 
 llm = LlamaCpp(
-    model_path="models/llama-2-70b-chat.Q5_K_M.gguf",
-    temperature=0.75,
+    model_path="models/llama-2-13b-chat.Q4_K_S.gguf",
+    temperature=0.1,
     n_gpu_layers=n_gpu_layers,
     n_batch=n_batch,
     top_p=1,
+    max_tokens=200,
     verbose=True,  # Verbose is required to pass to the callback manager
-    n_ctx=4096
+    n_ctx=4096,
 )
 
 qa = ConversationalRetrievalChain.from_llm(

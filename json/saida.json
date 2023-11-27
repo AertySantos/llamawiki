@@ -1,0 +1,1078 @@
+[
+    {
+        "input": "Quando ocorreu a chegada dos primeiros humanos na America do Sul?",
+        "output": "A chegada dos primeiros humanos na America do Sul ocorreu ha pelo menos 22.000 anos AP."
+    },
+    {
+        "input": "O que aconteceu em 22 de abril de 1500 no Brasil?",
+        "output": "Nesse dia, Pedro Alvares Cabral, capitao-mor de uma expedicao portuguesa a caminho das Indias, chegou em Porto Seguro na Bahia, tornando a regiao uma colonia do Reino de Portugal."
+    },
+    {
+        "input": "Qual foi o marco inicial do ciclo do ouro no Brasil?",
+        "output": "O marco inicial do ciclo do ouro no Brasil foi no final do seculo XVII, quando foram descobertas importantes jazidas de ouro no interior do pais atraves das bandeiras."
+    },
+    {
+        "input": "Quando comecou a Historia do Brasil?",
+        "output": "A Historia do Brasil teve inicio com a chegada dos primeiros humanos na America do Sul, ha pelo menos 22.000 anos AP."
+    },
+    {
+        "input": "O que aconteceu em 22 de abril de 1500 que foi significativo para o Brasil?",
+        "output": "Em 22 de abril de 1500, Pedro Alvares Cabral, capitao-mor de uma expedicao portuguesa a caminho das Indias, chegou em Porto Seguro na Bahia, estabelecendo a regiao como colonia do Reino de Portugal."
+    },
+    {
+        "input": "O que marcou o inicio do ciclo do ouro no Brasil?",
+        "output": "No final do seculo XVII, importantes jazidas de ouro foram descobertas no interior do Brasil atraves das bandeiras, marcando o inicio do chamado ciclo do ouro, que impulsionou a ascensao da Capitania de Minas Gerais na economia colonial."
+    },
+    {
+        "input": "Em que ano o Brasil foi elevado a condicao de reino e unido aos reinos de Portugal e Algarves?",
+        "output": "Em 1815, o entao Estado do Brasil foi elevado a condicao de reino, unido aos reinos de Portugal e Algarves, formando o Reino Unido de Portugal, Brasil e Algarves."
+    },
+    {
+        "input": "Qual evento levou a proclamacao da Independencia do Brasil e a fundacao do Imperio do Brasil?",
+        "output": "Em 7 de setembro de 1822, Dom Pedro de Alcantara proclamou a Independencia do Brasil em relacao ao Reino Unido de Portugal, Brasil e Algarves, fundando o Imperio do Brasil e sendo coroado imperador como Dom Pedro I."
+    },
+    {
+        "input": "Quem proclamou a Republica do Brasil em 15 de novembro de 1889?",
+        "output": "A Republica do Brasil foi proclamada pelo Marechal Deodoro da Fonseca em 15 de novembro de 1889."
+    },
+    {
+        "input": "O que marcou o fim da chamada Republica Velha no Brasil?",
+        "output": "A Republica Velha terminou em 1930 com a ascensao de Getulio Vargas ao poder."
+    },
+    {
+        "input": "Quais eventos importantes destacam-se na historia brasileira apos a Proclamacao da Republica?",
+        "output": "Apos a Proclamacao da Republica, destacam-se na historia brasileira eventos como a industrializacao do pais, a participacao na Segunda Guerra Mundial ao lado dos Estados Unidos, a transferencia da capital federal para Brasilia e o Golpe Militar de 1964, quando o general Castelo Branco assumiu a Presidencia."
+    },
+    {
+        "input": "Quem abdicou em 1831, passando a Coroa brasileira ao seu filho Dom Pedro de Alcantara?",
+        "output": "Dom Pedro I abdicou em 1831, passando a Coroa brasileira ao seu filho, Dom Pedro de Alcantara, que tinha apenas cinco anos."
+    },
+    {
+        "input": "Em 1831, quem deixou o trono e transferiu a Coroa brasileira para seu filho, Dom Pedro de Alcantara?",
+        "output": "Em 1831, Dom Pedro I deixou o trono e transferiu a Coroa brasileira para seu filho, Dom Pedro de Alcantara, que tinha apenas cinco anos."
+    },
+    {
+        "input": "Quem foi o monarca brasileiro que abdicou em 1831, passando a coroa para seu filho de cinco anos, Dom Pedro de Alcantara?",
+        "output": "O monarca brasileiro que abdicou em 1831 foi Dom Pedro I, passando a coroa para seu filho de cinco anos, Dom Pedro de Alcantara."
+    },
+    {
+        "input": "Qual monarca brasileiro renunciou ao trono em 1831 e cedeu a Coroa a seu filho de cinco anos, Dom Pedro de Alcantara?",
+        "output": "O monarca brasileiro que renunciou ao trono em 1831 foi Dom Pedro I, cedendo a Coroa a seu filho de cinco anos, Dom Pedro de Alcantara."
+    },
+    {
+        "input": "Quem passou a Coroa brasileira a seu filho Dom Pedro de Alcantara apos abdicar em 1831?",
+        "output": "Apos abdicar em 1831, foi Dom Pedro I quem passou a Coroa brasileira a seu filho, Dom Pedro de Alcantara."
+    },
+    {
+        "input": "Em 1831, qual monarca brasileiro abdicou, transferindo a Coroa para seu filho Dom Pedro de Alcantara?",
+        "output": "Em 1831, o monarca brasileiro que abdicou foi Dom Pedro I, transferindo a Coroa para seu filho, Dom Pedro de Alcantara."
+    },
+    {
+        "input": "Como e dividida tradicionalmente a Historia do Brasil em periodos gerais?",
+        "output": "Tradicionalmente, a Historia do Brasil e dividida em Pre-cabralino, Colonial, Imperial e Republicano."
+    },
+    {
+        "input": "Quais sao os quatro periodos gerais nos quais tradicionalmente se divide a Historia do Brasil?",
+        "output": "Os quatro periodos gerais nos quais tradicionalmente se divide a Historia do Brasil sao Pre-cabralino, Colonial, Imperial e Republicano."
+    },
+    {
+        "input": "Em quantos periodos gerais a Historia do Brasil costuma ser dividida e quais sao eles?",
+        "output": "A Historia do Brasil costuma ser dividida em quatro periodos gerais: Pre-cabralino, Colonial, Imperial e Republicano."
+    },
+    {
+        "input": "Quais sao os principais periodos em que se divide a Historia do Brasil de acordo com a periodizacao tradicional?",
+        "output": "De acordo com a periodizacao tradicional, os principais periodos nos quais se divide a Historia do Brasil sao: Pre-cabralino, Colonial, Imperial e Republicano."
+    },
+    {
+        "input": "Qual e a divisao tradicional da Historia do Brasil em periodos e quantos sao?",
+        "output": "A divisao tradicional da Historia do Brasil consiste em quatro periodos: Pre-cabralino, Colonial, Imperial e Republicano."
+    },
+    {
+        "input": "Quais categorias gerais sao utilizadas na divisao da Historia do Brasil segundo a periodizacao tradicional?",
+        "output": "Segundo a periodizacao tradicional, a Historia do Brasil e dividida em quatro categorias gerais: Pre-cabralino, Colonial, Imperial e Republicano."
+    },
+    {
+        "input": "Quais eram os principais grupos etnicos que compunham a populacao amerindia no Brasil?",
+        "output": "Os principais grupos etnicos na populacao amerindia brasileira eram tupi-guarani, macro-je e aruaque."
+    },
+    {
+        "input": "Quais grupos etnicos constituiam as nacoes indigenas no Brasil?",
+        "output": "As nacoes indigenas no Brasil eram compostas pelos grupos etnicos tupi-guarani, macro-je e aruaque."
+    },
+    {
+        "input": "Quais eram as subdivisoes dos primeiros grupos etnicos, como os tupis, na populacao amerindia?",
+        "output": "Os primeiros grupos etnicos, como os tupis, eram subdivididos em guaranis, tupiniquins e tupinambas, entre outros."
+    },
+    {
+        "input": "Quais foram as influencias dos povos tupi-guarani na colonizacao do Brasil, de acordo com Luis da Camara Cascudo?",
+        "output": "Segundo Luis da Camara Cascudo, os povos tupi-guarani tiveram influencia na alimentacao, no idioma, nos processos agricolas, de caca e pesca, supersticoes, costumes e folclore."
+    },
+    {
+        "input": "Quais foram as contribuicoes dos povos tupi-guarani para a cultura e vida cotidiana no Brasil, de acordo com Camara Cascudo?",
+        "output": "De acordo com Camara Cascudo, os povos tupi-guarani influenciaram na alimentacao, idioma, processos agricolas, de caca e pesca, supersticoes, costumes e folclore no Brasil."
+    },
+    {
+        "input": "Qual e a importancia do Tratado de Tordesilhas (1494) para a historia do Brasil como colonia portuguesa?",
+        "output": "O Tratado de Tordesilhas e importante por definir as areas que seriam atribuidas a Portugal durante o periodo em que o Brasil se tornou colonia portuguesa."
+    },
+    {
+        "input": "O que o Tratado de Tordesilhas (1494) definiu em relacao ao Brasil e aos territorios de Portugal e Castela (atual Espanha)?",
+        "output": "O Tratado de Tordesilhas definiu que as terras a leste de um meridiano imaginario pertenceriam a Portugal, enquanto as terras a oeste seriam posse de Castela (atual Espanha)."
+    },
+    {
+        "input": "Como a linha estabelecida pelo Tratado de Tordesilhas dividia o territorio do atual Brasil entre Portugal e Castela (Espanha)?",
+        "output": "No territorio do atual Brasil, a linha estabelecida pelo Tratado de Tordesilhas atravessava de norte a sul, da atual cidade de Belem do Para a atual Laguna, em Santa Catarina."
+    },
+    {
+        "input": "Como os portugueses e brasileiros chamam o periodo entre o Descobrimento do Brasil ate a Independencia?",
+        "output": "Os brasileiros chamam esse periodo de Periodo Colonial, enquanto os portugueses o chamam de A Construcao do Brasil, estendendo-o ate 1825 quando Portugal reconheceu a independencia do Brasil."
+    },
+    {
+        "input": "Qual foi a reacao do rei Francisco I da Franca ao saber do Tratado de Tordesilhas?",
+        "output": "O rei Francisco I da Franca teria questionado qual era \"a clausula do testamento de Adao\" que dividia o planeta entre os reis de Portugal e Espanha, excluindo-o dessa partilha."
+    },
+    {
+        "input": " Ate quando os portugueses estendem o periodo chamado de \"A Construcao do Brasil\"?",
+        "output": "Os portugueses estendem o periodo chamado de \"A Construcao do Brasil\" ate 1825, quando Portugal reconheceu a independencia do Brasil."
+    },
+    {
+        "input": "Quem foi oficialmente reconhecido como descobridor do Brasil em 22 de abril de 1500?",
+        "output": "Pedro Alvares Cabral, capitao-mor da expedicao portuguesa em busca das Indias, foi oficialmente reconhecido como o descobridor do Brasil em 22 de abril de 1500."
+    },
+    {
+        "input": " Quem foi o navegante espanhol que desembarcou primeiramente no atual territorio brasileiro, antes da chegada de Pedro Alvares Cabral?",
+        "output": " O navegante espanhol Vicente Yanez Pinzon desembarcou primeiro no atual territorio brasileiro, especificamente no cabo de Santo Agostinho, em Pernambuco, no dia 26 de janeiro de 1500."
+    },
+    {
+        "input": "O que definiu o Tratado de Tordesilhas (1494) em relacao ao futuro Brasil?",
+        "output": "O Tratado de Tordesilhas definiu as areas que seriam atribuidas a Portugal e Castela (atual Espanha) para dividir as terras descobertas e \"por descobrir\", influenciando os rumos da historia do futuro Brasil."
+    },
+    {
+        "input": " Quem liderou a expedicao portuguesa que oficialmente descobriu e tomou posse das novas terras, incluindo o Brasil, em marco de 1500?",
+        "output": "Pedro Alvares Cabral liderou a expedicao portuguesa que oficialmente descobriu e tomou posse das novas terras, incluindo o Brasil, em marco de 1500."
+    },
+    {
+        "input": " Quem eram alguns dos navegadores experientes que acompanharam Pedro Alvares Cabral em sua expedicao ao Brasil em 1500?",
+        "output": " Alguns dos navegadores experientes que acompanharam Pedro Alvares Cabral em sua expedicao ao Brasil incluiam Nicolau Coelho, Bartolomeu Dias, Aires Gomes da Silva, entre outros."
+    },
+    {
+        "input": "Quais eram os nomes de algumas das principais naus da frota de Pedro Alvares Cabral durante sua viagem ao Brasil em 1500?",
+        "output": "Algumas das principais naus da frota de Pedro Alvares Cabral durante sua viagem ao Brasil eram Anunciada, Sao Pedro, Espirito Santo, El-Rei, Santa Cruz, Fror de la Mar, Victoria e Trindade."
+    },
+    {
+        "input": "Quem foi enviado na armada por el Rei de Portugal para administrar os sacramentos aos portugueses e a populacao local em Calecut?",
+        "output": "O Rei de Portugal enviou oito frades da ordem de S. Francisco, liderados por frei Henrique, juntamente com oito capelaes e um vigario, para administrar os sacramentos aos portugueses e a populacao local em Calecut."
+    },
+    {
+        "input": "Quando a frota portuguesa avistou sinais de terra e aportou no atual territorio brasileiro em abril de 1500, qual foi o local onde ocorreu o primeiro contato com os indigenas tupiniquins?",
+        "output": "Apos avistar o Monte Pascoal no litoral sul da atual Bahia em 22 de abril de 1500, os portugueses aportaram em Porto Seguro ou Santa Cruz Cabralia, possivelmente no ilheu de Coroa Vermelha, onde fizeram contato com os indigenas tupiniquins, que eram pacificos."
+    },
+    {
+        "input": "Qual era o nome original dado pelos nativos a terra onde os portugueses desembarcaram em 1500?",
+        "output": "Os nativos chamavam a terra de Pindorama, que significava \"terra das palmeiras\"."
+    },
+    {
+        "input": "Qual era o nome inicial dado pelos portugueses a terra descoberta por Pedro Alvares Cabral?",
+        "output": "Inicialmente, os portugueses chamaram a terra de Ilha de Vera Cruz, erguendo um padrao como marco de posse em nome da Coroa Portuguesa."
+    },
+    {
+        "input": "Como a terra descoberta por Pedro Alvares Cabral foi posteriormente renomeada pelos portugueses?",
+        "output": "Posteriormente, a terra descoberta por Pedro Alvares Cabral foi renomeada para Terra de Santa Cruz e, mais tarde, rebatizada como Brasil."
+    },
+    {
+        "input": "Qual a distancia aproximada entre a Terra de Santa Cruz (Brasil) descoberta por Pedro Alvares Cabral e as terras descobertas por Cristovao Colombo em 1492?",
+        "output": "A Terra de Santa Cruz (Brasil) estava situada 5.000 km ao sul das terras descobertas por Cristovao Colombo em 1492."
+    },
+    {
+        "input": " Quem foi o responsavel por oficiar a primeira missa no solo brasileiro e quando ela aconteceu?",
+        "output": "A primeira missa no solo brasileiro foi oficiada por frei Henrique Soares (ou frei Henrique de Coimbra) no dia 26 de abril, um domingo (o de Pascoela)."
+    },
+    {
+        "input": "Qual foi o nome dado inicialmente a terra onde os portugueses desembarcaram e qual foi a data do batismo desse nome?",
+        "output": "Inicialmente, a terra foi batizada como Ilha da Vera Cruz no dia 1\u00ba de maio, apos o desembarque dos portugueses."
+    },
+    {
+        "input": " Como Pedro Alvares Cabral oficializou a posse das terras descobertas em nome do rei de Portugal?",
+        "output": "Pedro Alvares Cabral oficializou a posse das terras descobertas em nome do rei de Portugal durante uma segunda missa realizada no mesmo dia do batismo da terra, antes de partir para a India."
+    },
+    {
+        "input": "O que as cartas escritas por Mestre Joao e Pero Vaz de Caminha descreviam para o rei D. Manuel I de Portugal?",
+        "output": "As cartas descreviam detalhadamente as condicoes geograficas e os habitantes da terra descoberta, posteriormente chamados de \"indios\"."
+    },
+    {
+        "input": "Quantos individuos foram deixados na terra pelos navios portugueses apos a missa e a posse das terras?",
+        "output": "Pelo menos dois degredados e dois grumetes que haviam fugido de bordo foram deixados na terra pelos navios portugueses apos os eventos do batismo da terra e a posse oficial."
+    },
+    {
+        "input": "Qual foi a rota seguida por Pedro Alvares Cabral apos deixar a terra descoberta e oficializar a posse das terras em nome do rei de Portugal?",
+        "output": " Pedro Alvares Cabral partiu para a India, seguindo a rota que ele sabia existir a partir da costa brasileira, cruzando novamente o Oceano Atlantico e costeando a Africa."
+    },
+    {
+        "input": " Segundo as cartas de Pero Vaz de Caminha, quais foram as principais observacoes feitas sobre a terra descoberta?",
+        "output": "De acordo com as cartas de Pero Vaz de Caminha, foi observado que a terra descoberta nao possuia ouro, prata ou metais, mas possuia um clima agradavel, semelhante aos de Doiro e Minho."
+    },
+    {
+        "input": " Qual foi a descricao do clima feita por Pero Vaz de Caminha sobre a terra recem-descoberta?",
+        "output": "Segundo Pero Vaz de Caminha, o clima da terra recem-descoberta era considerado de muitos bons ares, frios e temperados, semelhantes aos das regioes de Doiro e Minho."
+    },
+    {
+        "input": "Quais foram as caracteristicas fisicas e vestimentas dos habitantes nativos da terra recem-descoberta mencionadas no relato de Damiao de Gois?",
+        "output": "De acordo com o relato de Damiao de Gois, os habitantes nativos eram descritos como pessoas baixas, nuas, com cabelos compridos e soltos, carregando arcos e flechas."
+    },
+    {
+        "input": "Como foi nomeado o primeiro porto seguro onde os portugueses aportaram no Brasil?",
+        "output": "O primeiro porto seguro onde os portugueses aportaram foi chamado de Porto Seguro, nomeado por Pedro Alvares Cabral."
+    },
+    {
+        "input": " Alem das cartas de Pero Vaz de Caminha e Damiao de Gois, que outro documento historico e mencionado como importante relato sobre o descobrimento do Brasil?",
+        "output": "Alem das cartas mencionadas, o Relato do Piloto Anonimo e citado como outro documento importante sobre o descobrimento do Brasil."
+    },
+    {
+        "input": "Qual era o recurso exploravel encontrado durante a primeira expedicao exploratoria ao Brasil em 1501?",
+        "output": "O recurso exploravel encontrado foi o pau-brasil, uma madeira avermelhada valiosa usada na tinturaria europeia."
+    },
+    {
+        "input": "Quem comandou a grande expedicao exploratoria de 1501 ao Brasil em busca de recursos exploraveis?",
+        "output": " A expedicao foi comandada por Gaspar de Lemos."
+    },
+    {
+        "input": "Qual foi a duracao da viagem da expedicao exploratoria de Gaspar de Lemos ao Brasil em 1501?",
+        "output": "A viagem teve inicio em 10 de maio de 1501 e terminou com o retorno a Lisboa em 7 de setembro de 1502."
+    },
+    {
+        "input": "Quem foi apontado como o nome mais aceito como comandante da expedicao, embora haja diferentes interpretacoes?",
+        "output": "Embora haja diferentes interpretacoes, Gaspar de Lemos e considerado o nome mais aceito como o comandante da expedicao."
+    },
+    {
+        "input": "Quem estava presente como piloto na frota durante essa expedicao e qual foi sua influencia na nomenclatura do continente americano?",
+        "output": "Americo Vespucio estava presente como piloto na frota e seu nome seria usado para batizar todo o continente americano posteriormente."
+    },
+    {
+        "input": "Onde a frota alcancou pela primeira vez o territorio brasileiro durante essa expedicao?",
+        "output": "A frota alcancou o que hoje e conhecido como cabo de Sao Roque (Rio Grande do Norte) em 16 de agosto de 1501."
+    },
+    {
+        "input": "Por que os portugueses deram nomes especificos a diferentes lugares no Brasil durante suas expedicoes?",
+        "output": ": Os portugueses deram nomes aos locais com base no calendario, associando-os aos santos do dia em que chegaram, ignorando os nomes locais dados pelos nativos."
+    },
+    {
+        "input": " Quais sao alguns exemplos de lugares no Brasil que receberam nomes durante as expedicoes portuguesas, baseados no calendario religioso?",
+        "output": "Alguns exemplos sao: baia de Todos-os-Santos (chegada em 1 de novembro), cabo de Sao Tome (chegada em 21 de dezembro), baia de Guanabara (chegada em 1 de janeiro, chamada de Rio de Janeiro) e Angra dos Reis (chegada em 6 de janeiro)."
+    },
+    {
+        "input": "Quem comandou as tres naus que chegaram a baia de Guanabara (Rio de Janeiro) durante as expedicoes?",
+        "output": "As tres naus foram comandadas por Goncalo Coelho, com a presenca de Americo Vespucio."
+    },
+    {
+        "input": "Qual foi o objetivo da expedicao comandada por Goncalo Coelho em 1503?",
+        "output": " O objetivo era extrair pau-brasil, sem estabelecer assentamentos ou feitorias."
+    },
+    {
+        "input": "Onde as frotas portuguesas se abasteciam durante as tres primeiras decadas, principalmente em relacao ao comercio com a India?",
+        "output": "Durante as tres primeiras decadas, o litoral baiano, principalmente a baia de Todos-os-Santos, servia como ponto de apoio a rota da India, onde as frotas se abasteciam de agua, lenha e realizavam pequenos reparos."
+    },
+    {
+        "input": "Qual foi o local onde os indios chamavam de \"Urucu-Mirim\" e que mais tarde passou a ser conhecido como o gentilico da cidade do Rio de Janeiro?",
+        "output": "Os navios aportaram na praia do Flamengo, local junto a foz do rio Carioca, onde foi erguida uma casa de pedra e um arraial, inspirando o nome dado pelos indios ao local (\"cari-oca\", significando \"casa dos brancos\"), que mais tarde se tornou o gentilico da cidade do Rio de Janeiro."
+    },
+    {
+        "input": "Quais foram algumas das outras expedicoes que passaram pela Baia de Guanabara apos a chegada dos portugueses ao Brasil?",
+        "output": "Algumas expedicoes incluiram a de Cristovao Jacques em 1516, Fernao de Magalhaes em 1519, Martim Afonso de Sousa em 1531, entre outras."
+    },
+    {
+        "input": "Alem das expedicoes portuguesas, houve atividades de navegadores nao portugueses na costa brasileira?",
+        "output": "Sim, existem registros de atividades de corsarios, como o capitao frances Paulmier de Gonneville, de Honfleur, que permaneceu seis meses no litoral de Santa Catarina."
+    },
+    {
+        "input": "Qual era a principal riqueza que despertava crescente demanda na Europa durante a colonizacao?",
+        "output": "O pau-brasil era a principal riqueza de crescente demanda na Europa durante o periodo, estimando-se que havia mais de 70 milhoes de arvores dessa especie ao longo do litoral do Brasil."
+    },
+    {
+        "input": "Qual foi a politica adotada pela Coroa para explorar o pau-brasil apos o seu descobrimento?",
+        "output": "A Coroa ofereceu concessoes de exploracao do pau-brasil a particulares, muitos dos quais eram cristaos-novos. As condicoes incluiam a obrigacao de descobrir 300 leguas de terra, instalar fortalezas nessas terras por tres anos e pagar taxas crescentes nos anos subsequentes pelas toras extraidas."
+    },
+    {
+        "input": "Como ocorria a extracao do pau-brasil e o comercio com os indios na epoca?",
+        "output": "Os navios ancoravam na costa e recrutavam indios para auxiliar no corte e carregamento das toras de pau-brasil em troca de mercadorias, como roupas, colares e espelhos, em um sistema conhecido como \"escambo\". Cada nau carregava em media cinco mil toras."
+    },
+    {
+        "input": "Como se deu a producao e o comercio do pau-brasil para Portugal?",
+        "output": "Em 1506, a terra arrendada pela Coroa a particulares produzia cerca de 20 mil quintais de madeira, que eram vendidos em Lisboa por cerca de 2? ducados por quintal. Os arrendatarios pagavam a Coroa uma quantia de 4 mil ducados."
+    },
+    {
+        "input": " Alem dos portugueses, quais outros europeus se envolveram na exploracao do pau-brasil e contrabando na costa brasileira?",
+        "output": "Alem dos portugueses, os rivais europeus, especialmente os franceses, tambem passaram a frequentar a costa brasileira para contrabandear pau-brasil, capturar indios e estabelecer feitorias. Corsarios, incentivados por seus reis, visitavam a Guanabara em busca de pau-brasil e outros produtos, muitas vezes ganhando a simpatia dos indios tamoios, que se aliavam a eles contra os portugueses."
+    },
+    {
+        "input": " Quais foram as expedicoes comandadas por Cristovao Jacques?",
+        "output": " Foram as expedicoes guarda-costas, destacando-se duas lideradas por Cristovao Jacques, uma de 1516\u00961519 e outra de 1526\u00961528, com o objetivo principal de combater corsarios estrangeiros que retiravam grandes quantidades de pau-brasil sem pagar tributos a coroa."
+    },
+    {
+        "input": "O que Martim Afonso de Sousa buscou realizar na expedicao enviada em 1530?",
+        "output": "Martim Afonso de Sousa liderou uma expedicao em 1530 com objetivos de explorar melhor a costa, expulsar os franceses que rondavam o sul e arredores do Rio de Janeiro, alem de estabelecer nucleos de colonizacao ou feitorias, como a de Cabo Frio. Em 1532, fundou o nucleo de Sao Vicente, a primeira vila do Brasil."
+    },
+    {
+        "input": "Quem inicialmente administrou as terras ultramarinas antes de ficar sob o controle direto da Coroa?",
+        "output": "Fernao de Noronha, agente da Casa Fugger (1503\u00961511), inicialmente arrendou a administracao das terras ultramarinas, que depois passou diretamente para o controle da Coroa."
+    },
+    {
+        "input": "O que eram as \"capitanias do mar\" criadas por D. Manuel I nos Acores e na Madeira?",
+        "output": "As \"capitanias do mar\" foram criadas por D. Manuel I nos Acores e na Madeira, com o objetivo de garantir o monopolio da navegacao e implementar a politica do mare clausum (mar fechado), defendendo o litoral de incursoes francesas ou castelhanas. O capitao do mar partia a cada dois anos para inspecionar o litoral e protege-lo."
+    },
+    {
+        "input": "Quantas armadas teriam visitado o Brasil na implementacao das \"capitanias do mar\"?",
+        "output": " No Brasil, teriam sido visitadas quatro armadas durante a execucao das \"capitanias do mar\"."
+    },
+    {
+        "input": "O que aconteceu com as armadas de Jacques no Rio da Prata?",
+        "output": "As armadas de Jacques frequentemente navegavam pelo Rio da Prata durante suas operacoes."
+    },
+    {
+        "input": "Quando ocorreu a primeira tentativa de colonizacao no Brasil e qual foi sua base economica?",
+        "output": " Em 1516, houve a primeira tentativa de colonizacao com base na plantacao de cana-de-acucar, trazida de Cabo Verde, e na producao de acucar."
+    },
+    {
+        "input": "Quem foi Pero Capico e qual era sua funcao no Brasil colonial?",
+        "output": " Pero Capico, capitao de uma capitania do Brasil, foi autorizado por D. Manuel I a retornar a Portugal em 1526, pois seu periodo de capitania havia expirado. Ele era um tecnico de administracao colonial e havia sido responsavel pela Feitoria de Itamaraca, localizada no atual estado de Pernambuco."
+    },
+    {
+        "input": "Quais foram as caracteristicas das feitorias estabelecidas no Brasil colonial?",
+        "output": "As feitorias eram postos de resgate temporarios, estabelecimentos efemeros localizados em lugares como Igarassu, Itamaraca, Bahia, Porto Seguro, Cabo Frio, Sao Vicente e outras regioes intermediarias. Esses locais concentravam os produtos da terra que as naus portuguesas buscavam. Entretanto, eram vulneraveis a ataques de indigenas, corsarios franceses e eram geralmente destruidos ou conquistados."
+    },
+    {
+        "input": " Por que Portugal demonstrava pouco interesse em colonizar o Brasil naquele periodo?",
+        "output": " Portugal considerava a colonizacao da nova terra como dispendiosa, sem lucro imediato. Apesar de estabelecer feitorias e postos de resgate, havia problemas de recursos humanos e constantes ataques, o que levou a uma abordagem predominantemente fiscal em relacao ao Brasil. Portugal, apesar de possuir feitorias em vastas extensoes oceanicas, carecia de recursos humanos, tinha uma populacao estimada em um milhao de habitantes e enfrentava desafios com corsarios e populacoes indigenas."
+    },
+    {
+        "input": "Como as terras do Brasil eram descritas apos a primeira exploracao em 1501, de acordo com Joao Ribeiro?",
+        "output": "Joao Ribeiro descreve as terras do Brasil como um constante teatro de pirataria universal, onde especuladores franceses, alemaes, judeus e espanhois comerciavam com o gentio, conviviam em barbaria, e navegadores de diferentes origens se abrigavam ou se aprovisionavam. Aventureiros tambem desembarcavam e viviam de maneira incerta na companhia de degredados e foragidos."
+    },
+    {
+        "input": "O que preocupava a corte portuguesa durante o reinado de D. Manuel I em relacao as terras do Brasil?",
+        "output": "Durante o reinado de D. Manuel I, as preocupacoes da corte portuguesa em relacao ao Brasil nao se concentravam na regiao em si, mas nas riquezas do Oriente. Mesmo quando alguma expedicao se demorava na regiao, nao era o Brasil que as atraia, mas ainda a fascinacao pelo Oriente."
+    },
+    {
+        "input": "O que motivou Portugal a mudar sua postura em relacao a ocupacao das terras no Brasil na decada de 1530?",
+        "output": "Na decada de 1530, Portugal comecou a perder a hegemonia do comercio na Africa Ocidental e no Indico. Surgiam noticias persistentes sobre a descoberta de ouro e prata na America Espanhola. Diante disso, D. Joao III decidiu ocupar as terras brasileiras pelo regime de capitanias hereditarias, permitindo a exploracao como um direito de familia."
+    },
+    {
+        "input": "Como funcionava o sistema de capitanias hereditarias implementado por D. Joao III?",
+        "output": "O sistema de capitanias hereditarias implicava a divisao de vastas terras doadas a capitaes-donatarios que seriam responsaveis por controlar, desenvolver e arcar com as despesas de colonizacao. Eram concedidas a individuos com condicoes financeiras para custear a colonizacao, principalmente membros da burocracia estatal, militares e navegadores ligados a conquista da India."
+    },
+    {
+        "input": "Quem sugeriu a implementacao das capitanias hereditarias a D. Joao III e por que?",
+        "output": "Segundo informacoes de Eduardo Bueno e de acordo com o autor, a sugestao das capitanias hereditarias foi dada ao rei por Diogo de Gouveia, um ilustre humanista portugues. Essa sugestao surgiu devido a absoluta falta de interesse da alta nobreza lusitana nas terras americanas."
+    },
+    {
+        "input": " O que motivou Portugal a mudar sua abordagem em relacao as terras do Brasil na decada de 1530?",
+        "output": " Na decada de 1530, Portugal comecou a perder sua hegemonia comercial na Africa Ocidental e no Indico. O rei D. Joao III foi influenciado pelas noticias persistentes sobre a descoberta de ouro e prata na America Espanhola, resultando em sua decisao de ocupar as terras brasileiras atraves do sistema de capitanias hereditarias."
+    },
+    {
+        "input": " Como funcionavam as capitanias hereditarias implementadas por D. Joao III?",
+        "output": "Sob o regime de capitanias hereditarias, foram concedidas vastas terras a capitaes-donatarios, que detinham amplos poderes, incluindo o direito de fundar povoados, conceder sesmarias e administrar a justica. Esses donatarios seriam responsaveis pelo controle, desenvolvimento e custos da colonizacao."
+    },
+    {
+        "input": "Quem eram os principais beneficiarios das capitanias hereditarias?",
+        "output": "De acordo com informacoes de Eduardo Bueno em \"Historia do Brasil\", os principais beneficiarios das capitanias hereditarias eram \"membros da burocracia estatal\", \"militares\" e \"navegadores ligados a conquista da India\" que possuiam condicoes financeiras para custear a empresa da colonizacao."
+    },
+    {
+        "input": "Quantas capitanias foram criadas inicialmente no Brasil?",
+        "output": "Foram criadas quinze faixas longitudinais de diferentes larguras, oferecidas a doze donatarios no total. Dessas quinze capitanias originais, apenas as capitanias de Pernambuco e Sao Vicente prosperaram."
+    },
+    {
+        "input": "Quais foram os obstaculos enfrentados pelas capitanias e por que algumas nao prosperaram?",
+        "output": "As capitanias enfrentaram diversos desafios, incluindo dificuldades geograficas, como o tempo de viagem e o desconhecimento das terras, alem de tempestades no oceano. As novas terras tambem nao apresentavam riquezas minerais conhecidas. Alem disso, muitas capitanias foram devastadas por conflitos com povos nativos, como os aimores e tupiniquins, levando ao fracasso de varias delas, como as capitanias dos Ilheus e do Espirito Santo."
+    },
+    {
+        "input": " O que aconteceu apos o fracasso do sistema de capitanias no Brasil?",
+        "output": "Apos o fracasso das capitanias, o rei Joao III decidiu unificar as capitanias sob um Governo-Geral do Brasil e nomeou Tome de Sousa como governador-geral em 7 de janeiro de 1549."
+    },
+    {
+        "input": "Qual foi o papel de Tome de Sousa como governador-geral?",
+        "output": "As responsabilidades de Tome de Sousa como governador-geral incluiam efetivar a guarda da costa, auxiliar os donatarios, organizar a ordem politica e juridica na colonia, alem de promover a vida municipal e impulsionar a producao acucareira."
+    },
+    {
+        "input": "Por que a baia de Todos-os-Santos foi escolhida como local para abrigar a sede da administracao colonial?",
+        "output": "A baia de Todos-os-Santos foi escolhida devido a sua excelente posicao geografica entre as capitanias de Pernambuco e Sao Vicente, seu clima quente, solo fertil e condicoes favoraveis de assentamento e defesa."
+    },
+    {
+        "input": "O que o Governo-Geral implementado por Tome de Sousa visava alcancar?",
+        "output": "O Governo-Geral centralizou a administracao colonial sob um unico governador-geral para agilizar o processo de colonizacao. Foi elaborado o Regimento do Governador-Geral em 1548, que regulamentava o trabalho do governador e de seus principais auxiliares na Justica, Fazenda e Defesa."
+    },
+    {
+        "input": "Que contribuicoes significativas foram feitas por Tome de Sousa durante seu governo no Brasil?",
+        "output": "Tome de Sousa trouxe os primeiros missionarios jesuitas para o Brasil e introduziu as primeiras cabecas de gado na colonia. Alem disso, foi responsavel pela construcao da Vila Velha (antigo Arraial do Pereira) e ajudou na construcao de igrejas, incluindo a capela de Nossa Senhora da Conceicao da Praia. Tambem visitou as capitanias do sul do Brasil, fundando a Vila de Santo Andre da Borda do Campo, que deu origem a cidade de Sao Paulo."
+    },
+    {
+        "input": "O que aconteceu com Tome de Sousa apos seu periodo como governador-geral do Brasil?",
+        "output": " Em 1553, Tome de Sousa foi exonerado do cargo e substituido por Duarte da Costa, fidalgo e senador em Lisboa."
+    },
+    {
+        "input": "Quem sucedeu Tome de Sousa como governador-geral e como foi sua administracao?",
+        "output": "Duarte da Costa sucedeu Tome de Sousa como governador-geral. Sua administracao foi conturbada devido a intencao de seu filho, Alvaro da Costa, de escravizar indigenas, o que gerou desentendimentos com o primeiro bispo do Brasil, Dom Pero Fernandes Sardinha."
+    },
+    {
+        "input": "Qual foi o incidente envolvendo Dom Pero Fernandes Sardinha durante o governo de Duarte da Costa?",
+        "output": "Durante o governo de Duarte da Costa, Sardinha, primeiro bispo do Brasil, partiu para Lisboa em 1556 para levar queixas ao rei de Portugal, mas naufragou na costa de Alagoas e foi devorado pelos caetes antropofagos."
+    },
+    {
+        "input": "O que ocorreu durante o governo de Duarte da Costa em relacao aos franceses na Guanabara?",
+        "output": "Durante o governo de Duarte da Costa, uma expedicao de protestantes franceses estabeleceu a colonia da Franca Antartica na Guanabara, causando ultraje na Camara Municipal da Bahia, que apelou a Coroa pela substituicao do governador."
+    },
+    {
+        "input": "Quais foram os feitos de Mem de Sa durante seu governo como terceiro Governador-Geral do Brasil?",
+        "output": "Mem de Sa, terceiro Governador-Geral, continuou a politica de concessao de sesmarias aos colonos e aliou-se aos Temiminos do cacique Arariboia para enfrentar os colonos franceses na Guanabara. Seu sobrinho, Estacio de Sa, liderou a retomada da regiao e fundou a cidade do Rio de Janeiro em 20 de janeiro de 1565."
+    },
+    {
+        "input": "O que aconteceu com Portugal durante a uniao pessoal com a Espanha sob os tres reis Filipes?",
+        "output": " Com o desaparecimento de D. Sebastiao e a posterior morte de D. Henrique I, Portugal ficou sob uniao pessoal com a Espanha, governada pelos reis Filipes II, III e IV (sendo que um numero e subtraido quando referente a Portugal e ao Brasil), o que virtualmente acabou com a linha divisoria do meridiano das Tordesilhas e permitiu a expansao do Brasil para o oeste."
+    },
+    {
+        "input": "O que eram as expedicoes exploratorias do interior do Brasil durante esse periodo?",
+        "output": "Durante a uniao com a Espanha, varias expedicoes exploratorias do interior do Brasil foram organizadas, conhecidas como \"entradas\" quando sob ordens diretas da Coroa ou \"bandeiras\" quando organizadas por cacadores de escravos paulistas, os \"bandeirantes\". Essas expedicoes tinham como objetivo principal capturar indios como escravos e encontrar pedras preciosas e metais valiosos, como ouro e prata. Diversos bandeirantes se destacaram nesse periodo, incluindo Fernao Dias Paes Leme, Bartolomeu Bueno da Silva (Anhanguera), Raposo Tavares, Domingos Jorge Velho, Borba Gato e Antonio Azevedo."
+    },
+    {
+        "input": " Como a Uniao Iberica afetou o Brasil em termos de conflitos com outras potencias europeias?",
+        "output": "Durante a Uniao Iberica, o Brasil entrou em conflito com potencias europeias que eram amigas de Portugal, mas inimigas da Espanha, como a Inglaterra e a Holanda. Em 1595, durante a Guerra Anglo-Espanhola, o almirante ingles James Lancaster saqueou o porto do Recife, representando o mais rico butim da historia da navegacao de corso do periodo elisabetano. Alem disso, a Holanda invadiu extensas faixas do litoral nordestino, fixando-se principalmente em Pernambuco por vinte e quatro anos."
+    },
+    {
+        "input": "Em que ano ocorreu a divisao da colonia em duas administracoes independentes durante o dominio espanhol?",
+        "output": "Em 1621, durante o dominio espanhol, a colonia foi dividida em duas administracoes independentes: o Estado do Brasil, que abrangia de Pernambuco a atual Santa Catarina, e o Estado do Maranhao, do atual Ceara a Amazonia."
+    },
+    {
+        "input": "Qual era a capital do Estado do Maranhao durante o dominio espanhol?",
+        "output": "Durante o dominio espanhol, Sao Luis era a capital do Estado do Maranhao."
+    },
+    {
+        "input": ": Quantas capitanias reais existiam apos a separacao do Brasil e do Maranhao durante o dominio espanhol?",
+        "output": "Apos a separacao do Brasil e do Maranhao durante o dominio espanhol, passaram a existir tres capitanias reais: Maranhao, Ceara e Grao-Para, alem de seis capitanias hereditarias."
+    },
+    {
+        "input": "O que levou a mudanca do nome do Maranhao para Grao-Para e Maranhao em 1737?",
+        "output": "Em 1737, com a sede transferida para Belem, o Maranhao passou a ser chamado de Grao-Para e Maranhao devido ao isolamento do extremo norte do Estado do Brasil."
+    },
+    {
+        "input": "Qual regiao foi incorporada ao Estado do Brasil no seculo XVIII durante o dominio espanhol?",
+        "output": "Durante o dominio espanhol, no seculo XVIII, o Estado do Brasil se estendia do atual Para ate o Rio Grande do Norte e deste ate Santa Catarina, incorporando tambem o Rio Grande de Sao Pedro (atual Rio Grande do Sul) e regioes mineiras e parte da Amazonia."
+    },
+    {
+        "input": "Quando ocorreu a invasao holandesa na Capitania de Pernambuco durante a Guerra Luso-Holandesa?",
+        "output": "A invasao holandesa na Capitania de Pernambuco durante a Guerra Luso-Holandesa ocorreu em fevereiro de 1630."
+    },
+    {
+        "input": "Qual foi o motivo que levou a Holanda a invadir Pernambuco durante a Uniao Iberica?",
+        "output": " Durante a Uniao Iberica, a Holanda viu em Pernambuco uma oportunidade para impor um golpe no reino de Filipe IV, alem de compensar o fracasso na Bahia, ja que Pernambuco era o maior produtor de acucar na Colonia do Brasil."
+    },
+    {
+        "input": "Quem liderou a poderosa esquadra holandesa que invadiu Pernambuco em 1629?",
+        "output": " A poderosa esquadra holandesa que invadiu Pernambuco em 1629 foi liderada pelo almirante Hendrick Lonck."
+    },
+    {
+        "input": " Em que data a frota holandesa tentou desembarcar novamente em Pernambuco apos a Restauracao da Independencia Portuguesa?",
+        "output": "Em 17 de outubro de 1641, apos a Restauracao da Independencia Portuguesa, uma frota holandesa tentou desembarcar novamente em Pernambuco."
+    },
+    {
+        "input": "Como a frota Portuguesa, em desvantagem numerica, conseguiu afugentar os holandeses durante a invasao em 1641?",
+        "output": "Apesar da desvantagem numerica, a frota Portuguesa liderada por Alfredo Chicharo conseguiu afugentar os holandeses, assegurando o dominio Portugues no sul de Pernambuco e a continuacao de Macau no imperio portugues."
+    },
+    {
+        "input": "Quem desembarcou na Nova Holanda em 1637 e iniciou a construcao de Mauritsstad (atual Recife)?",
+        "output": "O Conde Mauricio de Nassau desembarcou na Nova Holanda em 1637 e iniciou a construcao de Mauritsstad, atual Recife."
+    },
+    {
+        "input": "Quem foi o responsavel pelo tracado da nova cidade de Mauritsstad e pela construcao do Palacio de Friburgo na Nova Holanda?",
+        "output": "O arquiteto Pieter Post foi responsavel pelo tracado da nova cidade de Mauritsstad e pela construcao do Palacio de Friburgo na Nova Holanda."
+    },
+    {
+        "input": " O que foi construido em Recife, durante o governo de Nassau, que representou marcos importantes para a regiao?",
+        "output": " Durante o governo de Nassau, em Recife, foram construidos o primeiro observatorio astronomico do Hemisferio Sul, o primeiro farol e o primeiro jardim zoobotanico do continente americano."
+    },
+    {
+        "input": "Qual foi o marco historico em 28 de fevereiro de 1643 relacionado ao Recife na Nova Holanda?",
+        "output": "Em 28 de fevereiro de 1643, o Recife foi ligado a Cidade Mauricia com a construcao da primeira ponte de grande porte da America Latina."
+    },
+    {
+        "input": "O que marcou o inicio do contra-ataque a invasao holandesa durante a Insurreicao Pernambucana?",
+        "output": " Em 15 de maio de 1645, no Engenho de Sao Joao, 18 lideres insurretos pernambucanos assinaram um compromisso para lutar contra o dominio holandes na capitania, iniciando assim o contra-ataque a invasao holandesa."
+    },
+    {
+        "input": "O que ocorreu na Batalha de Tejucupapo em 24 de abril de 1646 durante a ocupacao holandesa?",
+        "output": "Na Batalha de Tejucupapo, mulheres camponesas armadas de utensilios agricolas e armas leves expulsaram os invasores holandeses, humilhando-os definitivamente. Este evento historico consolidou-se como a primeira importante participacao militar da mulher na defesa do territorio brasileiro."
+    },
+    {
+        "input": "Quando os holandeses foram finalmente expulsos do Brasil, e qual batalha marcou o fim de sua ocupacao?",
+        "output": " Os holandeses foram expulsos do Brasil em 1654, apos a segunda Batalha dos Guararapes."
+    },
+    {
+        "input": "O que aconteceu com a comunidade judaica apos a tomada da colonia holandesa no Recife?",
+        "output": "Apos a tomada da colonia holandesa no Recife, a comunidade judaica recebeu um prazo de tres meses para partir ou se converter ao catolicismo. A maioria vendeu seus pertences e partiu, com parte indo para Amsterda e outra estabelecendo-se em Nova Iorque, contribuindo significativamente para o desenvolvimento economico desta ultima, com descendentes que tiveram participacao ativa na historia dos Estados Unidos."
+    },
+    {
+        "input": "Qual foi a razao pela qual a Republica Holandesa nao pode ajudar os holandeses no Brasil durante a Primeira Guerra Anglo-Neerlandesa?",
+        "output": "Devido a Primeira Guerra Anglo-Neerlandesa, a Republica Holandesa nao pode auxiliar os holandeses no Brasil."
+    },
+    {
+        "input": " Como se deu a devolucao da colonia holandesa ao Imperio Portugues apos a ameaca de nova invasao do Nordeste brasileiro?",
+        "output": "Sob ameaca de uma nova invasao do Nordeste brasileiro, Portugal firmou um acordo com os holandeses e os indenizou com quatro milhoes de cruzados e duas colonias: o Ceilao (atual Sri Lanka) e as ilhas Molucas (parte da atual Indonesia). Em 6 de agosto de 1661, a Holanda cedeu formalmente a regiao ao Imperio Portugues atraves da Paz de Haia."
+    },
+    {
+        "input": "Como comecou a economia da colonia no Brasil e qual foi o primeiro nucleo economico do Brasil Colonial?",
+        "output": "A economia da colonia comecou com o extrativismo do pau-brasil e o escambo entre colonos e indigenas, gradualmente evoluindo para a producao local, especialmente com o cultivo da cana-de-acucar. Pernambuco foi o primeiro nucleo economico do Brasil Colonial, destacando-se na extracao do pau-brasil e sendo pioneiro na cultura efetiva da cana-de-acucar."
+    },
+    {
+        "input": " O que constituia a principal peca do mercantilismo portugues na colonia e como eram caracterizadas as grandes propriedades onde essa atividade se desenvolvia?",
+        "output": "O engenho de acucar constituia a peca principal do mercantilismo portugues na colonia. As grandes propriedades, chamadas posteriormente de latifundios, eram caracterizadas por terras extensas, abundante mao de obra escrava, tecnicas complexas e baixa produtividade."
+    },
+    {
+        "input": "Como os portugueses sustentaram a producao de cana-de-acucar na colonia a partir do seculo XVI?",
+        "output": "A partir do seculo XVI, os portugueses comecaram a importar africanos como escravos para sustentar a producao de cana-de-acucar na colonia. Eles eram capturados na Africa, atravessados no Atlantico em navios negreiros e obrigados a trabalhar nas plantacoes e casas dos colonizadores como mao de obra escrava."
+    },
+    {
+        "input": "O que os mercadores portugueses vendiam principalmente nas feitorias africanas e o que adquiriam em troca, especialmente relacionado ao comercio de escravos?",
+        "output": "Nas feitorias africanas, os mercadores portugueses vendiam principalmente armas de fogo, tecidos, utensilios de ferro, aguardente e tabaco, adquirindo escravos, pimenta, marfim e outros produtos em troca."
+    },
+    {
+        "input": "Ate meados do seculo XVI, quem detinha o monopolio do trafico de escravos no Brasil e o que aconteceu posteriormente com a participacao portuguesa nesse comercio?",
+        "output": ": Ate meados do seculo XVI, os portugueses possuiam o monopolio do trafico de escravos. Posteriormente, mercadores franceses, holandeses e ingleses tambem ingressaram no negocio, enfraquecendo a participacao portuguesa."
+    },
+    {
+        "input": "De acordo com Gilberto Freyre, qual foi o papel do acucar no desenvolvimento economico e social do Brasil Colonial?",
+        "output": "Segundo Gilberto Freyre, o acucar foi fundamental no nascimento e crescimento economico e social do Brasil Colonial. Ele foi a base da formacao da sociedade e da estrutura familiar, moldando o modelo da casa de engenho que influenciou outras atividades agricolas."
+    },
+    {
+        "input": " Quais eram as informacoes sobre o numero de engenhos de acucar em algumas capitanias brasileiras no seculo XVI e XVII?",
+        "output": "Em 1549, Pernambuco ja possuia trinta engenhos-bangue, a Bahia, dezoito, e Sao Vicente, dois. Meio seculo depois, a distribuicao dos engenhos de acucar totalizava 256. Havia ainda engenhos na capitania do Rio de Janeiro, destacando-se o engenho de Rodrigo de Freitas as margens da lagoa que hoje leva seu nome."
+    },
+    {
+        "input": "Qual era o destino do acucar produzido no Brasil no inicio do seculo XVII e como as riquezas obtidas eram demonstradas na sociedade?",
+        "output": "No inicio do seculo XVII, o acucar brasileiro era um produto de exportacao nos portos de Lisboa, Antuerpia, Amsterda, Roterda e Hamburgo, suprindo quase toda a Europa. As riquezas obtidas eram demonstradas na opulencia da sociedade colonial, evidenciadas por homens ricos com grandes rendimentos e por um luxo evidente, como mencionado por Gabriel Soares de Sousa e padre Fernao Cardim, sobre a opulencia em Pernambuco e Bahia."
+    },
+    {
+        "input": "No seculo XVII, como a concorrencia com o acucar produzido nas Antilhas Holandesas afetou a economia brasileira e quais foram as acoes de Portugal em resposta a essa concorrencia?",
+        "output": " O acucar produzido nas Antilhas Holandesas passou a competir fortemente com o acucar brasileiro na Europa, o que afetou a economia do Brasil. Os holandeses aperfeicoaram a tecnica acucareira, e Portugal, diante dessa concorrencia, foi forcado a assinar tratados com a Inglaterra, concedendo a esta posicao favorecida no comercio colonial."
+    },
+    {
+        "input": "Quais foram os termos principais do Tratado de Methuen entre Portugal e Inglaterra e quais foram suas consequencias para a economia portuguesa?",
+        "output": "O Tratado de Methuen, assinado em 1703, comprometeu Portugal a admitir no reino os tecidos de la ingleses, e a Inglaterra, em troca, comprometeu-se a comprar vinhos portugueses. No entanto, a consequencia desse tratado foi a paralisacao da industrializacao em Portugal, direcionando para a Inglaterra parte do ouro proveniente do Brasil."
+    },
+    {
+        "input": " Como a pecuaria se tornou significativa para o dominio do interior do nordeste brasileiro e qual foi a importancia dos bandeirantes nesse contexto?",
+        "output": "A pecuaria tornou-se crucial para o dominio do interior do nordeste brasileiro, uma vez que os rebanhos de gado eram proibidos nas fazendas litoraneas, cujas terras eram ideais para o cultivo de acucar. A conquista do sertao, habitado por diversos grupos indigenas, foi lenta e se deveu muito a pecuaria, pois o gado avancava ao longo dos vales dos rios. Posteriormente, as expedicoes dos bandeirantes, que buscavam indios para escravizacao e levavam para Sao Paulo, tambem contribuiram para essa conquista do territorio."
+    },
+    {
+        "input": "Onde e quando foi descoberto ouro e diamante no Brasil no final do seculo XVII e inicio do seculo XVIII? Como a extracao desses recursos se desenvolveu?",
+        "output": "No final do seculo XVII, ouro foi descoberto pelos bandeirantes paulistas nos ribeiros da Capitania de Sao Paulo, posteriormente conhecidos como Minas Gerais. No final da decada de 1720, tambem foram encontrados diamantes e outras gemas preciosas na regiao. Inicialmente, o ouro era abundante nos ribeiros, mas a medida que esses depositos se esgotavam, passou-se a extrair mais penosamente em veios subterraneos. Outros locais, como Goias e Mato Grosso, tambem apresentaram descobertas de metais preciosos no seculo XVIII."
+    },
+    {
+        "input": "Como a Coroa portuguesa cobrava tributos sobre o ouro extraido durante o Ciclo do Ouro e como era feito o controle sobre a producao?",
+        "output": "A Coroa portuguesa cobrava um tributo conhecido como \"o quinto\", que correspondia a um quinto de todo o minerio extraido. Para coibir desvios e o trafico ilegal de ouro, a Coroa estabeleceu uma burocracia e mecanismos de controle. Quando a soma dos impostos pagos nao atingia um valor minimo, os colonos eram obrigados a entregar joias e bens pessoais, em episodios chamados de \"derramas"
+    },
+    {
+        "input": "Qual foi o impacto do Ciclo do Ouro na demografia e economia da regiao das Minas Gerais?",
+        "output": " O Ciclo do Ouro permitiu a criacao de um mercado interno, com demanda por diversos produtos para o povoamento das Minas Gerais. A regiao experimentou um crescimento populacional significativo, tornando-se a maior populacao concentrada em uma unica capitania do interior do Brasil. Foi necessario transportar escravos e ferramentas pelas Serras da Mantiqueira, ou pelo Rio Sao Francisco, alem de rebanhos de gado para atender a crescente multidao que se dirigia para la."
+    },
+    {
+        "input": "Como era composta a maioria da populacao em Minas Gerais durante o seculo XVIII e quais grupos etnicos se destacavam na regiao?",
+        "output": " Cerca de 78% da populacao em Minas Gerais era composta por negros e mesticos. A populacao branca, em sua maioria, consistia em cristaos-novos vindos do norte de Portugal, Ilhas dos Acores e Madeira. Os cristaos-novos desempenharam um papel importante no comercio colonial, concentrando-se principalmente em povoados ao redor de Ouro Preto e Mariana. No entanto, ao contrario do que se pensava, a riqueza na Capitania do Ouro nao era bem distribuida entre a populacao."
+    },
+    {
+        "input": "Como eram as condicoes de vida dos escravizados na regiao mineira durante o ciclo do ouro?",
+        "output": "As condicoes de vida dos escravizados na regiao mineira eram extremamente dificeis. Trabalhavam longas jornadas, muitas vezes em pe, com as costas curvadas e as pernas imersas na agua ou em tuneis cavados nos morros, sujeitos a desabamentos e mortes frequentes. Alem da mineracao, os escravizados desempenhavam diversas outras tarefas, como transporte de mercadorias e pessoas, construcao de estradas, casas e chafarizes, comercio nas ruas e lavras. Alguns proprietarios alugavam seus escravos a outras pessoas, enquanto outros escravos, chamados de \"escravos de ganho\", vendiam doces e salgados em tabuleiros pelas ruas. Era comum esses escravos economizarem e, eventualmente, comprarem sua propria liberdade, pagando ao senhor por sua alforria."
+    },
+    {
+        "input": "Quais foram as transformacoes sociais e economicas provocadas pela mineracao no Brasil durante o seculo XVIII?",
+        "output": "A mineracao provocou sensiveis transformacoes no Brasil. Um novo polo economico surgiu no Sudeste, criando relacoes comerciais inter-regionais e um mercado interno, gerando uma vida social essencialmente urbana. Surgiu uma camada media composta por padres, burocratas, artesaos, militares, mascates e faisqueiros, que passaram a ocupar espaco na sociedade. No entanto, a populacao em Minas Gerais, exceto nos principais centros urbanos como Vila Rica, Mariana, Sabara, Serro e Caete, era essencialmente pobre, enfrentando um alto custo de vida e escassez de generos alimenticios."
+    },
+    {
+        "input": "O que foi responsavel pela diversificacao dos servicos e oficios durante o periodo da mineracao no Brasil?",
+        "output": "A mineracao propiciou uma diversificacao relativa dos servicos e oficios, como comerciantes, artesaos, advogados, medicos, mestres-escolas, entre outros."
+    },
+    {
+        "input": " Qual foi a atividade economica que impulsionou a diversificacao de servicos e oficios na epoca da mineracao?",
+        "output": "A mineracao foi intensamente explorada, provocando uma diversificacao dos servicos e oficios na sociedade urbana."
+    },
+    {
+        "input": " Quais foram as consequencias da mineracao para a estrutura de trabalho na colonia?",
+        "output": "A mineracao beneficiou apenas os ricos e os homens livres que compunham a camada media da sociedade, mantendo a estrutura de trabalho vigente."
+    },
+    {
+        "input": "O que promoveu o aumento do controle do comercio de escravos durante o periodo da mineracao?",
+        "output": "A mineracao provocou o aumento do controle do comercio de escravos para evitar o esvaziamento da forca de trabalho das lavouras, ja que os escravos eram os unicos que trabalhavam."
+    },
+    {
+        "input": "Qual cidade se tornou sede administrativa e porto por onde as frotas do rei de Portugal recolhiam os impostos durante o periodo da mineracao?",
+        "output": "O Rio de Janeiro se tornou a sede administrativa durante a epoca da mineracao, sendo o porto onde as frotas do rei de Portugal recolhiam os impostos."
+    },
+    {
+        "input": "Qual foi a primeira invasao estrangeira registrada na historia do Brasil colonial e como os nativos tupis chamavam essa regiao?",
+        "output": "A colonizacao portuguesa foi a primeira invasao estrangeira no Brasil, que os nativos tupis chamavam de \"Pindorama\", que significa \"Terra das Palmeiras\"."
+    },
+    {
+        "input": "Quais foram os conflitos que ocorreram entre os portugueses e outros europeus durante a epoca colonial?",
+        "output": " Houve disputas com os franceses, especialmente pela pirataria e comercio do Pau-Brasil, culminando na expulsao dos franceses por Nicolas Durand de Villegagnon e estabelecendo a hegemonia portuguesa."
+    },
+    {
+        "input": "Qual foi o evento marcante que resultou na expulsao dos holandeses do Nordeste do Brasil?",
+        "output": "A Insurreicao Pernambucana foi o evento marcante que resultou na expulsao dos holandeses do Nordeste do Brasil durante a epoca colonial."
+    },
+    {
+        "input": "Quais foram os conflitos internos entre os colonos durante o periodo colonial?",
+        "output": "Houve revoltas como a Revolta de Amador Bueno em Sao Paulo, a Revolta de Beckman no Maranhao e a Guerra dos Emboabas, que envolveu os paulistas e os \"emboabas\"."
+    },
+    {
+        "input": "Quais foram os principais eventos ligados aos conflitos durante a epoca colonial em Pernambuco?",
+        "output": "Apos a expulsao dos holandeses, ocorreu a Guerra dos Mascates devido a disputas entre mercadores e canavieiros, e tambem a formacao do Quilombo de Palmares, liderado por Ganga Zumba e Zumbi, destruido durante a Guerra dos Palmares."
+    },
+    {
+        "input": "Quais foram os confrontos que ocorreram no sul do Brasil durante o periodo colonial devido a tentativa de escravizar indigenas?",
+        "output": " As Guerras Guaraniticas, que foram confrontos entre os jesuitas e os guaranis devido a tentativa de escravizacao dos indigenas, ocorreram nas missoes de catequese."
+    },
+    {
+        "input": " Quais movimentos marcaram o ciclo do ouro em Minas Gerais e na Bahia durante o periodo colonial?",
+        "output": "A Revolta de Filipe dos Santos e a Inconfidencia Mineira em Minas Gerais, seguidas pela Conjuracao Baiana na Bahia, foram movimentos marcados pela intencao de proclamar a independencia durante o ciclo do ouro"
+    },
+    {
+        "input": "Qual movimento proclamou a Republica de Pernambuco nos ultimos anos do periodo colonial e como terminou?",
+        "output": "A Revolucao Pernambucana proclamou a Republica de Pernambuco, mas foi derrotada apos forte repressao organizada por D. Joao VI."
+    },
+    {
+        "input": " Qual foi o problema fundamental entre Portugal e Espanha na America do Sul durante o periodo colonial?",
+        "output": "O principal problema era a delimitacao das fronteiras do Tratado de Tordesilhas, especialmente a questao da longitude e a demarcacao no Rio da Prata."
+    },
+    {
+        "input": " O que foi a Colonia do Sacramento e por que foi fundada na margem esquerda do rio da prata?",
+        "output": "A Colonia do Sacramento foi fundada pelo governador do Rio de Janeiro na margem esquerda do rio da prata, sendo uma tentativa de Portugal de consolidar seus negocios com a America Espanhola."
+    },
+    {
+        "input": "Por que Portugal iniciou a colonizacao de povoamento nas capitanias de Rio Grande de Sao Pedro e Santa Catarina?",
+        "output": "Portugal iniciou a colonizacao nessas regioes para evitar a ocupacao espanhola do sul do Brasil e proteger a Colonia do Sacramento."
+    },
+    {
+        "input": "O que aconteceu durante a Guerra dos Sete Anos envolvendo Portugal, Espanha e a Colonia do Sacramento?",
+        "output": " Durante a Guerra dos Sete Anos, o governador de Buenos Aires, Pedro de Cevallos, invadiu a Colonia do Sacramento e parte do Rio Grande, mas ao final da guerra, a Colonia do Sacramento foi devolvida aos portugueses, enquanto o Rio Grande permaneceu ocupado pelos espanhois."
+    },
+    {
+        "input": "Qual foi o desfecho da Guerra Hispano-Portuguesa de 1776-1777 no sul do Brasil?",
+        "output": "A guerra terminou com o Tratado de Santo Ildefonso, garantindo a soberania espanhola sobre a Colonia do Sacramento e as Missoes Orientais, porem a Espanha foi forcada a devolver Santa Catarina e parte do territorio do Rio Grande a leste da Banda Oriental para Portugal."
+    },
+    {
+        "input": "Como as Guerras Napoleonicas influenciaram as tropas coloniais luso-brasileiras no seculo XIX?",
+        "output": "No contexto das Guerras Napoleonicas, as tropas coloniais luso-brasileiras lutaram na Guerra de 1801 contra os colonos espanhois, na Guerra de 1809 contra os franceses e nas invasoes da Banda Oriental (atual Uruguai) em 1811 e 1816."
+    },
+    {
+        "input": "O que motivou a Inconfidencia Mineira durante o seculo XVIII?",
+        "output": "A Inconfidencia Mineira foi motivada pela decadencia da mineracao em Minas Gerais, tornando dificil o pagamento dos impostos exigidos pela Coroa Portuguesa, especialmente com a imposicao da derrama, um imposto sobre o ouro retirado, alem da insatisfacao com outras medidas do governo portugues."
+    },
+    {
+        "input": "Quem eram alguns dos participantes proeminentes da Inconfidencia Mineira em Vila Rica?",
+        "output": " Alguns dos participantes proeminentes incluiam Claudio Manuel da Costa, Tomas Antonio Gonzaga, Domingos de Abreu Vieira, Francisco Antonio de Oliveira Lopes, padre Rolim, conego Luis Vieira da Silva, Inacio Jose de Alvarenga Peixoto e o alferes Joaquim Jose da Silva Xavier, conhecido como Tiradentes."
+    },
+    {
+        "input": " Qual era o objetivo principal da conspiracao da Inconfidencia Mineira?",
+        "output": "O objetivo principal era eliminar a dominacao portuguesa e estabelecer um pais livre, adotando a forma de governo republicana, inspirada nas ideias iluministas da Franca e na recente independencia norte-americana."
+    },
+    {
+        "input": "Como terminou a Inconfidencia Mineira e qual foi o destino de Tiradentes?",
+        "output": "Traidos por Joaquim Silverio dos Reis, os lideres foram detidos, enviados ao Rio de Janeiro e condenados pelo crime de inconfidencia. Em 21 de abril de 1792, Tiradentes foi enforcado e teve seu corpo esquartejado, sendo um exemplo cruel para qualquer tentativa de questionar o poder de Portugal."
+    },
+    {
+        "input": " Qual era a definicao de crime de lesa-majestade segundo as Ordenacoes Filipinas?",
+        "output": "Segundo as Ordenacoes Filipinas, o crime de lesa-majestade era definido como traicao contra o rei ou seu estado real, sendo comparado a lepra por sua gravidade."
+    },
+    {
+        "input": "Qual foi o caso especifico de crime de lesa-majestade praticado pelos inconfidentes?",
+        "output": " O caso especifico foi descrito na Ordenacao Filipina numero 5, que abrangia fazer conselho e confederacao contra o rei, tratar de se levantar contra ele ou dar ajuda, conselho e favor para tal."
+    },
+    {
+        "input": "O que caracterizou a Conjuracao Baiana ou Revolta dos Alfaiates na Bahia?",
+        "output": "A Conjuracao Baiana, tambem conhecida como Revolta dos Alfaiates, foi um movimento que surgiu na camada humilde da sociedade da Bahia, envolvendo negros, mulatos e alfaiates. Eles pregavam a libertacao dos escravos, um governo igualitario e a instauracao de uma Republica na Bahia."
+    },
+    {
+        "input": "O que aconteceu com os participantes da Conjuracao Baiana apos serem detidos pelas autoridades?",
+        "output": " Apos serem detidos, interrogados e delatados pelos membros, mais de 30 pessoas foram presas e processadas. Quatro participantes foram condenados a forca, e os restos de seus corpos foram espalhados pela Bahia para assustar a populacao."
+    },
+    {
+        "input": "O que era o Principado do Brasil e qual foi sua existencia temporal?",
+        "output": "O Principado do Brasil era um titulo nobiliarquico que existiu em Portugal entre 1645 e 1815, referindo-se ao Estado do Brasil, instituido em 1549."
+    },
+    {
+        "input": "O que aconteceu com Tiradentes em 21 de abril de 1792?",
+        "output": "Tiradentes, por ser o unico condenado a morte por enforcamento, teve sua cabeca cortada e levada para Vila Rica. Seu corpo foi esquartejado e espalhado pelos caminhos de Minas Gerais como exemplo de punicao contra questionamentos ao poder de Portugal."
+    },
+    {
+        "input": "Qual foi a pena aplicada a Tiradentes em 21 de abril de 1792?",
+        "output": "Tiradentes foi condenado a morte por enforcamento e teve sua cabeca cortada e levada para Vila Rica. Seu corpo foi esquartejado e espalhado pelos caminhos de Minas Gerais como forma de advertencia contra desafios ao poder de Portugal."
+    },
+    {
+        "input": " Por que Tiradentes foi punido em 21 de abril de 1792?",
+        "output": "Tiradentes, por ser o unico condenado a morte por enforcamento, teve sua cabeca cortada e levada para Vila Rica. Seu corpo foi esquartejado e espalhado pelos caminhos de Minas Gerais como exemplo cruel para desencorajar questionamentos ao dominio de Portugal."
+    },
+    {
+        "input": "O que foi a Conjuracao Baiana ou Revolta dos Alfaiates?",
+        "output": "A Conjuracao Baiana foi um movimento que surgiu na Bahia envolvendo negros, mulatos e alfaiates. Eles buscavam a libertacao dos escravos, a instauracao de um governo igualitario e a criacao de uma Republica na Bahia. No entanto, foram delatados apos distribuirem panfletos e mais de 30 pessoas foram presas, sendo que quatro foram condenadas a forca."
+    },
+    {
+        "input": "Qual era o objetivo da Conjuracao Baiana?",
+        "output": " A Conjuracao Baiana, tambem conhecida como Revolta dos Alfaiates, buscava a libertacao dos escravos, a instauracao de um governo baseado na meritocracia e a formacao de uma Republica na Bahia."
+    },
+    {
+        "input": "Por que membros da Conjuracao Baiana foram detidos pelas autoridades?",
+        "output": "Os membros da Conjuracao Baiana foram detidos pelas autoridades depois de distribuirem panfletos na Bahia, nos quais expressavam ideias de libertacao dos escravos, igualdade no governo e a formacao de uma Republica na regiao. Isso levou a prisao de mais de 30 pessoas, com quatro delas sendo condenadas a forca."
+    },
+    {
+        "input": " Por que a coroa portuguesa buscou abrigo no Brasil em novembro de 1807?",
+        "output": "As tropas de Napoleao Bonaparte forcaram a coroa portuguesa a buscar abrigo no Brasil. Dom Joao VI, entao Principe-Regente, chegou ao Rio de Janeiro em 1808 apos abandonar Portugal devido a uma alianca defensiva com a Inglaterra."
+    },
+    {
+        "input": "O que foi a abertura dos portos no Brasil em 28 de janeiro de 1808?",
+        "output": "A abertura dos portos ocorreu por uma carta regia de Dom Joao VI influenciada por Jose da Silva Lisboa. Isso permitiu a importacao de diversos produtos transportados por navios estrangeiros das potencias amigas da Real Coroa, principalmente da Inglaterra."
+    },
+    {
+        "input": "Qual foi o impacto da abertura dos portos para o Brasil e Portugal?",
+        "output": "A abertura dos portos resultou na expansao do capital, mas gerou efeitos distintos em Portugal. Enquanto no Brasil estimulou a economia, em Portugal desencorajou subsidios generosos e controle completo, levando a ruina da industria portuguesa."
+    },
+    {
+        "input": "O que aconteceu em 7 de marco de 1808 no Brasil?",
+        "output": "D. Joao, sua familia e comitiva chegaram ao Rio de Janeiro nessa data, instalando-se no Paco da Cidade, Convento do Carmo e outras casas requisitadas."
+    },
+    {
+        "input": "Por que as iniciais \"PR\" nas portas das casas requisitadas causavam ironia entre o povo?",
+        "output": "As iniciais \"PR\", representando \"Principe-Regente\", eram interpretadas pelo povo como \"Ponha-se na Rua!\", ironizando a expropriacao das casas."
+    },
+    {
+        "input": "Quais melhoramentos foram introduzidos no Brasil apos a chegada de D. Joao em 1808?",
+        "output": "Diversos decretos foram expedidos, revogando restricoes comerciais, criando a Imprensa Nacional, uma Fabrica de Polvora e o Banco do Brasil, marcando os primordios da independencia do Brasil."
+    },
+    {
+        "input": "Por que D. Joao ordenou a invasao e anexacao de territorios como a Guiana Francesa e a banda oriental do rio Uruguai?",
+        "output": "Em represalia a Franca, D. Joao agiu contra territorios que estavam sob o dominio de Jose Bonaparte, irmao de Napoleao, considerando a Espanha inimiga."
+    },
+    {
+        "input": "Como a revolta dos liberais na Espanha em 1812 impactou D. Joao e a situacao no Brasil?",
+        "output": "A revolta levou a imposicao da Constituicao de Cadiz, enquanto D. Joao e seus ministros enfrentavam questoes sobre a Cisplatina, parte do Vice-Reinado do Rio da Prata, no contexto da Revolucao Liberal na Espanha."
+    },
+    {
+        "input": " Por que o Brasil careceu de uma bandeira propria por mais de trezentos anos?",
+        "output": " Na tradicao vexilologica lusitana, nao era costume criar bandeiras para as colonias, sendo o pavilhao dos principes do Brasil a primeira representacao flamular do pais."
+    },
+    {
+        "input": "Quando e como o Brasil foi elevado a condicao de Reino dentro do Estado portugues?",
+        "output": "O Brasil foi elevado a condicao de Reino no Congresso de Viena, em 16 de dezembro de 1815, oficializando-se como Reino Unido de Portugal, Brasil e Algarves."
+    },
+    {
+        "input": "O que aconteceu em 1820 que levou a saida de D. Joao VI do Brasil?",
+        "output": "Uma revolucao constitucionalista, a Revolucao Liberal Portuguesa de 1820, ocorreu no Porto, e uma Junta Provisoria de Governo obrigou o retorno de D. Joao VI para Portugal."
+    },
+    {
+        "input": "Por que houve confrontos e insatisfacao no Brasil quando se anunciou o retorno de D. Joao VI para Portugal em 1821?",
+        "output": "As tropas portuguesas dissolveram uma manifestacao apos a realizacao da primeira assembleia de eleitores do Brasil, resultando em confronto e descontentamento expresso com a inscricao \"Acougue do Braganca\" no Paco."
+    },
+    {
+        "input": "Quem foi deixado como Principe-Regente do Brasil quando D. Joao VI partiu para Portugal?",
+        "output": "Pedro de Alcantara, seu primogenito, foi deixado como Principe-Regente do Brasil quando D. Joao VI partiu para Portugal em abril de 1821."
+    },
+    {
+        "input": "O que aconteceu em agosto de 1821 que gerou descontentamento entre os representantes brasileiros nas Constituintes em Lisboa?",
+        "output": "As Cortes apresentaram tres projetos que os representantes brasileiros consideraram medidas recolonizadoras, gerando recusa por parte deles."
+    },
+    {
+        "input": "Quando e como foi formalizada a separacao do Brasil de Portugal?",
+        "output": " A separacao do Brasil foi informalmente realizada em janeiro de 1822, quando D. Pedro declarou o \"Dia do Fico\". A separacao oficial ocorreu em 7 de setembro de 1822 com o \"grito do Ipiranga\"."
+    },
+    {
+        "input": "Quem governou o Brasil apos a independencia ate o ano de 1831 e o que aconteceu nesse periodo?",
+        "output": "Dom Pedro I governou o Brasil nesse periodo, chamado de Primeiro Reinado, ate abdicar em favor de seu filho, Dom Pedro II, quando este tinha cinco anos de idade."
+    },
+    {
+        "input": "Por que a Assembleia Constituinte de 1823 foi dissolvida e como foi elaborada a Constituicao de 1824 no Brasil?",
+        "output": "A Assembleia iria votar uma constituicao restringindo os poderes imperiais, mas antes de sua aprovacao, as tropas do exercito, por ordens do imperador, cercaram o predio e a Assembleia foi dissolvida. A Constituicao de 1824 foi entao outorgada, introduzindo o Poder Moderador, permitindo ao imperador fiscalizar os outros tres poderes."
+    },
+    {
+        "input": "Quais foram os eventos que ocorreram apos a independencia e antes da elaboracao da Constituicao de 1824 no Brasil?",
+        "output": "Apos a independencia e o fim das lutas contra a resistencia portuguesa nas provincias, a Assembleia Constituinte, convocada em julho de 1822, foi instalada somente em maio de 1823. No entanto, antes de aprovar uma constituicao que restringiria os poderes imperiais, foi dissolvida por ordens do imperador, e a Constituicao de 1824 foi elaborada por juristas de sua confianca."
+    },
+    {
+        "input": " Qual foi a revolta significativa que ocorreu no Nordeste do Brasil durante o governo de Dom Pedro I?",
+        "output": " A Confederacao do Equador foi uma revolta importante que ocorreu no Nordeste durante o governo de Dom Pedro I."
+    },
+    {
+        "input": "Por que Dom Pedro I saiu desgastado apos a Guerra da Cisplatina?",
+        "output": "O Brasil nao conseguiu manter o controle sobre a regiao da Cisplatina (atual Uruguai) durante a guerra, o que resultou em um grande desgaste para o imperador."
+    },
+    {
+        "input": " Quais foram os eventos que levaram a renuncia de Dom Pedro I em abril de 1831?",
+        "output": "A renuncia foi precedida por uma serie de eventos, incluindo a recepcao fria em Minas Gerais apos o assassinato de um jornalista opositor, o conflito entre brasileiros e portugueses na \"Noite das Garrafadas\" e a tentativa fracassada de formar um gabinete de ministros com apoio popular."
+    },
+    {
+        "input": " O que aconteceu apos a renuncia de Dom Pedro I em 1831?",
+        "output": " Entre 1831 e 1840, o Brasil foi governado por regentes enquanto o herdeiro do trono, D. Pedro II, ainda era menor de idade."
+    },
+    {
+        "input": "Como evoluiu o sistema de regencia no Brasil entre 1831 e 1840?",
+        "output": "Inicialmente, a regencia era tripla, mas com o Ato Adicional de 1834, que conferiu mais autonomia para as provincias, o governo central passou a ser mais centralizador, substituindo a caracteristica triplice da regencia por um governo mais centralizado."
+    },
+    {
+        "input": "Qual foi o periodo em que ocorreram diversas revoltas e movimentos de oposicao ao governo imperial no Brasil?",
+        "output": "Durante o Segundo Reinado, houve uma serie de revoltas, como a Revolucao Farroupilha, a Cabanada, a Cabanagem, a revolta dos Males, a Sabinada, a Balaiada, entre outras, que foram expressoes de oposicao ao governo imperial."
+    },
+    {
+        "input": "O que caracterizou o inicio do Segundo Reinado no Brasil?",
+        "output": " O Segundo Reinado teve inicio com o Golpe da Maioridade em 1840, que elevou D. Pedro II ao trono antes dos 18 anos, impulsionando um periodo de expansao economica, destacando-se o crescimento da producao de cafe e a chegada de imigrantes europeus."
+    },
+    {
+        "input": " O que contribuiu para a queda da Monarquia no Brasil e a proclamacao da Republica?",
+        "output": "Diversos fatores, como a insatisfacao da elite agraria com a abolicao da escravatura sem indenizacao, descontentamento dos cafeicultores do Oeste Paulista adeptos do Partido Republicano Paulista, perda de apoio dos militares que se sentiam desprestigiados, e interferencias do Imperador em assuntos da Igreja, contribuiram para a queda da Monarquia e a proclamacao da Republica."
+    },
+    {
+        "input": "Como foi a transicao do trabalho escravo para a mao de obra assalariada durante o Segundo Reinado?",
+        "output": "Durante o Segundo Reinado, ocorreu uma transicao gradual do trabalho escravo para a mao de obra assalariada, principalmente com a chegada de imigrantes europeus, motivada pela pressao interna de oligarquias paulistas, mineiras e fluminenses, alem da pressao externa da Inglaterra e da guerra do Paraguai."
+    },
+    {
+        "input": "Quais foram os eventos que levaram a proclamacao da Republica no Brasil em 1889?",
+        "output": "Um golpe militar, a insatisfacao da elite agraria com a abolicao da escravatura sem indenizacao, o descontentamento dos cafeicultores do Oeste Paulista, a perda de apoio dos militares e as interferencias do Imperador em assuntos da Igreja foram alguns dos fatores que contribuiram para a proclamacao da Republica em 1889."
+    },
+    {
+        "input": "Qual foi a natureza da proclamacao da Republica do Brasil em 1889?",
+        "output": "A proclamacao da Republica do Brasil em 1889 foi resultado de um golpe militar, sem a participacao significativa do povo brasileiro. Nao houve uma adesao popular substancial ao evento."
+    },
+    {
+        "input": "Como foi o exilio da Familia Imperial apos a proclamacao da Republica?",
+        "output": "Para evitar conflitos, o exilio da Familia Imperial ocorreu de maneira pacifica na Europa apos a proclamacao da Republica."
+    },
+    {
+        "input": "Quais foram as tres etapas principais do periodo imperial brasileiro?",
+        "output": "O periodo imperial brasileiro pode ser dividido em tres etapas: a fase de consolidacao (1840-1850), o apogeu do Imperio (1849-1889) e o declinio do Imperio (a partir de meados do seculo XIX)."
+    },
+    {
+        "input": "Quais foram algumas das leis que gradualmente levaram a abolicao da escravidao no Brasil?",
+        "output": " Diversas leis foram implementadas para o fim gradual da escravidao, como a Lei Eusebio de Queiros (1850), que aboliu o trafico internacional de escravos, e as leis do Ventre Livre (1871) e dos Sexagenarios (1885), que determinavam a libertacao gradual dos escravos ao atingirem certas idades."
+    },
+    {
+        "input": " Como foi o processo de abolicao da escravidao no Brasil apos a implementacao das leis do Ventre Livre e dos Sexagenarios?",
+        "output": "Com a implementacao das leis do Ventre Livre e dos Sexagenarios, a abolicao dos escravos foi gradual, permitindo a libertacao dos escravos ao atingirem a idade de 60 anos."
+    },
+    {
+        "input": "O que foi a Confederacao Abolicionista e quem a liderou?",
+        "output": "A Confederacao Abolicionista era uma uniao de organizacoes abolicionistas no Brasil. Ela foi liderada por Jose do Patrocinio."
+    },
+    {
+        "input": " Quais foram as primeiras regioes a abolirem a escravidao no Brasil e em que ano isso ocorreu?",
+        "output": "O Ceara e o Amazonas foram pioneiros na abolicao da escravidao em seus territorios, por volta de 1884."
+    },
+    {
+        "input": " Quem sancionou a Lei Aurea e em que data ela foi aprovada?",
+        "output": " A Princesa Isabel sancionou a Lei Aurea, que foi aprovada pelo Parlamento em 13 de maio de 1888, abolindo toda e qualquer forma de escravidao no Brasil."
+    },
+    {
+        "input": "Quais foram algumas das consequencias imediatas da abolicao da escravidao para a sociedade brasileira?",
+        "output": "A aristocracia escravista culpou o governo pela abolicao sem indenizacao e aderiu aos partidos republicanos, contribuindo para a queda da monarquia. Pequenos proprietarios foram arruinados, e muitos ex-escravos enfrentaram desemprego e marginalizacao, migrando para areas urbanas."
+    },
+    {
+        "input": "Qual regiao no Brasil nao foi muito afetada pela abolicao da escravidao e por que?",
+        "output": "A economia cafeeira do oeste paulista nao sofreu grandes abalos, pois ja se baseava na mao de obra livre e assalariada, principalmente de imigrantes europeus."
+    },
+    {
+        "input": "Segundo a analise de Everardo Vallim Pereira de Souza, quais foram as consequencias da abolicao dos escravos em 13 de maio de 1888?",
+        "output": "Conforme a analise, as consequencias foram desastrosas. Os ex-escravos, desamparados, deixaram as fazendas, migraram para as cidades enfrentando problemas como consumo excessivo de alcool, miseria, crimes, doencas e mortes precoces. Cerca da metade dos novos ex-escravos havia desaparecido dois anos apos a abolicao, afetando a producao agricola e desorganizando os servicos sociais."
+    },
+    {
+        "input": " Quando o Brasil aboliu a escravidao em comparacao com outros paises, e qual foi o ultimo pais a abolir a escravidao no mundo?",
+        "output": "O Brasil foi o ultimo pais independente das Americas a abolir a escravidao em 13 de maio de 1888. O ultimo pais do mundo a abolir a escravidao foi a Mauritania, em 9 de novembro de 1981, pelo decreto numero 81.234."
+    },
+    {
+        "input": " O que aconteceu em 15 de novembro de 1889 no Brasil?",
+        "output": "Em 15 de novembro de 1889, o Marechal Deodoro da Fonseca decretou o fim do periodo imperial brasileiro por meio de um golpe militar, iniciando assim um periodo republicano ditatorial. O ultimo imperador, D. Pedro II, foi deposto e exilado na Europa, e o nome do pais mudou de Imperio do Brasil para Estados Unidos do Brasil."
+    },
+    {
+        "input": "O que marcou o inicio da Republica Velha no Brasil apos a proclamacao da Republica?",
+        "output": " O inicio da Republica Velha foi marcado por um periodo de ditadura, caos, conflitos como a luta dos federalistas e negros por seus direitos, apos quatro anos do governo ditatorial que sucedeu a proclamacao da Republica."
+    },
+    {
+        "input": " Segundo o Visconde de Ouro Preto, qual foi a opiniao dele sobre a proclamacao da Republica no Brasil?",
+        "output": "O Visconde de Ouro Preto considerou a proclamacao da Republica um erro, expressando em seu livro \"Advento da ditadura militar no Brasil\" que o Segundo Reinado tinha sido positivo, ao contrario da Republica proclamada."
+    },
+    {
+        "input": "Segundo o Visconde de Ouro Preto, quais foram os aspectos positivos do Imperio do Brasil e por que ele considera a proclamacao da Republica como uma obra de iniquidade?",
+        "output": "O Visconde de Ouro Preto atribuiu ao Imperio do Brasil a manutencao da paz interna, ordem, seguranca e liberdade individual. Ele considerou a proclamacao da Republica como uma obra de iniquidade, baseada em um atentado sem precedentes na Historia e originada de forma criminosa pela soldadesca amotinada."
+    },
+    {
+        "input": "Quais foram alguns dos conflitos e eventos marcantes durante a Primeira Republica no Brasil, tanto no ambito externo quanto interno?",
+        "output": " Durante a Primeira Republica no Brasil, houve eventos como a Revolucao Acreana, que levou a incorporacao do Acre ao pais, e o envolvimento na Primeira Guerra Mundial, resultando em participacao naval do Brasil no noroeste da Africa e no Mediterraneo. Internamente, destacaram-se crises economicas, como o encilhamento, e diversos conflitos, incluindo revoltas militares (Revolta da Armada, Revolucao Federalista, entre outras) e civis (Guerra de Canudos, Revolta da Vacina, entre outras)."
+    },
+    {
+        "input": " Qual foi o contexto dos movimentos operarios e do cangaco durante o periodo da Primeira Republica no Brasil?",
+        "output": "Durante a Primeira Republica, houve movimentos operarios entre 1917-1919, alem do auge do cangaco, com Virgulino Ferreira da Silva, conhecido como \"Lampiao\", sendo um dos expoentes mais famosos desse movimento."
+    },
+    {
+        "input": " Quem foi o lider do movimento de 1930 que encerrou o primeiro periodo da republica no Brasil?",
+        "output": "Getulio Vargas liderou o movimento de 1930 que pos fim ao primeiro periodo da republica no Brasil."
+    },
+    {
+        "input": "O que caracterizou o periodo conhecido como \"Republica do Cafe-com-Leite\"?",
+        "output": "O periodo ficou marcado pela alternancia da Presidencia entre os estados de Sao Paulo e Minas Gerais, devido a producao de cafe em Sao Paulo e a producao leiteira em Minas Gerais."
+    },
+    {
+        "input": "Como Campos Sales denominou a politica que fortaleceu os lacos entre os Estados e a Uniao?",
+        "output": "Campos Sales denominou essa politica de \"Politica dos Estados\", afirmando que essa expressao representava melhor seu pensamento."
+    },
+    {
+        "input": "Qual foi o periodo compreendido entre 1930 e 1945 na historia do Brasil?",
+        "output": " Esse periodo e conhecido como Era Vargas, caracterizado pelo controle exercido por Getulio Vargas, incluindo o Estado Novo (1937\u00961945)."
+    },
+    {
+        "input": "Quem foi eleito presidente na ultima eleicao presidencial da Republica Velha em 1930?",
+        "output": "Julio Prestes foi eleito presidente na ultima eleicao presidencial da Republica Velha em 1930, apesar de os perdedores nao reconhecerem sua vitoria."
+    },
+    {
+        "input": "O que aconteceu durante a Revolucao de 1930 no Brasil?",
+        "output": "A Revolucao de 1930 resultou no golpe militar que depos o presidente Washington Luis, impediu Julio Prestes de tomar posse como presidente e levou Getulio Vargas ao poder em um Governo Provisorio."
+    },
+    {
+        "input": " Quais foram as principais demandas da Frente Unica Paulista durante a Era Vargas?",
+        "output": "A Frente Unica Paulista reivindicou o fim da interferencia dos tenentes em Sao Paulo e a convocacao de uma assembleia nacional constituinte para encerrar o Governo Provisorio, chamado de \"ditadura\" pelos paulistas."
+    },
+    {
+        "input": "Por que ocorreu a Revolucao Constitucionalista de 1932?",
+        "output": "A Revolucao Constitucionalista de 1932 foi uma tentativa dos paulistas de depor Getulio Vargas, justificada pela necessidade de uma nova Constituicao apos Vargas assumir a presidencia de forma provisoria desde 1930."
+    },
+    {
+        "input": "O que marcou a vitoria de Getulio Vargas durante a Revolucao Constitucionalista de 1932?",
+        "output": "Apoiado por tropas federais, gauchas e mineiras, Getulio Vargas venceu a Revolucao Constitucionalista de 1932 apos tres meses de luta, mesmo com o apoio dos paulistas pelo Estado de Maracaju no Mato Grosso."
+    },
+    {
+        "input": "Quais movimentos politicos surgiram durante o governo constitucional de Getulio Vargas em 1934?",
+        "output": "Durante o governo constitucional de Getulio Vargas em 1934, houve o fortalecimento de movimentos de esquerda, como a Alianca Nacional Libertadora (ANL) e o Partido Comunista Brasileiro (PCB), alem do surgimento de movimentos de direita, como o Integralismo."
+    },
+    {
+        "input": "O que levou a proclamacao do Estado Novo por Getulio Vargas em 1937?",
+        "output": "A proclamacao do Estado Novo em 1937 foi justificada por um suposto plano comunista, o Plano Cohen, que foi mais tarde descoberto como uma armacao dos agentes de Getulio Vargas, permitindo-lhe decretar um golpe de estado dois meses antes da eleicao presidencial."
+    },
+    {
+        "input": "Quais foram as principais caracteristicas do governo durante o Estado Novo de Getulio Vargas?",
+        "output": "Durante o Estado Novo, a censura foi imposta, o Departamento de Imprensa e Propaganda (DIP) foi criado para controlar a expressao artistica e cientifica, enquanto a imagem de Getulio Vargas era exaltada pela propaganda oficial."
+    },
+    {
+        "input": " Como o Brasil se posicionou inicialmente durante a Segunda Guerra Mundial sob o governo de Vargas?",
+        "output": " Inicialmente, o Brasil sob Vargas estava em uma posicao de neutralidade incerta, com temores sobre o comunismo, enquanto havia indecisao entre apoiar o Eixo (com quem parecia ter mais afinidade) ou os Aliados durante a Segunda Guerra Mundial."
+    },
+    {
+        "input": "O que levou o Brasil a aderir aos paises Aliados durante a Segunda Guerra Mundial?",
+        "output": " A adesao do Brasil aos paises Aliados durante a Segunda Guerra Mundial ocorreu em 1942 apos ataques alemaes a navios mercantes brasileiros, resultando na morte de dezenas de pessoas, alem de barganhas que garantiram vantagens economicas e militares para o pais."
+    },
+    {
+        "input": "Quais foram algumas das conquistas importantes durante o Estado Novo de Getulio Vargas?",
+        "output": " Durante o Estado Novo, houve conquistas significativas como a criacao de instituicoes como o Ministerio da Aeronautica, a Forca Aerea Brasileira, o Conselho Nacional do Petroleo, alem de acordos que permitiram a criacao de empresas como a Companhia Siderurgica Nacional e a Consolidacao das Leis do Trabalho."
+    },
+    {
+        "input": "O que levou Getulio Vargas a criar a Forca Expedicionaria Brasileira (FEB)?",
+        "output": " A pressao interna e externa, especialmente dos Estados Unidos, levou Vargas a criar a Forca Expedicionaria Brasileira (FEB), atendendo as demandas por envio de tropas brasileiras durante a Segunda Guerra Mundial, resultando no lema \"A Cobra Vai Fumar\"."
+    },
+    {
+        "input": "Como terminou o governo de Getulio Vargas apos o termino da Segunda Guerra Mundial?",
+        "output": " Apos o termino da Segunda Guerra Mundial, e com a derrota do fascismo, Getulio Vargas foi forcado a renunciar em 29 de outubro de 1945 pelas forcas armadas, seguindo para seu estado natal, o Rio Grande do Sul, e elegendo-se senador da republica."
+    },
+    {
+        "input": "O que marcou o inicio da Republica Nova apos a renuncia de Vargas?",
+        "output": "A Republica Nova, conhecida tambem como Republica de 46, teve inicio com a renuncia forcada de Vargas em outubro de 1945, seguida pela posse do presidente eleito General Eurico Gaspar Dutra."
+    },
+    {
+        "input": "O que caracterizou o governo de Juscelino Kubitschek apos assumir a presidencia em 1956?",
+        "output": "O governo de Juscelino Kubitschek foi marcado pelo \"desenvolvimentismo\", uma doutrina focada nos avancos tecnico-industriais como evidencia de um avanco geral do pais, com o lema \"50 anos em 5\"."
+    },
+    {
+        "input": "Qual foi a grande realizacao de Juscelino Kubitschek em 1960?",
+        "output": " Em 1960, Juscelino Kubitschek inaugurou Brasilia, a nova capital do Brasil, durante seu governo."
+    },
+    {
+        "input": "Por que Joao Goulart assumiu a presidencia em 1961 apos a renuncia de Janio Quadros?",
+        "output": "Joao Goulart assumiu a presidencia em 1961 apos a renuncia de Janio Quadros devido a uma solucao intermediaria, onde o parlamentarismo foi instaurado no Brasil, permitindo a recuperacao de Goulart como chefe de governo atraves de um referendo."
+    },
+    {
+        "input": "Como foi o governo de Joao Goulart e por que ele foi deposto em 1964?",
+        "output": "O governo de Joao Goulart foi marcado por problemas economicos, oposicao militar e criticas conservadoras. Em 1964, ele foi deposto por um golpe militar devido a oposicao das Forcas Armadas e da sociedade civil, manifestada pela Marcha da Familia com Deus pela Liberdade."
+    },
+    {
+        "input": " O que marcou o regime militar que se instalou no Brasil apos o golpe de 1964?",
+        "output": "O regime militar estabelecido apos o golpe de 1964 se autointitulou de \"Contra-Revolucao de 1964\", destacando-se pela supressao de direitos constitucionais, a censura a imprensa apos a implementacao do AI-5 em 1968 e o combate as guerrilhas de orientacao esquerdista."
+    },
+    {
+        "input": "Quais foram os presidentes durante o regime militar no Brasil?",
+        "output": "Os presidentes durante o regime militar foram os generais Humberto de Alencar Castelo Branco, Arthur da Costa e Silva, Emilio Garrastazu Medici, Ernesto Geisel e Joao Baptista de Oliveira Figueiredo, todos eleitos por colegios eleitorais formados pelo Congresso Nacional e representantes das assembleias legislativas dos estados."
+    },
+    {
+        "input": " Quais partidos politicos foram permitidos apos a extincao dos demais pelo Ato Institucional n\u00ba 2?",
+        "output": " Apos a extincao dos partidos politicos pelo Ato Institucional n\u00ba 2 em 1965, somente dois partidos foram permitidos: a Alianca Renovadora Nacional (ARENA) e o Movimento Democratico Brasileiro (MDB)."
+    },
+    {
+        "input": "O que ocorreu em 13 de dezembro de 1968 durante o governo de Costa e Silva?",
+        "output": "Em 13 de dezembro de 1968, o presidente Costa e Silva decretou o Ato Institucional n\u00ba 5 (AI-5), que lhe conferiu amplos poderes, incluindo o fechamento do Congresso Nacional, a suspensao de direitos politicos e a supressao do habeas corpus"
+    },
+    {
+        "input": "Quais foram algumas caracteristicas do governo Medici durante o regime militar?",
+        "output": "O governo Medici, que teve inicio em 1969, foi marcado por uma intensa repressao aos grupos de esquerda que se opunham a ditadura militar. Houve combate aos grupos revolucionarios e guerrilheiros marxistas, com prisoes, exilios, torturas e mortes. Surgiram movimentos guerrilheiros, como no Araguaia, alem de sequestros de embaixadores estrangeiros e assaltos a bancos comerciais por grupos de esquerda."
+    },
+    {
+        "input": "Qual foi a reacao do governo militar aos movimentos de contestacao e luta armada durante esse periodo?",
+        "output": "O governo militar reagiu de maneira repressiva aos movimentos de contestacao e luta armada, intensificando a censura, realizando prisoes, exilios, torturas e confrontos com grupos guerrilheiros e revolucionarios, resultando em mortes de ambos os lados."
+    },
+    {
+        "input": "Quem assumiu a presidencia em 1974 no Brasil?",
+        "output": "O General Ernesto Geisel assumiu a presidencia em 1974 no Brasil, enfrentando problemas economicos causados pela divida externa, agravados pela crise internacional do petroleo e alta taxa de inflacao."
+    },
+    {
+        "input": "Qual foi a abertura democratica iniciada por Geisel e continuada por seu sucessor?",
+        "output": "Geisel iniciou a abertura democratica \"lenta, gradual e segura\", continuada por seu sucessor, o General Figueiredo (1979\u009685), permitindo o retorno de politicos exilados e anistiando militantes das guerrilhas do periodo anterior."
+    },
+    {
+        "input": "Como terminou o regime militar no Brasil?",
+        "output": "O regime militar no Brasil terminou com as eleicoes indiretas para presidente em 1984, onde Tancredo Neves venceu, governando por seis anos a partir de 15 de marco de 1985."
+    },
+    {
+        "input": "O que foi a campanha \"Diretas ja\"?",
+        "output": "\"Diretas ja\" foi uma campanha popular liderada pelo PMDB em favor de eleicoes diretas, buscando a aprovacao pelo Congresso Nacional da Emenda Constitucional que propunha tal realizacao."
+    },
+    {
+        "input": "Quais foram algumas das principais realizacoes dos governos militares no Brasil?",
+        "output": "Algumas das principais realizacoes dos governos militares incluem a Ponte Rio-Niteroi, os metros de Sao Paulo e Rio de Janeiro, a usina hidreletrica de Itaipu, a rodovia Transamazonica, entre outros projetos e instituicoes."
+    },
+    {
+        "input": "Quem foi o primeiro presidente civil eleito apos o golpe militar de 1964 no Brasil?",
+        "output": " Tancredo Neves foi o primeiro presidente civil eleito apos o golpe militar de 1964 no Brasil, porem, devido a problemas de saude, nao pode assumir, sendo sucedido interinamente por Jose Sarney."
+    },
+    {
+        "input": " Quando foi restabelecida a democracia no Brasil e por meio de qual evento?",
+        "output": "A democracia foi restabelecida em 1988, quando a atual Constituicao Federal foi promulgada."
+    },
+    {
+        "input": "Quais foram os principais eventos envolvendo os presidentes Fernando Collor e Itamar Franco?",
+        "output": " Fernando Collor foi eleito em 1989, sendo posteriormente afastado devido a denuncias de corrupcao. Itamar Franco assumiu a presidencia e criou o Plano Real, sendo sucedido por Fernando Henrique Cardoso."
+    },
+    {
+        "input": "Quem foi o presidente responsavel por articular o Plano Real no Brasil?",
+        "output": "Fernando Henrique Cardoso, como Ministro da Fazenda de Itamar Franco, foi o responsavel por articular o Plano Real."
+    },
+    {
+        "input": "Quem foi o primeiro presidente brasileiro do Partido dos Trabalhadores (PT)?",
+        "output": " Luiz Inacio Lula da Silva, do PT, foi eleito presidente com aproximadamente 61% dos votos validos e repetiu o feito em 2006."
+    },
+    {
+        "input": "Quem foi a primeira e ate hoje unica mulher a assumir a Presidencia da Republica do Brasil?",
+        "output": " Dilma Rousseff foi a primeira e unica mulher a assumir a Presidencia da Republica do Brasil ate hoje, em 1 de janeiro de 2011."
+    },
+    {
+        "input": " Quais eventos politicos e economicos marcaram o inicio do segundo mandato de Dilma Rousseff?",
+        "output": "O inicio do segundo mandato de Dilma Rousseff foi marcado por protestos populares, investigacoes de corrupcao envolvendo politicos e estatais, alem do inicio da crise politico-economica em 2014."
+    },
+    {
+        "input": " Por que Dilma Rousseff foi afastada da Presidencia do Brasil em 2016?",
+        "output": "Dilma Rousseff foi afastada da Presidencia do Brasil em 2016 devido ao processo de impeachment baseado nas chamadas \"pedaladas fiscais\" que, segundo juristas, desrespeitaram a Lei de Responsabilidade Fiscal."
+    },
+    {
+        "input": "Quem assumiu a Presidencia do Brasil apos o afastamento de Dilma Rousseff?",
+        "output": "Apos o afastamento de Dilma Rousseff, o vice-presidente Michel Temer assumiu a Presidencia do Brasil."
+    },
+    {
+        "input": "Quem venceu as eleicoes presidenciais de 2018 no Brasil?",
+        "output": "Jair Bolsonaro foi eleito presidente nas eleicoes de 2018, derrotando Fernando Haddad, candidato apoiado por Lula e Dilma Rousseff."
+    }
+]
