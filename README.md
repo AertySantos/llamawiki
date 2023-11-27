@@ -71,8 +71,10 @@ Perguntas e Respostas
 
 - Llama2-13b : <br>
 A capital do Brasil é Brasília, localizada no Distrito Federal.
+
 - Llama2-13b RAG : <br>
 The capital of Brazil is Brasília.
+
 - Llama2-13b fine tuning : <br>
 A capital do Brasil é Brasília, localizada no Distrito Federal, no centro-oeste do país.
 
@@ -84,8 +86,10 @@ Tiradentes nasceu em São João del-Rei, no estado de Minas Gerais, e estudou na
 A importância histórica de Tiradentes reside em seu papel como líder da Inconfidência Mineira, que foi uma das primeiras movimentações independentistas do Brasil. A conspiração foi descoberta e reprimida pela coroa portuguesa, mas ela inspirou outros movimentos independentistas no país.<br>
 Tiradentes também é lembrado por sua bravura e dedicação à causa da independência. Ele foi torturado e executado em 1792, mas seu legado como líder e patriota brasileiro sobreviveu ao longo dos séculos. Sua vida e seus ideais são celebrados em muitas cidades do Brasil, e ele é considerado um herói nacional.<br>
 A importância histórica de Tiradentes também se estende além das fronteiras brasileiras. Ele foi um pioneiro no movimento independentista latino-americano, que inspirou outras nações da região a luchar por sua independência. Sua história é um exemplo de como uma pessoa pode mudar a história de um país e influenciar o mundo em torno dela.<br>
+
 - Llama2-13b RAG : <br>
 Tiradentes é considerado um dos principais líderes da independência do Brasil. Ele foi um advogado, militar e político que lutou pela causa da independência do país. Ele foi capturado e executado pelas autoridades portuguesas em 1792, mas seu legado como um defensor da liberdade e da democracia é ainda hoje lembrado e celebrado no Brasil.<br>
+
 - Llama2-13b fine tuning : <br>
 Tiradentes foi um político, advogado e escritor brasileiro, conhecido por ser o unico condenado a morte por enforcamento e teve sua cabeca cortada e levada para Vila Rica. Seu corpo foi esquartejado e espalhado pelos caminhos de Minas Gerais como exemplo de punicao contra questionamentos ao poder de Portugal.<br>
 Tiradentes foi um dos principais articuladores da Inconfidencia Mineira e sua importancia historica reside na sua atividade como escritor, pois foi o unico condenado a morte por enforcamento e teve sua cabeca cortada e levada para Vila Rica. Seu corpo foi esquartejado e espalhado pelos caminhos de Minas Gerais como exemplo de punicao contra questionamentos ao poder de Portugal.
