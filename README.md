@@ -64,8 +64,7 @@ Já os modelos de Geração Aumentada de Recuperação (RAG) são treinados para
 
 ## Pré-requisitos
 
-### Testes
-Perguntas e Respostas
+### Testes: Perguntas e Respostas
 
 1 - Qual a capital do Brasil?
 
