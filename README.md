@@ -66,13 +66,6 @@ Já os modelos de Geração Aumentada de Recuperação (RAG) são treinados para
 
 Abaixo está o requisito de VRAM para diferentes modelos, dependendo do seu tamanho (em bilhões de parâmetros). As estimativas na tabela não incluem o VRAM usado pelos modelos de Embedding - que usam um adicional de 2GB a 7GB de VRAM, dependendo do modelo.
 
-| Mode Size (B) | float32   | float16   | GPTQ 8bit      | GPTQ 4bit          |
-| ------- | --------- | --------- | -------------- | ------------------ |
-| 7B      | 28 GB     | 14 GB     | 7 GB - 9 GB    | 3.5 GB - 5 GB      |
-| 13B     | 52 GB     | 26 GB     | 13 GB - 15 GB  | 6.5 GB - 8 GB      |
-| 32B     | 130 GB    | 65 GB     | 32.5 GB - 35 GB| 16.25 GB - 19 GB   |
-| 65B     | 260.8 GB  | 130.4 GB  | 65.2 GB - 67 GB| 32.6 GB - 35 GB    |
-
 ## Testes
 Perguntas e Respostas
 
