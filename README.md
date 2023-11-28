@@ -4,7 +4,7 @@ Aerty Santos, Eduardo Oliveira.
 
 | AVAILABLE DOWNLOADS |
 | :------------------: |
-| [DATASETS]((https://github.com/AertySantos/llamawiki/tree/master/csv)) |
+| [DATASETS](https://github.com/AertySantos/llamawiki/tree/master/csv) |
 | [VIDEOS](#videos) |
 
 ## Index
