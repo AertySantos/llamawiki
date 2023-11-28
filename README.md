@@ -73,7 +73,8 @@ Abaixo está o requisito de VRAM para diferentes modelos, dependendo do seu tama
 | 32B     | 130 GB    | 65 GB     | 32.5 GB - 35 GB| 16.25 GB - 19 GB   |
 | 65B     | 260.8 GB  | 130.4 GB  | 65.2 GB - 67 GB| 32.6 GB - 35 GB    |
 
-## Testes: Perguntas e Respostas
+## Testes
+Perguntas e Respostas
 
 1 - Qual a capital do Brasil?
 
