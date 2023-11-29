@@ -20,10 +20,10 @@ Este artigo investiga o processo de refinamento (fine-tuning) do modelo de lingu
 ## Llama2
 A versão Llama 2 apresenta uma gama de Modelos de Linguagem de Grande Porte (LLMs) pré-treinados e ajustados, variando de 7B a 70B em parâmetros. Estes modelos trazem melhorias notáveis em relação à sua versão anterior, incluindo:
 
-Um treinamento com 40% mais tokens, o que permite que os modelos aprendam mais informações sobre o mundo.
-Uma extensão de contexto mais ampla (com até 4 mil tokens), o que permite que os modelos compreendam melhor conversas mais longas.
-A implementação de atenção de consulta agrupada para uma inferência ágil nos modelos de 70B de parâmetros.
-O destaque, no entanto, é a introdução dos modelos ajustados (Llama 2-Chat), otimizados para diálogos utilizando o Aprendizado por Reforço a partir do Feedback Humano (ARFH). O processo de ARFH é ilustrado na imagem abaixo.
+- Um treinamento com 40% mais tokens, o que permite que os modelos aprendam mais informações sobre o mundo.
+- Uma extensão de contexto mais ampla (com até 4 mil tokens), o que permite que os modelos compreendam melhor conversas mais longas.
+- A implementação de atenção de consulta agrupada para uma inferência ágil nos modelos de 70B de parâmetros.
+- O destaque, no entanto, é a introdução dos modelos ajustados (Llama 2-Chat), otimizados para diálogos utilizando o Aprendizado por Reforço a partir do Feedback Humano (ARFH). O processo de ARFH é ilustrado na imagem abaixo.
 
 ![llama2](https://github.com/AertySantos/llamawiki/blob/master/llama2.png)
 
