@@ -57,7 +57,17 @@ Em testes abrangentes de utilidade e segurança, os modelos Llama 2-Chat superar
 
 Os modelos Llama 2-Chat têm o potencial de melhorar significativamente a qualidade das interações entre humanos e máquinas. Eles podem ser usados em uma variedade de aplicações, incluindo chatbots, assistentes virtuais e sistemas de educação.
 ## Testes iniciais
-O llama2-13b puro foi testado primeiro no CPU, onde foi eficiente e escalável, mas ainda havia espaço para melhorias. Em seguida, foi testado no GPU, onde o desempenho foi significativamente melhorado.
+Foram realizados testes com os modelos Llama2 de tamanhos 7B, 13B e 70B. 
+Os testes foram realizados primeiro em CPU e depois em GPU.
+
+1. Execute o seguinte comando no terminal para executar o Llama2 via Cpu:
+   ```
+   python3 chat_cpu.py
+   ```
+2. Execute o seguinte comando no terminal para executar o Llama2 via Gpu:
+   ```
+   python3 chat_gpu.py
+   ```
 
 ## Fine-tuning
 O ajuste fino de instruções é uma prática frequente empregada para adaptar um LLM básico a um cenário de utilização específico. Os exemplos de treinamento costumam apresentar-se da seguinte maneira:
