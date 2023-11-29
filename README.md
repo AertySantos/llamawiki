@@ -15,7 +15,7 @@ Aerty Santos, Eduardo Oliveira.
 - [Testes iniciais](#Testesiniciais)
 - [Fine-tuning](#Fine-tuning)
 - [Fine-tuning Vs RAG](#Fine-tuningVsRAG)
-- [Perguntas e Respostas](#PerguntaseRespostas)
+- [Perguntas e Respostas](#Perguntas-e-Respostas)
 - [Vídeos](#Vídeos)
 - [Referências](#Referências)
 
