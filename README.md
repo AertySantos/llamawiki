@@ -79,18 +79,20 @@ O desempenho dos modelos Llama2 foi significativamente melhorado em GPU. As tare
 O ajuste fino de instruções é uma prática frequente empregada para adaptar um LLM básico a um cenário de utilização específico. Os exemplos de treinamento costumam apresentar-se da seguinte maneira:
   
   \#\#\# Instruction:
- Analise o comentário a seguir e classifique o tom como...
+ Analise a pergunta a seguir e responda de forma sucinta...
   
   \#\#\# Input:
-  Eu amo ler seus artigos...
+ Qual a capital do Brasil?
   
   \#\#\# Response:
-  amigável e construtivo
+ Brasília
 
   Contudo, ao criar um grupo de dados de treinamento adequado para ser facilmente utilizado com bibliotecas HF (Hugging Face), é aconselhável optar pelo formato JSONL. Uma estratégia direta para realizar essa tarefa é gerar um objeto JSON em cada linha, contendo apenas um campo de texto para cada exemplo. Um exemplo dessa estrutura seria algo similar a:
   
-  { "text": "Abaixo está uma instrução ... ### Instruction: Analise o... ### Input: Eu amo... ### Response: amigável" },<br>
-  { "text": "Abaixo está uma instrução ... ### Instruction: ..." }
+  { "text": "Abaixo está uma instrução ... ### Instruction: Analise a pergunta a ... ### Input: Qual a... ### Response: Brasília" },<br>
+  { "text": "Abaixo está uma instrução ... ### Instruction: ..." }<br>
+  
+Para realizar o treinamento, foi criado um dataset com parte dos dados da Wikipédia do Brasil [dataset](https://github.com/AertySantos/llamawiki/blob/master/json/saida.json). Esse dataset foi dividido em dois conjuntos, treino e teste, por meio do algoritmo [particiona.py](https://github.com/AertySantos/llamawiki/blob/master/particiona.py).<br>
 
 Para a fase de refinamento, utilizaremos algumas bibliotecas específicas da Hugging Face (HF):
 
