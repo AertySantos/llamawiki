@@ -60,11 +60,12 @@ Os modelos Llama 2-Chat têm o potencial de melhorar significativamente a qualid
 Foram realizados testes com os modelos Llama2 de tamanhos 7B, 13B e 70B. 
 Os testes foram realizados primeiro em CPU e depois em GPU.
 É necessario baixar o modelo para pasta models.
-
+Os modelos Llama2 foram eficientes e escaláveis em CPU. No entanto, ainda havia espaço para melhorias no desempenho de tarefas de geração de texto.
 1. Execute o seguinte comando no terminal para executar o Llama2 via Cpu:
    ```
    python3 chat_cpu.py
    ```
+O desempenho dos modelos Llama2 foi significativamente melhorado em GPU. As tarefas de geração de texto foram executadas até 10 vezes mais rápido em GPU do que em CPU.
 2. Execute o seguinte comando no terminal para executar o Llama2 via Gpu:
    ```
    python3 chat_gpu.py
