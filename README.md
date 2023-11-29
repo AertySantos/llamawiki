@@ -18,9 +18,23 @@ Aerty Santos, Eduardo Oliveira.
 ## Descrição
 Este artigo investiga o processo de refinamento (fine-tuning) do modelo de linguagem GPT (Generative Pre-trained Transformer) Llama2, utilizando a Wikipedia em Português. A pesquisa foi conduzida utilizando a capacidade computacional do supercomputador Atena, permitindo a comparação dos resultados de perguntas antes e depois do fine-tuning e também com outra estrutura de recuperação de respostas, conhecida como RAG (Retrieval Augmented Generation). O objetivo central é ampliar significativamente a capacidade de compreensão e geração de texto do modelo na língua portuguesa.
 ## Llama2
-A versão Llama 2 apresenta uma gama de Modelos de Linguagem de Grande Porte (LLMs) pré-treinados e ajustados, variando de 7B a 70B em parâmetros. Estes modelos trazem melhorias notáveis em relação à sua versão anterior, incluindo um treinamento com 40% mais tokens, uma extensão de contexto mais ampla (com até 4 mil tokens) e a implementação de atenção de consulta agrupada para uma inferência ágil nos modelos de 70B de parâmetros. O destaque, no entanto, é a introdução dos modelos ajustados (Llama 2-Chat), otimizados para diálogos utilizando o Aprendizado por Reforço a partir do Feedback Humano (ARFH). Em testes abrangentes de utilidade e segurança, esses modelos superam muitos modelos abertos e atingem um desempenho comparável ao ChatGPT, conforme avaliações humanas. Este avanço destaca a eficácia do aprendizado com feedback humano para otimizar interações em modelos de linguagem.
+A versão Llama 2 apresenta uma gama de Modelos de Linguagem de Grande Porte (LLMs) pré-treinados e ajustados, variando de 7B a 70B em parâmetros. Estes modelos trazem melhorias notáveis em relação à sua versão anterior, incluindo:
+
+Um treinamento com 40% mais tokens, o que permite que os modelos aprendam mais informações sobre o mundo.
+Uma extensão de contexto mais ampla (com até 4 mil tokens), o que permite que os modelos compreendam melhor conversas mais longas.
+A implementação de atenção de consulta agrupada para uma inferência ágil nos modelos de 70B de parâmetros.
+O destaque, no entanto, é a introdução dos modelos ajustados (Llama 2-Chat), otimizados para diálogos utilizando o Aprendizado por Reforço a partir do Feedback Humano (ARFH). O processo de ARFH é ilustrado na imagem abaixo.
 
 ![llama2](https://github.com/AertySantos/llamawiki/blob/master/llama2.png)
+
+No ARFH, os modelos são treinados em um conjunto de dados de diálogos humanos. Em cada interação, o modelo gera uma resposta e recebe um feedback do humano. O feedback pode ser positivo (por exemplo, "Isso foi útil" ou "Isso foi seguro"), negativo (por exemplo, "Isso foi irrelevante" ou "Isso foi ofensivo") ou neutro (por exemplo, "Isso foi ok").
+
+O modelo usa o feedback para melhorar suas respostas futuras. Ao longo do tempo, o modelo aprende a gerar respostas que são mais úteis, seguras e relevantes.
+
+Em testes abrangentes de utilidade e segurança, os modelos Llama 2-Chat superaram muitos modelos abertos e atingiram um desempenho comparável ao ChatGPT. Este avanço destaca a eficácia do aprendizado com feedback humano para otimizar interações em modelos de linguagem.
+
+Os modelos Llama 2-Chat têm o potencial de melhorar significativamente a qualidade das interações entre humanos e máquinas. Eles podem ser usados em uma variedade de aplicações, incluindo chatbots, assistentes virtuais e sistemas de educação.
+
 ## Fine-tuning
 O ajuste fino de instruções é uma prática frequente empregada para adaptar um LLM básico a um cenário de utilização específico. Os exemplos de treinamento costumam apresentar-se da seguinte maneira:
   
