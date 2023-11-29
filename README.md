@@ -16,6 +16,9 @@ Aerty Santos, Eduardo Oliveira.
 - [Fine-tuning Vs RAG](#Fine-tuningVsRAG)
 - [Pré-requisitos](#Pré-requisitos)
 - [Testes](#Testes)
+
+## System Requirements
+Você deve ter o Python 3.9 ou posterior instalado. Versões anteriores do Python podem não compilar.
 ## Descrição
 Este artigo investiga o processo de refinamento (fine-tuning) do modelo de linguagem GPT (Generative Pre-trained Transformer) Llama2, utilizando a Wikipedia em Português. A pesquisa foi conduzida utilizando a capacidade computacional do supercomputador Atena, permitindo a comparação dos resultados de perguntas antes e depois do fine-tuning e também com outra estrutura de recuperação de respostas, conhecida como RAG (Retrieval Augmented Generation). O objetivo central é ampliar significativamente a capacidade de compreensão e geração de texto do modelo na língua portuguesa.
 ## Llama2
