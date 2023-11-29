@@ -59,6 +59,7 @@ Os modelos Llama 2-Chat têm o potencial de melhorar significativamente a qualid
 ## Testes iniciais
 Foram realizados testes com os modelos Llama2 de tamanhos 7B, 13B e 70B. 
 Os testes foram realizados primeiro em CPU e depois em GPU.
+É necessario baixar o modelo para pasta models.
 
 1. Execute o seguinte comando no terminal para executar o Llama2 via Cpu:
    ```
