@@ -116,7 +116,16 @@ Existem vários métodos de PEFT, cada um com suas próprias vantagens e desvant
 
 A Figura compara os requisitos de memória de diferentes métodos de ajuste fino. Como pode ser visto, o QLoRa requer menos memória do que o LoRA e o ajuste fino completo.
 
-Por outro lado, o TRL (Transformador de Aprendizado por Reforço) é uma biblioteca utilizada para treinar modelos de linguagem utilizando o paradigma de aprendizado por reforço. Sua API de Treinamento para Ajuste Fino Supervisionado (SFT) facilita a criação de modelos personalizados e seu treinamento com conjuntos de dados customizados
+Por outro lado, o TRL (Transformador de Aprendizado por Reforço) é uma biblioteca utilizada para treinar modelos de linguagem utilizando o paradigma de aprendizado por reforço. Sua API de Treinamento para Ajuste Fino Supervisionado (SFT) facilita a criação de modelos personalizados e seu treinamento com conjuntos de dados customizados.
+
+1. Execute o seguinte comando no terminal para executar o Fine Tune no Llama2-13b:
+   ```
+   python3 llama2-finetune.py
+   ```
+2.  Digite o seguinte comando no terminal para testar o Fine Tune no Llama2-13b:
+   ```
+   python3 chat_fine.py
+   ```
 
 ## RAG
 Ao considerar a importância da avaliação das respostas geradas pelos Modelos de Linguagem de Aprendizado (LLMs), percebemos que são treinados com milhões de parâmetros, exigindo uma análise criteriosa para garantir a qualidade das conclusões. Nesse contexto, a Geração Aumentada de Recuperação (RAG) surge como uma abordagem que busca melhorar a qualidade das respostas do LLM, incorporando fontes externas de conhecimento. Este repositório explora como a RAG pode aprimorar a representação e a confiabilidade das respostas do LLM, considerando a sua estrutura e a integração de recursos externos durante o processo de geração.
