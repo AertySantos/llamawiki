@@ -90,8 +90,10 @@ O ajuste fino de instruções é uma prática frequente empregada para adaptar u
   Contudo, ao criar um grupo de dados de treinamento adequado para ser facilmente utilizado com bibliotecas HF (Hugging Face), é aconselhável optar pelo formato JSONL. Uma estratégia direta para realizar essa tarefa é gerar um objeto JSON em cada linha, contendo apenas um campo de texto para cada exemplo. Um exemplo dessa estrutura seria algo similar a:
   
   { "text": "Abaixo está uma instrução ... ### Instruction: Analise a pergunta a ... ### Input: Qual a... ### Response: Brasília" },<br>
-  { "text": "Abaixo está uma instrução ... ### Instruction: ..." }
-Para realizar o treinamento, foi criado um dataset com parte dos dados da Wikipédia do Brasil. Esse dataset foi dividido em dois conjuntos, treino e teste, por meio do algoritmo [particiona.py](https://github.com/AertySantos/llamawiki/blob/master/particiona.py).
+  { "text": "Abaixo está uma instrução ... ### Instruction: ..." }<br>
+  
+Para realizar o treinamento, foi criado um dataset com parte dos dados da Wikipédia do Brasil. Esse dataset foi dividido em dois conjuntos, treino e teste, por meio do algoritmo [particiona.py](https://github.com/AertySantos/llamawiki/blob/master/particiona.py).<br>
+
 Para a fase de refinamento, utilizaremos algumas bibliotecas específicas da Hugging Face (HF):
 
 - [transformers](https://huggingface.co/docs/transformers/index)
