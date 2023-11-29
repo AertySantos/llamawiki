@@ -114,7 +114,7 @@ Existem vários métodos de PEFT, cada um com suas próprias vantagens e desvant
 
 ![Figura 1: Comparação dos requisitos de memória de diferentes métodos de ajuste fino](https://github.com/AertySantos/llamawiki/blob/master/qlora.png)
 
-A Figura 1 compara os requisitos de memória de diferentes métodos de ajuste fino. Como pode ser visto, o QLoRa requer menos memória do que o LoRA e o ajuste fino completo.
+A Figura compara os requisitos de memória de diferentes métodos de ajuste fino. Como pode ser visto, o QLoRa requer menos memória do que o LoRA e o ajuste fino completo.
 
 Por outro lado, o TRL (Transformador de Aprendizado por Reforço) é uma biblioteca utilizada para treinar modelos de linguagem utilizando o paradigma de aprendizado por reforço. Sua API de Treinamento para Ajuste Fino Supervisionado (SFT) facilita a criação de modelos personalizados e seu treinamento com conjuntos de dados customizados
 
