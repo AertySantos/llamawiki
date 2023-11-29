@@ -100,7 +100,19 @@ Para a fase de refinamento, utilizaremos algumas bibliotecas específicas da Hug
 - [peft](https://huggingface.co/docs/peft/index)
 - [trl](https://huggingface.co/docs/trl/index)
 
-O PEFT (Ajuste Fino Eficiente de Parâmetros) é uma ferramenta que permite ajustar os Modelos de Linguagem de forma eficaz, sem a necessidade de alterar todos os parâmetros do modelo. Esta ferramenta suporta o método QLoRa, possibilitando o ajuste de uma pequena porção dos parâmetros do modelo com quantização de 4 bits.
+O PEFT é uma ferramenta que permite ajustar Modelos de Linguagem de forma eficaz, sem a necessidade de alterar todos os parâmetros do modelo. Essa abordagem é vantajosa por vários motivos, incluindo:
+
+- Redução dos custos computacionais e de armazenamento: o ajuste fino completo de um grande modelo de linguagem pode ser muito caro, tanto em termos de tempo de treinamento quanto de espaço de armazenamento. O PEFT pode reduzir significativamente esses custos, permitindo que os modelos sejam ajustados em hardware de consumo e armazenados em dispositivos menores.
+- Superação dos problemas de esquecimento catastrófico: o ajuste fino completo pode causar o esquecimento catastrófico, um fenômeno em que o modelo perde a capacidade de realizar tarefas que já havia aprendido. O PEFT pode ajudar a evitar esse problema, pois congela a maioria dos parâmetros do modelo, preservando seu conhecimento prévio.
+- Melhor desempenho em regimes de poucos dados: o PEFT pode ser especialmente vantajoso em regimes de poucos dados, onde o ajuste fino completo pode não ser possível. O PEFT pode ajudar o modelo a aprender com os dados disponíveis, mesmo que sejam limitados.
+
+Métodos de PEFT
+
+Existem vários métodos de PEFT, cada um com suas próprias vantagens e desvantagens. Um dos métodos mais populares é o LoRA, que seleciona um subconjunto dos parâmetros do modelo com base em sua importância. O QLoRa é uma variante do LoRA que utiliza quantização de 4 bits para reduzir ainda mais os requisitos de memória.
+
+![Figura 1: Comparação dos requisitos de memória de diferentes métodos de ajuste fino](https://github.com/AertySantos/llamawiki/blob/master/qlora.png)
+
+A Figura 1 compara os requisitos de memória de diferentes métodos de ajuste fino. Como pode ser visto, o QLoRa requer menos memória do que o LoRA e o ajuste fino completo.
 
 Por outro lado, o TRL (Transformador de Aprendizado por Reforço) é uma biblioteca utilizada para treinar modelos de linguagem utilizando o paradigma de aprendizado por reforço. Sua API de Treinamento para Ajuste Fino Supervisionado (SFT) facilita a criação de modelos personalizados e seu treinamento com conjuntos de dados customizados
 
