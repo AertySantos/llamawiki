@@ -122,7 +122,7 @@ Por outro lado, o TRL (Transformador de Aprendizado por Reforço) é uma bibliot
    ```
    python3 llama2-finetune.py
    ```
-2.  Digite o seguinte comando no terminal para testar o Fine Tune no Llama2-13b:
+2. Digite o seguinte comando no terminal para testar o Fine Tune no Llama2-13b:
    ```
    python3 chat_fine.py
    ```
