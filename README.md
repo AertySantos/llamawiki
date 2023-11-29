@@ -25,7 +25,7 @@ Você deve ter o Python 3.9 ou posterior instalado. Versões anteriores do Pytho
 1. Clone este repositorio localmente.
    ```
    git clone https://github.com/AertySantos/llamawiki.git
-   cd llama2wiki
+   cd llamawiki
    ```
  
 2. Crie um ambiente virtual com conda e ative-o. Primeiro, certifique-se de ter o conda instalado. Em seguida, execute o seguinte comando:
