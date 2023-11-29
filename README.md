@@ -103,7 +103,9 @@ Para a fase de refinamento, utilizaremos algumas bibliotecas específicas da Hug
 O PEFT é uma ferramenta que permite ajustar Modelos de Linguagem de forma eficaz, sem a necessidade de alterar todos os parâmetros do modelo. Essa abordagem é vantajosa por vários motivos, incluindo:
 
 - Redução dos custos computacionais e de armazenamento: o ajuste fino completo de um grande modelo de linguagem pode ser muito caro, tanto em termos de tempo de treinamento quanto de espaço de armazenamento. O PEFT pode reduzir significativamente esses custos, permitindo que os modelos sejam ajustados em hardware de consumo e armazenados em dispositivos menores.
+  
 - Superação dos problemas de esquecimento catastrófico: o ajuste fino completo pode causar o esquecimento catastrófico, um fenômeno em que o modelo perde a capacidade de realizar tarefas que já havia aprendido. O PEFT pode ajudar a evitar esse problema, pois congela a maioria dos parâmetros do modelo, preservando seu conhecimento prévio.
+  
 - Melhor desempenho em regimes de poucos dados: o PEFT pode ser especialmente vantajoso em regimes de poucos dados, onde o ajuste fino completo pode não ser possível. O PEFT pode ajudar o modelo a aprender com os dados disponíveis, mesmo que sejam limitados.
 
 Métodos de PEFT
