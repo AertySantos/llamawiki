@@ -92,7 +92,7 @@ O ajuste fino de instruções é uma prática frequente empregada para adaptar u
   { "text": "Abaixo está uma instrução ... ### Instruction: Analise a pergunta a ... ### Input: Qual a... ### Response: Brasília" },<br>
   { "text": "Abaixo está uma instrução ... ### Instruction: ..." }<br>
   
-Para realizar o treinamento, foi criado um dataset com parte dos dados da Wikipédia do Brasil. Esse dataset foi dividido em dois conjuntos, treino e teste, por meio do algoritmo [particiona.py](https://github.com/AertySantos/llamawiki/blob/master/particiona.py).<br>
+Para realizar o treinamento, foi criado um dataset com parte dos dados da Wikipédia do Brasil [dataset](https://github.com/AertySantos/llamawiki/blob/master/json/saida.json). Esse dataset foi dividido em dois conjuntos, treino e teste, por meio do algoritmo [particiona.py](https://github.com/AertySantos/llamawiki/blob/master/particiona.py).<br>
 
 Para a fase de refinamento, utilizaremos algumas bibliotecas específicas da Hugging Face (HF):
 
