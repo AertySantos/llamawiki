@@ -15,7 +15,7 @@ Aerty Santos, Eduardo Oliveira.
 - [Testes iniciais](#Testesiniciais)
 - [Fine-tuning](#Fine-tuning)
 - [Fine-tuning Vs RAG](#Fine-tuningVsRAG)
-- [Testes: Perguntas e Respostas](#Testes:-Perguntas-e-Respostas)
+- [Perguntas e Respostas](#Testes:-Perguntas-e-Respostas)
 - [Vídeos](#Vídeos)
 - [Referências](#Referências)
 
@@ -118,7 +118,7 @@ Os dados de treinamento para Modelos de Linguagem de Ajuste Fino (LLMs) são esp
 
 Já os modelos de Geração Aumentada de Recuperação (RAG) são treinados para operações combinadas de recuperação e geração, normalmente utilizando uma mistura de dados supervisionados (para geração de conteúdo) e dados que demonstram como recuperar e efetivamente utilizar informações externas.
 
-## Testes: Perguntas e Respostas
+## Perguntas e Respostas
 
 1 - Qual a capital do Brasil?
 
