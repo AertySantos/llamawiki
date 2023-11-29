@@ -19,6 +19,24 @@ Aerty Santos, Eduardo Oliveira.
 
 ## System Requirements
 Você deve ter o Python 3.9 ou posterior instalado. Versões anteriores do Python podem não compilar.
+
+## Steps to Replicate 
+
+1. Clone este repositorio localmente.
+   ```
+   git clone https://github.com/AertySantos/llamawiki.git
+   cd llama2wiki
+   ```
+ 
+2. Crie um ambiente virtual com conda e ative-o. Primeiro, certifique-se de ter o conda instalado. Em seguida, execute o seguinte comando:
+   ```
+   conda create -n llms python=3.11 -y && source activate llms
+   ```
+
+3. Execute o seguinte comando no terminal para instalar os pacotes Python necessários:
+   ```
+   pip install -r requirements.txt
+   ```
 ## Descrição
 Este artigo investiga o processo de refinamento (fine-tuning) do modelo de linguagem GPT (Generative Pre-trained Transformer) Llama2, utilizando a Wikipedia em Português. A pesquisa foi conduzida utilizando a capacidade computacional do supercomputador Atena, permitindo a comparação dos resultados de perguntas antes e depois do fine-tuning e também com outra estrutura de recuperação de respostas, conhecida como RAG (Retrieval Augmented Generation). O objetivo central é ampliar significativamente a capacidade de compreensão e geração de texto do modelo na língua portuguesa.
 ## Llama2
