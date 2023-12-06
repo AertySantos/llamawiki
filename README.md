@@ -181,6 +181,160 @@ A capital do Brasil é Brasília, localizada no Distrito Federal, no centro-oest
   
   Em 1822, após a proclamação da independencia do Brasil, Tiradentes foi reabilitado e seu nome foi dado a diversas cidades, ruas e monumentos em homenagem a sua participação na luta pela independência. Atualmente, ele é considerado um dos principais heróis da história do Brasil.
 
+3 - Qual era o nome do país antes de ser chamado de Brasil?
+- Llama2-13b : <br>
+A Ilha de Vera Cruz foi o nome dado pelos portugueses à região que hoje em dia é conhecida como o Brasil, quando foi descoberta em 1500 por Pedro Álvares Cabral. O nome "Brasil" só foi adotado oficialmente em 1822, após a independência do país.
+
+- Llama2-13b RAG : <br>
+Não é possível responder à pergunta com base nas informações fornecidas, pois o texto não menciona qualquer país ou território antes da formação do Brasil. O texto se concentra em descrições da vida no Nordeste do Brasil na época da independência e na Guerra do Paraguai.
+
+- Llama2-13b fine tuning : <br>
+O nome do país antes de ser chamado de Brasil era "Ilha de Vera Cruz" ou "Terra de Vera Cruz".
+Fonte: "História do Brasil", de Lilia Moritz Schwarcz.
+
+A Ilha de Vera Cruz foi descoberta em 1500 por Pedro Álvares Cabral, que a batizou em homenagem à Virgem Santa Maria, padroeira de Portugal. A partir de então, o nome foi usado para se referir ao território que hoje é o Brasil.
+A partir do século XVII, o nome "Brasil" passou a ser usado com mais frequência, mas o nome "Ilha de Vera Cruz" continuou a ser usado oficialmente até o século XIX.
+
+4 - Quando foi proclamada a independência do Brasil?
+- Llama2-13b : <br>
+7 de setembro de 1822.
+  
+- Llama2-13b RAG : <br>
+ A independência do Brasil foi proclamada em 1822.
+
+- Llama2-13b fine tuning : <br>
+A independência do Brasil foi proclamada em 7 de setembro de 1822. A declaração de independência foi feita por Dom Pedro I, que foi aclamado como imperador do Brasil. A independência do Brasil foi reconhecida oficialmente em 12 de outubro de 1822, quando o Tratado de Rio de Janeiro foi assinado entre o Brasil e Portugal.
+
+5 - Quando foi assinada a primeira Constituição brasileira?
+- Llama2-13b : <br>
+A primeira Constituição brasileira foi assinada em 21 de março de 1824.
+
+- Llama2-13b RAG : <br>
+Não sou capaz de responder à sua pergunta, pois a constituição não existe. A Constituição Federal brasileira é uma lei que estabelece as normas fundamentais do país e foi promulgada em 1988. Antes disso, o Brasil era governado por um regime militar, e a última constituição anterior à atual foi promulgada em 1967.
+
+- Llama2-13b fine tuning : <br>
+A primeira Constituição brasileira foi assinada em 24 de fevereiro de 1824. Ela foi promulgada por Dom Pedro I, que havia sido proclamado imperador em 1822. A Constituição estabeleceu a monarquia constitucional no Brasil e estabeleceu os princípios da liberdade, da igualdade e da democracia.
+
+6 - Quem foi a primeira presidente mulher do Brasil?
+- Llama2-13b : <br>
+Dilma Rousseff.
+
+- Llama2-13b RAG : <br>
+Não é possível responder à pergunta com base nas informações fornecidas, pois Fernando Collor de Mello é um homem e não uma mulher. A primeira presidente mulher do Brasil foi Dilma Rousseff, que governou de 2011 a 2016.
+
+- Llama2-13b fine tuning : <br>
+Dilma Rousseff foi a primeira presidente mulher do Brasil, eleita em 2010 e reeleita em 2014. Ela foi a 36° presidente do Brasil e governou até 2016, quando foi afastada do cargo por impeachment.
+
+7 - Quem foi o primeiro imperador do Brasil?
+- Llama2-13b : <br>
+Dom Pedro I.
+
+- Llama2-13b RAG : <br>
+ The first emperor of Brazil was Pedro I (1822-1831).
+
+- Llama2-13b fine tuning : <br>
+Dom Pedro I (1822-1831) foi o primeiro imperador do Brasil. Ele foi coroado em 1 de dezembro de 1822, após a proclamação da independência do Brasil em 7 de setembro de 1822. Dom Pedro I foi o único imperador do Brasil, governando por cerca de nove anos antes de abdicar em favor de seu filho, Dom Pedro II.
+
+8 - Qual foi o período do governo de Getúlio Vargas?
+- Llama2-13b : <br>
+O período do governo de Getúlio Vargas foi de 1930 a 1945, e novamente de 1951 a 1954. Ele governou o Brasil como ditador durante o regime conhecido como Estado Novo, e posteriormente como presidente eleito após a redemocratização do país.
+
+- Llama2-13b RAG : <br>
+O período do governo de Getúlio Vargas foi de 1930 a 1945, e novamente de 1951 a 1954.
+
+- Llama2-13b fine tuning : <br>
+O período do governo de Getúlio Vargas foi de 1930 a 1945, com interrupções. Ele foi eleito presidente em 1930 e governou até 1945, quando foi deposto. Durante seu governo, houve muitas mudanças políticas, econômicas e sociais no Brasil. Ele implementou políticas de contenção da inflação, estabilizou a moeda e implementou programas de desenvolvimento econômico. Ele também estabeleceu o Estado Novo, um regime autoritário que durou de 1937 a 1945.
+
+9 - Quando foi abolida a escravidão no Brasil?
+- Llama2-13b : <br>
+A escravidão foi abolida no Brasil em 13 de maio de 1888, através da Lei Áurea.
+
+- Llama2-13b RAG : <br>
+A escravidão no Brasil foi abolida em 13 de maio de 1888, conforme a Lei Áurea (Lei nº 3.353).
+
+- Llama2-13b fine tuning : <br>
+A escravidão foi abolida no Brasil em 13 de maio de 1888, por meio da Lei Áurea, assinada por D. Pedro II. Essa lei aboliu a escravidão em todo o território brasileiro, libertando cerca de 20 milhões de escravos. No entanto, a escravidão continuou a existir de facto em alguns estados, especialmente no Nordeste, até o final do século XIX.
+
+10 - Quem foi o presidente durante a Revolução de 1930?
+- Llama2-13b : <br>
+Getúlio Vargas.
+
+- Llama2-13b RAG : <br>
+Não posso responder à sua pergunta, pois não tenho conhecimento sobre a Revolução de 1930.
+
+- Llama2-13b fine tuning : <br>
+Getúlio Vargas foi o presidente durante a Revolução de 1930. Ele foi eleito em 1929 e tomou posse em 1º de março de 1930. A Revolução de 1930 ocorreu em outubro daquele ano, quando Getúlio Vargas foi deposto e substituído pelo marechal Pedro de Toledo.
+
+11 - ?
+- Llama2-13b : <br>
+
+- Llama2-13b RAG : <br>
+
+- Llama2-13b fine tuning : <br>
+
+12 - ?
+- Llama2-13b : <br>
+
+- Llama2-13b RAG : <br>
+
+- Llama2-13b fine tuning : <br>
+
+13 - ?
+- Llama2-13b : <br>
+
+- Llama2-13b RAG : <br>
+
+- Llama2-13b fine tuning : <br>
+
+14 - ?
+- Llama2-13b : <br>
+
+- Llama2-13b RAG : <br>
+
+- Llama2-13b fine tuning : <br>
+
+15 - ?
+- Llama2-13b : <br>
+
+- Llama2-13b RAG : <br>
+
+- Llama2-13b fine tuning : <br>
+
+16 - ?
+- Llama2-13b : <br>
+
+- Llama2-13b RAG : <br>
+
+- Llama2-13b fine tuning : <br>
+
+17 - ?
+- Llama2-13b : <br>
+
+- Llama2-13b RAG : <br>
+
+- Llama2-13b fine tuning : <br>
+
+18 - ?
+- Llama2-13b : <br>
+
+- Llama2-13b RAG : <br>
+
+- Llama2-13b fine tuning : <br>
+
+19 - ?
+- Llama2-13b : <br>
+
+- Llama2-13b RAG : <br>
+
+- Llama2-13b fine tuning : <br>
+
+20 - ?
+- Llama2-13b : <br>
+
+- Llama2-13b RAG : <br>
+
+- Llama2-13b fine tuning : <br>
+
 ## Datasets
 [Dados do treino Fine tune](https://github.com/AertySantos/llamawiki/tree/master/json)
 ## Videos
