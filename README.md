@@ -468,4 +468,6 @@ The diversity of cultures in Brazil has had a significant impact on the country'
 [Dados do treino Fine tune](https://github.com/AertySantos/llamawiki/tree/master/json)
 ## Videos
 ## Referências
+[Llama 2: Open Foundation and Fine-Tuned Chat Models](https://arxiv.org/pdf/2307.09288.pdf)
+[QLORA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/pdf/2305.14314.pdf)
 
