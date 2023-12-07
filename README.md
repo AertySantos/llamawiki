@@ -118,11 +118,18 @@ A Figura compara os requisitos de memória de diferentes métodos de ajuste fino
 
 Por outro lado, o TRL (Transformador de Aprendizado por Reforço) é uma biblioteca utilizada para treinar modelos de linguagem utilizando o paradigma de aprendizado por reforço. Sua API de Treinamento para Ajuste Fino Supervisionado (SFT) facilita a criação de modelos personalizados e seu treinamento com conjuntos de dados customizados.
 
-1. Execute o seguinte comando no terminal para executar o Fine Tune no Llama2-13b:
+1. Execute o seguinte comando no terminal para instalar os pacotes Python necessários para o Fine-tuning:
+   ```
+   !pip install -q -U bitsandbytes
+   !pip install -q -U git+https://github.com/huggingface/transformers.git
+   !pip install -q -U git+https://github.com/huggingface/peft.git
+   !pip install -q -U git+https://github.com/huggingface/accelerate.git
+   ```
+2. Execute o seguinte comando no terminal para executar o Fine Tune no Llama2-13b:
    ```
    python3 llama2-finetune.py
    ```
-2. Digite o seguinte comando no terminal para testar o Fine Tune no Llama2-13b:
+3. Digite o seguinte comando no terminal para testar o Fine Tune no Llama2-13b:
    ```
    python3 chat_fine.py
    ```
