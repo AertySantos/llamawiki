@@ -1,4 +1,4 @@
-# Fine-tuning da GPT LLMA2 com a Wikipedia em Português no Supercomputador Atena
+# Fine-tuning da GPT LLAMA2 com a Wikipedia em Português no Supercomputador Atena
 
 Aerty Santos, Eduardo Oliveira.
 
@@ -20,7 +20,11 @@ Aerty Santos, Eduardo Oliveira.
 - [Referências](#Referências)
 
 ## Requisitos do Sistema
+Preferencialmente, Sistema operacional: Ubuntu.  Pacotes: wget, md5sum.  Gerenciador de pacotes: Conda ME
 Você deve ter o Python 3.9 ou posterior instalado. Versões anteriores do Python podem não compilar.
+O Llama2 é opensource, no entanto, ele querer que você aceite os termos e solicite a licença e url pessoais para ter acesso aos modelos.
+
+
 
 ## Instruções para Replicar
 
@@ -40,11 +44,11 @@ Você deve ter o Python 3.9 ou posterior instalado. Versões anteriores do Pytho
    pip install -r requirements.txt
    ```
 ## Descrição
-Este artigo investiga o processo de refinamento (fine-tuning) do modelo de linguagem GPT (Generative Pre-trained Transformer) Llama2, utilizando a Wikipedia em Português. A pesquisa foi conduzida utilizando a capacidade computacional do supercomputador Atena, permitindo a comparação dos resultados de perguntas antes e depois do fine-tuning e também com outra estrutura de recuperação de respostas, conhecida como RAG (Retrieval Augmented Generation). O objetivo central é ampliar significativamente a capacidade de compreensão e geração de texto do modelo na língua portuguesa.
+Este artigo investiga o processo de refinamento (fine-tuning) do modelo de linguagem GPT (Generative Pre-trained Transformer) Llama2, utilizando a Wikipedia em Português. A pesquisa foi conduzida utilizando a capacidade computacional do supercomputador Atena, que atualmente conta com 3 (três) GPUS A-100 de 8-GB e mais de 500GB de memória RAM, permitindo a comparação dos resultados de perguntas antes e depois do fine-tuning e também com outra estrutura de recuperação de respostas, conhecida como RAG (Retrieval Augmented Generation). O objetivo central é ampliar significativamente a capacidade de compreensão e geração de texto do modelo na língua portuguesa.
 ## Llama2
-A versão Llama 2 apresenta uma gama de Modelos de Linguagem de Grande Porte (LLMs) pré-treinados e ajustados, variando de 7B a 70B em parâmetros. Estes modelos trazem melhorias notáveis em relação à sua versão anterior, incluindo:
+A versão Llama 2 apresenta uma gama de Modelos de Linguagem de Grande Porte (LLMs) pré-treinados e ajustados, variando em finalidade se chat ou instrução, e quantidade de tokens treinadaos sendo de 7, 13 e 70 bilhões de parâmetros. Estes modelos trazem melhorias notáveis em relação à sua versão anterior (Llama 1), das quais se destacam:
 
--  Um treinamento com 40% mais tokens, o que permite que os modelos aprendam mais informações sobre o mundo.
+-  Treinamento com 40% mais tokens, o que permite que os modelos aprendam mais informações sobre o mundo.
 -  Uma extensão de contexto mais ampla (com até 4 mil tokens), o que permite que os modelos compreendam melhor conversas mais longas.
 -  A implementação de atenção de consulta agrupada para uma inferência ágil nos modelos de 70B de parâmetros.
 -  O destaque, no entanto, é a introdução dos modelos ajustados (Llama 2-Chat), otimizados para diálogos utilizando o Aprendizado por Reforço a partir do Feedback Humano (ARFH). O processo de ARFH é ilustrado na imagem abaixo.
@@ -55,7 +59,7 @@ No ARFH, os modelos são treinados em um conjunto de dados de diálogos humanos.
 
 O modelo usa o feedback para melhorar suas respostas futuras. Ao longo do tempo, o modelo aprende a gerar respostas que são mais úteis, seguras e relevantes.
 
-Em testes abrangentes de utilidade e segurança, os modelos Llama 2-Chat superaram muitos modelos abertos e atingiram um desempenho comparável ao ChatGPT. Este avanço destaca a eficácia do aprendizado com feedback humano para otimizar interações em modelos de linguagem.
+Em testes abrangentes de utilidade e segurança, os modelos Llama 2-Chat superaram muitos modelos abertos e atingiram um desempenho comparável ao ChatGPT 3.5. Este avanço destaca a eficácia do aprendizado com feedback humano para otimizar interações em modelos de linguagem.
 
 Os modelos Llama 2-Chat têm o potencial de melhorar significativamente a qualidade das interações entre humanos e máquinas. Eles podem ser usados em uma variedade de aplicações, incluindo chatbots, assistentes virtuais e sistemas de educação.
 ## Testes iniciais
