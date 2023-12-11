@@ -8,45 +8,22 @@ Aerty Santos, Eduardo Oliveira.
 | [VIDEOS](#videos) |
 
 ## Index
-- [Requisitos do Sistema](#Requisitos-do-Sistema)
-- [Instruções para Replicar](#Instruções-para-Replicar)
 - [Descrição](#descrição)
 - [Llama2](#Llama2)
-- [Testes iniciais](#Testesiniciais)
 - [Fine-tuning](#Fine-tuning)
+- [Requisitos do Sistema](#Requisitos-do-Sistema)
+- [Instruções para Replicar](#Instruções-para-Replicar)
+- [Testes iniciais](#Testesiniciais)
 - [Fine-tuning Vs RAG](#Fine-tuningVsRAG)
 - [Perguntas e Respostas](#Perguntas-e-Respostas)
 - [Vídeos](#Vídeos)
 - [Referências](#Referências)
 
-## Requisitos do Sistema
-Preferencialmente, Sistema operacional: Ubuntu.  Pacotes: wget, md5sum.  Gerenciador de pacotes: Conda ME
-Você deve ter o Python 3.9 ou posterior instalado. Versões anteriores do Python podem não compilar.
-O Llama2 é opensource, no entanto, ele querer que você aceite os termos e solicite a licença e url pessoais para ter acesso aos modelos.
-
-
-
-## Instruções para Replicar
-
-1. Clone este repositorio localmente.
-   ```
-   git clone https://github.com/AertySantos/llamawiki.git
-   cd llamawiki
-   ```
- 
-2. Crie um ambiente virtual com conda e ative-o. Primeiro, certifique-se de ter o conda instalado. Em seguida, execute o seguinte comando:
-   ```
-   conda create -n llms python=3.11 -y && source activate llms
-   ```
-
-3. Execute o seguinte comando no terminal para instalar os pacotes Python necessários:
-   ```
-   pip install -r requirements.txt
-   ```
 ## Descrição
-Este artigo investiga o processo de refinamento (fine-tuning) do modelo de linguagem GPT (Generative Pre-trained Transformer) Llama2, utilizando a Wikipedia em Português. A pesquisa foi conduzida utilizando a capacidade computacional do supercomputador Atena, que atualmente conta com 3 (três) GPUS A-100 de 8-GB e mais de 500GB de memória RAM, permitindo a comparação dos resultados de perguntas antes e depois do fine-tuning e também com outra estrutura de recuperação de respostas, conhecida como RAG (Retrieval Augmented Generation). O objetivo central é ampliar significativamente a capacidade de compreensão e geração de texto do modelo na língua portuguesa.
+Este artigo utilizará como base um grande modelo de linguagem GTP (Generative Pre-trained Transformer) disponibilizado pelo grupo Meta AI chamado Llama 2 e buscará investigar o processo de seu refinamento (fine-tuning), utilizando os dados da Wikipedia em Português. A pesquisa foi conduzida utilizando a capacidade computacional do supercomputador Atena, que atualmente conta com 3 (três) GPUS A-100 de 80GB e mais de 500GB de memória RAM, permitindo a comparação dos resultados de perguntas antes e depois do fine-tuning e também com outra estrutura de recuperação de respostas, conhecida como RAG (Retrieval Augmented Generation). O objetivo central é ampliar significativamente a capacidade de compreensão e geração de texto do modelo na língua portuguesa.
+
 ## Llama2
-A versão Llama 2 apresenta uma gama de Modelos de Linguagem de Grande Porte (LLMs) pré-treinados e ajustados, variando em finalidade se chat ou instrução, e quantidade de tokens treinadaos sendo de 7, 13 e 70 bilhões de parâmetros. Estes modelos trazem melhorias notáveis em relação à sua versão anterior (Llama 1), das quais se destacam:
+Em julho de 2023, a Meta AI disponibilizou algumas versões do Llama 2, variando se a finalidade da aplicação será para um chat/instrução, e variados tamanhos na quantidade de tokens utilizados para treino sendo de 7, 13 e 70 bilhões de parâmetros. Quanto maior o número de parâmetros, mais o modelo aprende e aumenta sua precisão, proporcionalmente seu pode computacional exigido para a sua reprodução. Em resumo todos modelos do Llama2 trouxeram melhorias notáveis em relação à sua versão anterior (Llama 1), das quais se destacam:
 
 -  Treinamento com 40% mais tokens, o que permite que os modelos aprendam mais informações sobre o mundo.
 -  Uma extensão de contexto mais ampla (com até 4 mil tokens), o que permite que os modelos compreendam melhor conversas mais longas.
@@ -62,22 +39,6 @@ O modelo usa o feedback para melhorar suas respostas futuras. Ao longo do tempo,
 Em testes abrangentes de utilidade e segurança, os modelos Llama 2-Chat superaram muitos modelos abertos e atingiram um desempenho comparável ao ChatGPT 3.5. Este avanço destaca a eficácia do aprendizado com feedback humano para otimizar interações em modelos de linguagem.
 
 Os modelos Llama 2-Chat têm o potencial de melhorar significativamente a qualidade das interações entre humanos e máquinas. Eles podem ser usados em uma variedade de aplicações, incluindo chatbots, assistentes virtuais e sistemas de educação.
-## Testes iniciais
-Foram realizados testes com os modelos Llama2 de tamanhos 7B, 13B e 70B. 
-Os testes foram realizados primeiro em CPU e depois em GPU.
-É necessario baixar o modelo para pasta models.
-
-Os modelos Llama2 foram eficientes e escaláveis em CPU. No entanto, ainda havia espaço para melhorias no desempenho de tarefas de geração de texto.
-1. Execute o seguinte comando no terminal para executar o Llama2 via Cpu:
-   ```
-   python3 chat_cpu.py
-   ```
-O desempenho dos modelos Llama2 foi significativamente melhorado em GPU. As tarefas de geração de texto foram executadas até 10 vezes mais rápido em GPU do que em CPU.
-
-2. Execute o seguinte comando no terminal para executar o Llama2 via Gpu:
-   ```
-   python3 chat_gpu.py
-   ```
 
 ## Fine-tuning
 O ajuste fino de instruções é uma prática frequente empregada para adaptar um LLM básico a um cenário de utilização específico. Os exemplos de treinamento costumam apresentar-se da seguinte maneira:
@@ -137,6 +98,49 @@ Por outro lado, o TRL (Transformador de Aprendizado por Reforço) é uma bibliot
    ```
    python3 chat_fine.py
    ```
+
+## Requisitos do Sistema
+Preferencialmente, Sistema operacional: Ubuntu.  Pacotes: wget, md5sum.  Gerenciador de pacotes: Conda ME
+Você deve ter o Python 3.9 ou posterior instalado. Versões anteriores do Python podem não compilar.
+O Llama2 é opensource, no entanto, ele querer que você aceite os termos e solicite a licença e url pessoais para ter acesso aos modelos.
+
+## Instruções para Replicar
+
+1. Clone este repositorio localmente.
+   ```
+   git clone https://github.com/AertySantos/llamawiki.git
+   cd llamawiki
+   ```
+ 
+2. Crie um ambiente virtual com conda e ative-o. Primeiro, certifique-se de ter o conda instalado. Em seguida, execute o seguinte comando:
+   ```
+   conda create -n llms python=3.11 -y && source activate llms
+   ```
+
+3. Execute o seguinte comando no terminal para instalar os pacotes Python necessários:
+   ```
+   pip install -r requirements.txt
+   ```
+
+
+## Testes iniciais
+Foram realizados testes com os modelos Llama2 de tamanhos 7B, 13B e 70B. 
+Os testes foram realizados primeiro em CPU e depois em GPU.
+É necessario baixar o modelo para pasta models.
+
+Os modelos Llama2 foram eficientes e escaláveis em CPU. No entanto, ainda havia espaço para melhorias no desempenho de tarefas de geração de texto.
+1. Execute o seguinte comando no terminal para executar o Llama2 via Cpu:
+   ```
+   python3 chat_cpu.py
+   ```
+O desempenho dos modelos Llama2 foi significativamente melhorado em GPU. As tarefas de geração de texto foram executadas até 10 vezes mais rápido em GPU do que em CPU.
+
+2. Execute o seguinte comando no terminal para executar o Llama2 via Gpu:
+   ```
+   python3 chat_gpu.py
+   ```
+
+
 
 ## RAG
 Ao considerar a importância da avaliação das respostas geradas pelos Modelos de Linguagem de Aprendizado (LLMs), percebemos que são treinados com milhões de parâmetros, exigindo uma análise criteriosa para garantir a qualidade das conclusões. Nesse contexto, a Geração Aumentada de Recuperação (RAG) surge como uma abordagem que busca melhorar a qualidade das respostas do LLM, incorporando fontes externas de conhecimento. Este repositório explora como a RAG pode aprimorar a representação e a confiabilidade das respostas do LLM, considerando a sua estrutura e a integração de recursos externos durante o processo de geração.
