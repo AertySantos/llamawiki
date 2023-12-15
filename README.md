@@ -20,10 +20,11 @@ Aerty Santos, Eduardo Oliveira.
 - [Referências](#Referências)
 
 ## Descrição
-Este artigo utilizará como base um grande modelo de linguagem GTP (Generative Pre-trained Transformer) disponibilizado pelo grupo Meta AI chamado Llama 2 e buscará investigar o processo de seu refinamento (fine-tuning), utilizando os dados da Wikipedia em Português. A pesquisa foi conduzida utilizando a capacidade computacional do supercomputador Atena, que atualmente conta com 3 (três) GPUS A-100 de 80GB e mais de 500GB de memória RAM, permitindo a comparação dos resultados de perguntas antes e depois do fine-tuning e também com outra estrutura de recuperação de respostas, conhecida como RAG (Retrieval Augmented Generation). O objetivo central é ampliar significativamente a capacidade de compreensão e geração de texto do modelo na língua portuguesa.
+Poucas empresas tem dados e poder computacional necessário para treinar um grande modelo de linguagem, a maioria das empresas que conseguem guardam a sete chaves tais modelos. O simples fato de executar, em uma máquina de nível de consumidor, é impossível dada a exigência de muitos recursos.
+Este artigo utilizará como base um grande modelo de linguagem GTP (Generative Pre-trained Transformer) disponibilizado de forma open-source pelo grupo Meta AI chamado Llama 2 e buscará investigar o processo de seu refinamento (fine-tuning), ou seja, uma personalização, utilizando os dados da Wikipedia em Português. A pesquisa foi conduzida utilizando a capacidade computacional do supercomputador Atena, que atualmente conta com 3 (três) GPUS A-100 de 80GB cada e mais de 500GB de memória RAM. Ao final do experimento será possível a comparação dos resultados de perguntas em três momentos: antes, sem nenhuma adição de informação; após o fine-tuning; e uma última comparação utilizando outra estrutura de recuperação de respostas, conhecida como RAG (Retrieval Augmented Generation). O objetivo central deste artigo é comparar as repostas e investigar a ampliação da capacidade de compreensão do modelo Pré-Treinado avaliando sua capacidade  geração de texto do modelo na língua portuguesa. 
 
 ## Llama2
-Em julho de 2023, a Meta AI disponibilizou algumas versões do Llama 2, variando se a finalidade da aplicação será para um chat/instrução, e variados tamanhos na quantidade de tokens utilizados para treino sendo de 7, 13 e 70 bilhões de parâmetros. Quanto maior o número de parâmetros, mais o modelo aprende e aumenta sua precisão, proporcionalmente seu pode computacional exigido para a sua reprodução. Em resumo todos modelos do Llama2 trouxeram melhorias notáveis em relação à sua versão anterior (Llama 1), das quais se destacam:
+Em julho de 2023, a Meta AI lançou o Llama 2 sendo disponibilizado em algumas versões segundo o seu tamanho e finalidade. Quando dito tamanho é a quantidade de tokens utilizados para o seu treinamento: 7, 13, 34 ou 70 bilhões de parâmetros, respectivamente conhecidos como modelos 7B, 13B, 34B  e 70B. Quanto maior a quantidade de parâmetros de entrada, mais o modelo aprende, podemos traçar uma comparação a uma criança que quanto mais ela vê e tem acesso a informação, mais ela aprende. Frequentemente as empresas utilizam os dados disponibilizados na internet, publicações digitalizadas, dados de usuários.. etc. De tal forma que o modelo 70B foi exposto 10x mais informações que o modelo 7B.  Quanto maior o número de parâmetros, mais o modelo aprende e aumenta sua precisão, no entanto, a exigência do poder computacional para seu treinamento e execução aumentam proporcionalmente, a medida que são expostos a quantidade de dados, o que pode se tornar um impecilho, pensando nisso, a META disponibilizou modelos menores e menos exigentes. Em resumo todos modelos do Llama2 trouxeram melhorias notáveis em relação à sua versão anterior Llama 1 disponibilizado em fevereiro de 2023, das quais se destacam:
 
 -  Treinamento com 40% mais tokens, o que permite que os modelos aprendam mais informações sobre o mundo.
 -  Uma extensão de contexto mais ampla (com até 4 mil tokens), o que permite que os modelos compreendam melhor conversas mais longas.
@@ -32,16 +33,19 @@ Em julho de 2023, a Meta AI disponibilizou algumas versões do Llama 2, variando
 
 ![llama2](https://github.com/AertySantos/llamawiki/blob/master/llama2.png)
 
-No ARFH, os modelos são treinados em um conjunto de dados de diálogos humanos. Em cada interação, o modelo gera uma resposta e recebe um feedback do humano. O feedback pode ser positivo (por exemplo, "Isso foi útil" ou "Isso foi seguro"), negativo (por exemplo, "Isso foi irrelevante" ou "Isso foi ofensivo") ou neutro (por exemplo, "Isso foi ok").
+O destaque é que no ARFH, os modelos são treinados em um conjunto de dados de diálogos humanos. Em cada interação, o modelo gera uma resposta e recebe um feedback do humano. O feedback pode ser positivo (por exemplo, "Isso foi útil" ou "Isso foi seguro"), negativo (por exemplo, "Isso foi irrelevante" ou "Isso foi ofensivo") ou neutro (por exemplo, "Isso foi ok"). O modelo usa o feedback para melhorar suas respostas futuras. Ao longo do tempo, o modelo aprende a gerar respostas que são mais úteis, seguras e relevantes.
 
-O modelo usa o feedback para melhorar suas respostas futuras. Ao longo do tempo, o modelo aprende a gerar respostas que são mais úteis, seguras e relevantes.
+Em testes abrangentes de utilidade e segurança, os modelos Llama 2-Chat superaram muitos modelos abertos e atingiram um desempenho comparável ao ChatGPT 3.5 (privado), mesmo o GPT-3.5 tendo um tamanho de parâmetro de 175B. 
 
-Em testes abrangentes de utilidade e segurança, os modelos Llama 2-Chat superaram muitos modelos abertos e atingiram um desempenho comparável ao ChatGPT 3.5. Este avanço destaca a eficácia do aprendizado com feedback humano para otimizar interações em modelos de linguagem.
-
-Os modelos Llama 2-Chat têm o potencial de melhorar significativamente a qualidade das interações entre humanos e máquinas. Eles podem ser usados em uma variedade de aplicações, incluindo chatbots, assistentes virtuais e sistemas de educação.
+Os modelos Llama 2-Chat têm o potencial de melhorar significativamente a qualidade das interações entre humanos e máquinas. Eles podem ser usados em uma variedade de aplicações, incluindo chatbots, assistentes virtuais e sistemas de educação e se tornará ainda mais efetiva se conseguirmos adicionar conhecimento personalizado e adequados às nossas necessidades e orçamentos, o que nos leva ao cerne deste artigo, utilizando duas técnicas: Finetunnig e RAG.
 
 ## Fine-tuning
-O ajuste fino de instruções é uma prática frequente empregada para adaptar um LLM básico a um cenário de utilização específico. Os exemplos de treinamento costumam apresentar-se da seguinte maneira:
+O ajuste fino no aprendizado de máquina é o processo de ajustar os pesos e parâmetros de um modelo pré-treinado em novos dados para melhorar seu desempenho em uma tarefa específica é uma prática frequentemente empregada para adaptar um LLM básico a um cenário de utilização específico. 
+O potencial de economia de custos, a capacidade de processar dados confidenciais e até mesmo o potencial de desenvolver modelos que excedem o desempenho de modelos como ChatGPT e GPT-4 em determinadas tarefas específicas.
+Embora não se exiga um poder computacional comparável ao necesário para geração do modelo, o ajuste fino pode ser um entrave. A própria META, informa em seu site ser possível ajustar o modelo 13B com uma única GPU de 24 GB de memória.
+O treinamento é baseado em várias instruções, perguntas e respostas.
+
+Os exemplos de treinamento costumam apresentar-se da seguinte maneira:
   
   \#\#\# Instruction:
  Analise a pergunta a seguir e responda de forma sucinta...
@@ -51,6 +55,11 @@ O ajuste fino de instruções é uma prática frequente empregada para adaptar u
   
   \#\#\# Response:
  Brasília
+
+Instructions:
+Input:
+Response:
+
 
   Contudo, ao criar um grupo de dados de treinamento adequado para ser facilmente utilizado com bibliotecas HF (Hugging Face), é aconselhável optar pelo formato JSONL. Uma estratégia direta para realizar essa tarefa é gerar um objeto JSON em cada linha, contendo apenas um campo de texto para cada exemplo. Um exemplo dessa estrutura seria algo similar a:
   
