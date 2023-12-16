@@ -490,3 +490,5 @@ The diversity of cultures in Brazil has had a significant impact on the country'
 [MetaICL: Learning to Learn In Context](https://arxiv.org/pdf/2110.15943.pdf)
 [Enhancing LLM Intelligence with ARM-RAG: Auxiliary Rationale
 Memory for Retrieval Augmented Generation](https://arxiv.org/pdf/2311.04177.pdf)
+[Retrieval-Augmented Generation for
+Knowledge-Intensive NLP Tasks](https://arxiv.org/pdf/2005.11401.pdf)
