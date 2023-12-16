@@ -487,12 +487,10 @@ The diversity of cultures in Brazil has had a significant impact on the country'
 ## Referências
 [Llama 2: Open Foundation and Fine-Tuned Chat Models](https://arxiv.org/pdf/2307.09288.pdf)<br>
 [QLORA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/pdf/2305.14314.pdf)<br>
-[MetaICL: Learning to Learn In Context](https://arxiv.org/pdf/2110.15943.pdf)
+[MetaICL: Learning to Learn In Context](https://arxiv.org/pdf/2110.15943.pdf)<br>
 [Enhancing LLM Intelligence with ARM-RAG: Auxiliary Rationale
-Memory for Retrieval Augmented Generation](https://arxiv.org/pdf/2311.04177.pdf)
-
+Memory for Retrieval Augmented Generation](https://arxiv.org/pdf/2311.04177.pdf)<br>
 [Retrieval-Augmented Generation for
-Knowledge-Intensive NLP Tasks](https://arxiv.org/pdf/2005.11401.pdf)
-
+Knowledge-Intensive NLP Tasks](https://arxiv.org/pdf/2005.11401.pdf)<br>
 [Retrieval-Augmented Generation for
-Knowledge-Intensive NLP Tasks](https://arxiv.org/pdf/2005.11401.pdf)
+Knowledge-Intensive NLP Tasks](https://arxiv.org/pdf/2005.11401.pdf)<br>
