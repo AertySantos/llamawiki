@@ -56,11 +56,6 @@ Os exemplos de treinamento costumam apresentar-se da seguinte maneira:
   \#\#\# Response:
  Brasília
 
-Instructions:
-Input:
-Response:
-
-
   Contudo, ao criar um grupo de dados de treinamento adequado para ser facilmente utilizado com bibliotecas HF (Hugging Face), é aconselhável optar pelo formato JSONL. Uma estratégia direta para realizar essa tarefa é gerar um objeto JSON em cada linha, contendo apenas um campo de texto para cada exemplo. Um exemplo dessa estrutura seria algo similar a:
   
   { "text": "Abaixo está uma instrução ... ### Instruction: Analise a pergunta a ... ### Input: Qual a... ### Response: Brasília" },<br>
