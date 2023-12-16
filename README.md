@@ -216,7 +216,7 @@ Não é possível responder à pergunta com base nas informações fornecidas, p
 O nome do país antes de ser chamado de Brasil era "Ilha de Vera Cruz" ou "Terra de Vera Cruz".
 Fonte: "História do Brasil", de Lilia Moritz Schwarcz.
 
-A Ilha de Vera Cruz foi descoberta em 1500 por Pedro Álvares Cabral, que a batizou em homenagem à Virgem Santa Maria, padroeira de Portugal. A partir de então, o nome foi usado para se referir ao território que hoje é o Brasil.
+  A Ilha de Vera Cruz foi descoberta em 1500 por Pedro Álvares Cabral, que a batizou em homenagem à Virgem Santa Maria, padroeira de Portugal. A partir de então, o nome foi usado para se referir ao território que hoje é o Brasil.
 A partir do século XVII, o nome "Brasil" passou a ser usado com mais frequência, mas o nome "Ilha de Vera Cruz" continuou a ser usado oficialmente até o século XIX.
 
 4 - Quando foi proclamada a independência do Brasil?
