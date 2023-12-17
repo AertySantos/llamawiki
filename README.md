@@ -65,9 +65,9 @@ Para realizar o treinamento, foi criado um dataset com parte dos dados da Wikip�
 
 Para a fase de refinamento, utilizaremos algumas bibliotecas específicas da Hugging Face (HF):
 
-- [transformers](https://huggingface.co/docs/transformers/index)
-- [peft](https://huggingface.co/docs/peft/index)
-- [trl](https://huggingface.co/docs/trl/index)
+- [Transformers](https://huggingface.co/docs/transformers/index)
+- [Peft](https://huggingface.co/docs/peft/index)
+- [Trl](https://huggingface.co/docs/trl/index)
 
 O PEFT é uma ferramenta que permite ajustar Modelos de Linguagem de forma eficaz, sem a necessidade de alterar todos os parâmetros do modelo. Essa abordagem é vantajosa por vários motivos, incluindo:
 
