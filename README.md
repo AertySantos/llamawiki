@@ -125,6 +125,16 @@ O Llama2 é opensource, no entanto, ele querer que você aceite os termos e soli
    ```
    python3 chat_fine.py
    ```
+### Instruções para executar o RAG
+
+1. Para transformar os documentos de texto em embeddings, execute o seguinte comando no terminal:
+   ```
+   python3 conversor.py
+   ```
+2. Para testar o chat do RAG no Llama2-13b, execute o seguinte comando no terminal:
+   ```
+   python3 chat_rag.py
+   ```
 
 ## Testes iniciais
 Foram realizados testes com os modelos Llama2 de tamanhos 7B, 13B e 70B. 
