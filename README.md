@@ -348,7 +348,7 @@ The campaign "O Petróleo é Nosso" was a nationalist movement that aimed to pro
    
    As repercussões da Revolução Constitucionalista de 1932 foram significativas para o Brasil. Apesar de não terem alcançado seu objetivo inicial, a revolução contribuiu para o desgaste do regime varguista e pavimentou o caminho para a Revolução de 1945, que estabeleceu uma ditadura militar no país.
    
-   - Llama2-13b RAG : <br>
+- Llama2-13b RAG : <br>
    A Revolução Constitucionalista de 1932 foi um movimento político-militar que ocorreu no estado de São Paulo, Brasil, em 1932. A revolta foi liderada pela Legião Revolucionária, um grupo de militares e civis que buscavam a reforma política e social do país. A revolução culminou com a assinatura do Pacto da Washington Luiz, que estabeleceu a convocação para a Assembleia Nacional Constituinte em 1934. As repercussões incluíram a repressão governamental contra os líderes da revolta e a consolidação do regime ditatorial de Getúlio Vargas.
 
 - Llama2-13b fine tuning : <br>
