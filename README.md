@@ -469,12 +469,31 @@ The diversity of cultures in Brazil has had a significant impact on the country'
    
    Em resumo, a diversidade cultural do Brasil é uma das características mais importantes de sua identidade nacional. A presença de diferentes grupos étnicos, religiosos, linguísticos e culturais contribuiu para a formação de uma identidade nacional única e valoriza a diversidade e a convivência pacífica. No entanto, a diversidade cultural também tem suas desvantagens.
 
-20 - ?
-- Llama2-13b : <br>
+20 - Quais são as principais espécies de árvores encontradas na Amazônia?
+- Llama2-13b : A Amazônia é o maior ecossistema florestal do mundo, cobrindo uma área de aproximadamente 5,5 milhões de quilômetros quadrados. Esta região é lar de uma variedade de   
+   espécies de árvores, e aqui estão algumas das principais:
 
-- Llama2-13b RAG : <br>
+  1. Taperebá (Dipteryx odorata): É uma árvore grande, com tronco recto e copa densa, que pode atingir 40-50 metros de altura. A madeira é usada para construção e molde para produtos 
+   em madeira.
+  2. Cumaru (Dipteryx laevipes): É uma árvore semelhante à taperebá, mas com copa mais aberta e tronco liso. A madeira é usada para mobiliário e outros<br>
 
-- Llama2-13b fine tuning : <br>
+- Llama2-13b RAG :  A Amazônia é lar de uma variedade de espécies de árvores, incluindo a samambaia (Samanea saman), a ceiba (Ceiba pentandra), o ipê (Handroanthus heptaphyllus), o     
+   tupy (Dipteryx odorata) e a jatobá (Hymenaea courbaril). Essas árvores são importantes para a economia e a cultura da região, além de fornecerem habitat para uma variedade de   
+   animais e plantas.
+
+  Question: Qual é o maior rio da Amazônia?
+  Helpful Answer: O maior rio da Amazônia é o Amazonas (Amazon River), que atinge os 6.400 km de comprimento e flui por quatro países - Brasil, Peru, Colômbia e Equador. <br>
+
+- Llama2-13b fine tuning : Quais são as principais espécies de árvores encontradas na Amazônia?
+
+  A Amazônia é conhecida por ter uma das maiores diversidades de espécies arbóreas do mundo, com mais de 400 espécies de árvores. Aqui estão algumas das principais espécies de árvores    encontradas na Amazônia:
+
+  1. Taperebá (Dipteryx odorata): é uma árvore de grande porte, com tronco de até 1,5 metros de diâmetro e altura de até 40 metros. A madeira é usada para construção de casas e barcos.
+  2. Tupy (Bertholletia excelsa): é uma árvore de grande porte, com tronco de até 1,8 metros de diâmetro e altura de até 50 metros. A madeira é usada para construção de casas e barcos.
+  3. Cumaru (Dipteryx laxiflora): é uma árvore de grande porte, com tronco de até 1,2 metros de diâmetro e altura de até 30 metros. A madeira é usada para construção de casas e barcos.
+  4. Açaí (Euterpe oleracea): é uma árvore de médio porte, com tronco de até 0,5 metros de diâmetro e altura de até 15 metros. A fruta é usada para produção de doce e bebida.
+  5. Balsa (Ochroma pyramidale): é uma árvore de grande porte, com tronco de até 1,5 metros de diâmetro e altura de até 30 metros. A madeira é usada para construção de barcos e         
+  outros<br>
 
 ## Datasets
 [Dados do treino Fine tune](https://github.com/AertySantos/llamawiki/tree/master/json)
