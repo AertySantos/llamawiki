@@ -109,7 +109,7 @@ O Llama2 é opensource, no entanto, ele querer que você aceite os termos e soli
    ```
    pip install -r requirements.txt
    ```
-###Instruções para executar o Fine-tuning
+### Instruções para executar o Fine-tuning
 1. Execute o seguinte comando no terminal para instalar os pacotes Python necessários para o Fine-tuning:
    ```
    !pip install -q -U bitsandbytes
